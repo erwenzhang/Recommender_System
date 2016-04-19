@@ -1,0 +1,2034 @@
+Movie ID,Genre,Name,Year,Director,Cast,imDB rating
+2,Adventure|Children's|Fantasy,Jumanji,1995,Joe Johnston,"Robin Williams, Jonathan Hyde",6.9
+1,Animation|Children's|Comedy,Toy Story,1995,John Lasseter,"Tom Hanks, Tim Allen",8.3
+8,Adventure|Children's,Tom and Huck,1995,Peter Hewitt,"Jonathan Taylor Thomas, Brad Renfro",5.6
+5,Comedy,Father of the Bride Part II,1995,Charles Shyer,"Steve Martin, Diane Keaton",5.9
+7,Comedy|Romance,Sabrina,1995,Sydney Pollack,"Harrison Ford, Julia Ormond",6.2
+3,Comedy|Romance,Grumpier Old Men,1995,Howard Deutch,"Walter Matthau, Jack Lemmon",6.6
+4,Comedy|Drama,Waiting to Exhale,1995,Forest Whitaker,"Whitney Houston, Angela Bassett",5.6
+10,Action|Adventure|Thriller,GoldenEye,1995,Martin Campbell,"Pierce Brosnan, Sean Bean",7.2
+15,Action|Adventure|Romance,Cutthroat Island,1995,Renny Harlin,"Geena Davis, Matthew Modine",5.6
+14,Drama,Nixon,1995,Oliver Stone,"Anthony Hopkins, Joan Allen",7.1
+9,Action,Sudden Death,1995,Peter Hyams,"Jean-Claude Van Damme, Powers Boothe",5.7
+16,Drama|Thriller,Casino,1995,Martin Scorsese,"Robert De Niro, Sharon Stone",8.2
+13,Animation|Children's,Balto,1995,Simon Wells,"Kevin Bacon, Bob Hoskins",7.1
+19,Comedy,Ace Ventura: When Nature Calls,1995,Steve Oedekerk,"Jim Carrey, Ian McNeice",6.3
+18,Thriller,Four Rooms,1995,"Allison Anders,Alexandre Rockwell","Sammi Davis, Amanda De Cadenet",6.7
+20,Action,Money Train,1995,Joseph Ruben,"Wesley Snipes, Woody Harrelson",5.6
+17,Drama|Romance,Sense and Sensibility,1995,Ang Lee,"James Fleet, Tom Wilkinson",7.7
+12,Comedy|Horror,Dracula: Dead and Loving It,1995,Mel Brooks,"Leslie Nielsen, Peter MacNicol",5.8
+22,Crime|Drama|Thriller,Copycat,1995,Jon Amiel,"Sigourney Weaver, Holly Hunter",6.6
+21,Action|Comedy|Drama,Get Shorty,1995,Barry Sonnenfeld,"John Travolta, Gene Hackman",6.9
+24,Drama|Sci-Fi,Powder,1995,Victor Salva,"Mary Steenburgen, Sean Patrick Flanery",6.5
+23,Thriller,Assassins,1995,Richard Donner,"Sylvester Stallone, Antonio Banderas",6.3
+26,Drama,Othello,1995,Oliver Parker,"Laurence Fishburne, Irne Jacob",7
+25,Drama|Romance,Leaving Las Vegas,1995,Mike Figgis,"Nicolas Cage, Elisabeth Shue",7.6
+31,Drama,Dangerous Minds,1995,John N. Smith,"Michelle Pfeiffer, George Dzundza",6.4
+32,Drama|Sci-Fi,Twelve Monkeys,1995,Terry Gilliam,"Joseph Melito, Bruce Willis",8.1
+33,Adventure|Romance,Wings of Courage,1995,Jean-Jacques Annaud,"Craig Sheffer, Tom Hulce",6.6
+34,Children's|Comedy|Drama,Babe,1995,Chris Noonan,"Christine Cavanaugh, Miriam Margolyes",6.8
+36,Drama,Dead Man Walking,1995,Tim Robbins,"Susan Sarandon, Sean Penn",7.6
+38,Comedy,It Takes Two,1995,Andy Tennant,"Kirstie Alley, Steve Guttenberg",5.7
+35,Drama|Romance,Carrington,1995,Christopher Hampton,"Emma Thompson, Jonathan Pryce",6.9
+41,Drama|War,Richard III,1995,Richard Loncraine,"Ian McKellen, Annette Bening",7.5
+39,Comedy|Romance,Clueless,1995,Amy Heckerling,"Alicia Silverstone, Stacey Dash",6.8
+37,Documentary,Across the Sea of Time,1995,Stephen Low,"Peter Reznick, John McDonough",6.6
+42,Action|Crime|Drama,Dead Presidents,1995,"Albert Hughes,Allen Hughes","Larenz Tate, Keith David",6.8
+46,Drama|Romance,How to Make an American Quilt,1995,Jocelyn Moorhouse,"Kaelynn Craddick, Sara Craddick",6.2
+43,Drama,Restoration,1995,Michael Hoffman,"Robert Downey Jr., Sam Neill",6.7
+44,Action|Adventure,Mortal Kombat,1995,Paul W.S. Anderson,"Christopher Lambert, Robin Shou",5.8
+52,Comedy,Mighty Aphrodite,1995,Woody Allen,"Pamela Blair, Rene Ceballos",7.1
+49,Drama|Romance,When Night Is Falling,1995,Patricia Rozema,"Pascale Bussires, Rachael Crawford",6.8
+56,Adventure|Children's|Fantasy,Kids of the Round Table,1995,Robert Tinnell,"Johnny Morina, Maggie Castle",5.1
+57,Drama,Home for the Holidays,1995,Jodie Foster,"Holly Hunter, Robert Downey Jr.",6.6
+62,Drama,Mr. Holland's Opus,1995,Stephen Herek,"Richard Dreyfuss, Glenne Headly",7.3
+63,Comedy,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,1996,Paris Barclay,"Shawn Wayans, Marlon Wayans",6.6
+67,Drama,Two Bits,1995,James Foley,"Jerry Barone, Mary Elizabeth Mastrantonio",6.3
+65,Comedy,Bio-Dome,1996,Jason Bloom,"William Atherton, Denise Dowse",4.4
+68,Comedy|Romance,French Twist,1995,Josiane Balasko,"Victoria Abril, Josiane Balasko",6.4
+70,Action|Comedy|Crime|Horror|Thriller,From Dusk Till Dawn,1996,Robert Rodriguez,"George Clooney, Quentin Tarantino",7.3
+71,Action,Fair Game,1995,Andrew Sipes,"William Baldwin, Cindy Crawford",4.1
+72,Comedy|Drama,Kicking and Screaming,1995,Noah Baumbach,"Josh Hamilton, Samuel Gould",7.1
+74,Drama|Romance,Bed of Roses,1996,Michael Goldenberg,"Christian Slater, Mary Stuart Masterson",6
+76,Sci-Fi|Thriller,Screamers,1995,Christian Duguay,"Peter Weller, Roy Dupuis",6.4
+75,Comedy|Drama,Big Bully,1996,Steve Miner,"Rick Moranis, Tom Arnold",4.5
+77,Documentary,Nico Icon,1995,Susanne Ofteringer,"Nico, Tina Aumont",7.3
+83,Drama,Once Upon a Time... When We Were Colored,1995,Tim Reid,"Al Freeman Jr., Phylicia Rashad",7.2
+82,Drama,Antonia's Line,1995,Marleen Gorris,"Willeke van Ammelrooy, Els Dottermans",7.5
+84,Comedy|Drama,Last Summer in the Hamptons,1995,Henry Jaglom,"Victoria Foyt, Viveca Lindfors",6.1
+86,Adventure|Drama,White Squall,1996,Ridley Scott,"Jeff Bridges, Caroline Goodall",6.6
+85,Drama|Romance,Angels and Insects,1995,Philip Haas,"Mark Rylance, Kristin Scott Thomas",7
+87,Children's|Comedy,Dunston Checks In,1996,Ken Kwapis,"Jason Alexander, Faye Dunaway",5.2
+88,Comedy,Black Sheep,1996,Penelope Spheeris,"Chris Farley, David Spade",6.2
+89,Action|Thriller,Nick of Time,1995,John Badham,"Johnny Depp, Courtney Chase",6.3
+92,Drama|Thriller,Mary Reilly,1996,Stephen Frears,"Julia Roberts, John Malkovich",5.8
+93,Comedy|Romance,Vampire in Brooklyn,1995,Wes Craven,"Eddie Murphy, Angela Bassett",4.5
+95,Action|Thriller,Broken Arrow,1996,John Woo,"John Travolta, Christian Slater",6
+94,Drama,Beautiful Girls,1996,Ted Demme,"Matt Dillon, Noah Emmerich",7.2
+99,Documentary,Heidi Fleiss: Hollywood Madam,1995,Nick Broomfield,"Nick Broomfield, Madam Alex",6.6
+101,Comedy,Bottle Rocket,1996,Wes Anderson,"Luke Wilson, Owen Wilson",7.1
+100,Drama|Thriller,City Hall,1996,Harold Becker,"Al Pacino, John Cusack",6.2
+104,Comedy,Happy Gilmore,1996,Dennis Dugan,"Adam Sandler, Christopher McDonald",7
+102,Comedy,Mr. Wrong,1996,Nick Castle,"Ellen DeGeneres, Bill Pullman",3.7
+106,Comedy|Drama,Nobody Loves Me,1994,Doris Drrie,"Maria Schrader, Pierre Sanoussi-Bliss",7.4
+107,Adventure|Children's|Comedy|Musical,Muppet Treasure Island,1996,Brian Henson,"Tim Curry, Billy Connolly",6.9
+108,Documentary,Catwalk,1995,Robert Leacock,"Christy Turlington, Azzedine Alaa",6.4
+109,Comedy,Headless Body in Topless Bar,1995,James Bruce,"Raymond J. Barry, Rustam Branaman",4.7
+111,Drama|Thriller,Taxi Driver,1976,Martin Scorsese,"Diahnne Abbott, Frank Adu",8.3
+110,Action|Drama|War,Braveheart,1995,Mel Gibson,"James Robinson, Sean Lawlor",8.4
+112,Action|Adventure|Crime,Rumble in the Bronx,1995,Stanley Tong,"Jackie Chan, Anita Mui",6.7
+113,Drama|Mystery,Before and After,1996,Barbet Schroeder,"Meryl Streep, Liam Neeson",6.1
+114,Drama,Margaret's Museum,1995,Mort Ransen,"Helena Bonham Carter, Clive Russell",7.3
+116,Documentary,Anne Frank Remembered,1995,Jon Blair,"Kenneth Branagh, Janny Brandes-Brilslijper",8.2
+115,Comedy,Happiness Is in the Field,1995,tienne Chatiliez,"Michel Serrault, Eddy Mitchell",7
+118,Comedy|Romance,If Lucy Fell,1996,Eric Schaeffer,"Sarah Jessica Parker, Eric Schaeffer",4.9
+120,Drama,Race the Sun,1996,Charles T. Kanganis,"Halle Berry, James Belushi",5.3
+122,Comedy|Romance,Boomerang,1992,Reginald Hudlin,"Eddie Murphy, Robin Givens",5.4
+123,Drama|Mystery|Romance,Chungking Express,1994,Kar-Wai Wong,"Brigitte Lin, Tony Chiu Wai Leung",8.1
+131,Drama|Romance,Frankie Starlight,1995,Michael Lindsay-Hogg,"Corban Walker, Niall Toibin",6.7
+133,Comedy|Drama,Nueba Yol,1995,ngel Muiz,"Luisito Mart, Caridad Ravelo",7
+130,Drama,Angela,1995,Rebecca Miller,"Miranda Rhyne, Charlotte Eve Blythe",6.5
+134,Documentary,Sonic Outlaws,1995,Craig Baldwin,"Lloyd Dunn, Chris Grigg",7.4
+135,Comedy,Down Periscope,1996,David S. Ward,"Kelsey Grammer, Lauren Holly",6
+136,Documentary,From the Journals of Jean Seberg,1995,Mark Rappaport,"Mary Beth Hurt, Jean Seberg",7.2
+143,Drama,Gospa,1995,Jakov Sedlar,"Martin Sheen, Michael York",5.1
+151,Drama|Romance|War,Rob Roy,1995,Michael Caton-Jones,"Liam Neeson, Jessica Lange",6.9
+149,Crime|Drama|Thriller,Amateur,1994,Hal Hartley,"Isabelle Huppert, Martin Donovan",7
+153,Action|Adventure|Comedy|Crime,Batman Forever,1995,Joel Schumacher,"Val Kilmer, Tommy Lee Jones",5.4
+155,Drama|War,Beyond Rangoon,1995,John Boorman,"Patricia Arquette, U Aung Ko",6.6
+158,Adventure|Children's,Casper,1995,Brad Silberling,"Chauncey Leopardi, Spencer Vrooman",6
+156,Comedy,Blue in the Face,1995,"Paul Auster,Wayne Wang","Lou Reed, Michael J. Fox",6.7
+161,Drama|Thriller|War,Crimson Tide,1995,Tony Scott,"Denzel Washington, Gene Hackman",7.3
+159,Drama,Clockers,1995,Spike Lee,"Harvey Keitel, John Turturro",6.9
+163,Action|Romance|Thriller,Desperado,1995,Robert Rodriguez,"Antonio Banderas, Salma Hayek",7.2
+165,Action|Thriller,Die Hard: With a Vengeance,1995,John McTiernan,"Bruce Willis, Jeremy Irons",7.6
+162,Documentary,Crumb,1994,Terry Zwigoff,"Robert Crumb, Aline Kominsky",8
+164,Crime|Film-Noir|Mystery|Thriller,Devil in a Blue Dress,1995,Carl Franklin,"Denzel Washington, Tom Sizemore",6.7
+168,Action|Adventure|Drama|Romance,First Knight,1995,Jerry Zucker,"Sean Connery, Richard Gere",5.9
+170,Action|Crime|Thriller,Hackers,1995,Iain Softley,"Jonny Lee Miller, Angelina Jolie",6.2
+171,Comedy,Jeffrey,1995,Christopher Ashley,"Steven Weber, Peter Jacobson",6.7
+167,Drama,Feast of July,1995,Christopher Menaul,"Embeth Davidtz, Tom Bell",6.4
+173,Action|Adventure|Sci-Fi,Judge Dredd,1995,Danny Cannon,"Sylvester Stallone, Armand Assante",5.4
+172,Action|Sci-Fi|Thriller,Johnny Mnemonic,1995,Robert Longo,"Keanu Reeves, Dina Meyer",5.6
+174,Comedy,Jury Duty,1995,John Fortenberry,"Pauly Shore, Tia Carrere",4
+176,Comedy,Living in Oblivion,1995,Tom DiCillo,"Steve Buscemi, Catherine Keener",7.6
+177,Horror,Lord of Illusions,1995,Clive Barker,"Scott Bakula, Kevin J. O'Connor",6
+181,Action|Children's,Mighty Morphin Power Rangers: The Movie,1995,Bryan Spicer,"Karan Ashley, Johnny Yong Bosch",5
+180,Comedy,Mallrats,1995,Kevin Smith,"Shannen Doherty, Jeremy London",7.2
+182,Drama|Romance,Moonlight and Valentino,1995,David Anspaugh,"Elizabeth Perkins, Whoopi Goldberg",5.8
+184,Drama,Nadja,1994,Michael Almereyda,"Elina Lwensohn, Nic Ratner",6
+186,Comedy,Nine Months,1995,Chris Columbus,"Hugh Grant, Julianne Moore",5.4
+187,Comedy,Party Girl,1995,Daisy von Scherler Mayer,"Parker Posey, Anthony DeSando",6.6
+190,Thriller,Safe,1995,Todd Haynes,"Julianne Moore, Xander Berkeley",7.1
+189,Comedy,Reckless,1995,Norman Ren,"Mia Farrow, Tony Goldwyn",5
+193,Drama,Showgirls,1995,Paul Verhoeven,"Elizabeth Berkley, Kyle MacLachlan",4.6
+195,Comedy|Drama|Romance,Something to Talk About,1995,Lasse Hallstrm,"Julia Roberts, Dennis Quaid",5.7
+194,Drama,Smoke,1995,"Wayne Wang,Paul Auster","Giancarlo Esposito, Jos Ziga",7.4
+196,Horror|Sci-Fi,Species,1995,Roger Donaldson,"Ben Kingsley, Michael Madsen",5.8
+198,Action|Crime|Sci-Fi,Strange Days,1995,Kathryn Bigelow,"Ralph Fiennes, Angela Bassett",7.2
+202,Drama|Romance,Total Eclipse,1995,Agnieszka Holland,"Leonardo DiCaprio, David Thewlis",6.5
+201,Drama,Three Wishes,1995,Martha Coolidge,"Patrick Swayze, Mary Elizabeth Mastrantonio",6.1
+206,Documentary,Unzipped,1995,Douglas Keeve,"Roseanne Barr, Sandra Bernhard",6.4
+208,Action|Adventure,Waterworld,1995,Kevin Reynolds,"Kevin Costner, Chaim Jeraffi",6.1
+205,Comedy|Drama,Unstrung Heroes,1995,Diane Keaton,"Andie MacDowell, John Turturro",6.8
+209,Drama,White Man's Burden,1995,Desmond Nakano,"John Travolta, Harry Belafonte",5.2
+212,Comedy,Bushwhacked,1995,Greg Beeman,"Daniel Stern, Jon Polito",5.4
+216,Comedy,Billy Madison,1995,Tamra Davis,"Adam Sandler, Darren McGavin",6.4
+215,Drama|Romance,Before Sunrise,1995,Richard Linklater,"Ethan Hawke, Julie Delpy",8.1
+214,Drama,Before the Rain,1994,Milcho Manchevski,"Katrin Cartlidge, Rade Serbedzija",8.1
+218,Comedy|Drama,Boys on the Side,1995,Herbert Ross,"Whoopi Goldberg, Mary-Louise Parker",6.4
+222,Drama|Romance,Circle of Friends,1995,Pat O'Connor,"Chris O'Donnell, Minnie Driver",6.6
+220,Horror,Castle Freak,1995,Stuart Gordon,"Jeffrey Combs, Barbara Crampton",5.9
+225,Drama|Thriller,Disclosure,1994,Barry Levinson,"Michael Douglas, Demi Moore",6
+223,Comedy,Clerks,1994,Kevin Smith,"Brian O'Halloran, Jeff Anderson",7.8
+227,Action,Drop Zone,1994,John Badham,"Wesley Snipes, Gary Busey",5.6
+228,Comedy,Destiny Turns on the Radio,1995,Jack Baran,"Dylan McDermott, Nancy Travis",4.5
+229,Drama|Thriller,Death and the Maiden,1994,Roman Polanski,"Sigourney Weaver, Ben Kingsley",7.3
+232,Comedy|Drama,Eat Drink Man Woman,1994,Ang Lee,"Sihung Lung, Yu-Wen Wang",7.8
+231,Comedy,Dumb & Dumber,1994,"Peter Farrelly,Bobby Farrelly","Jim Carrey, Jeff Daniels",7.3
+234,Comedy,Exit to Eden,1994,Garry Marshall,"Dana Delany, Paul Mercurio",4.1
+233,Drama,Exotica,1994,Atom Egoyan,"David Hemblen, Calvin Green",7.2
+236,Comedy|Romance,French Kiss,1995,Lawrence Kasdan,"Meg Ryan, Kevin Kline",6.5
+235,Comedy|Drama,Ed Wood,1994,Tim Burton,"Johnny Depp, Martin Landau",7.9
+237,Comedy|Romance,Forget Paris,1995,Billy Crystal,"Billy Crystal, Debra Winger",6.4
+240,Thriller,Hideaway,1995,Brett Leonard,"Jeff Goldblum, Christine Lahti",5.3
+241,Children's|Drama,Fluke,1995,Carlo Carlei,"Samuel L. Jackson, Matthew Modine",6.7
+243,Comedy,Gordy,1995,Mark Lewis,"Doug Stone, Kristy Young",3.9
+246,Documentary,Hoop Dreams,1994,Steve James,"William Gates, Arthur Agee",8.3
+249,Drama|Romance,Immortal Beloved,1994,Bernard Rose,"Gary Oldman, Jeroen Krabb",7.5
+247,Drama|Fantasy|Romance|Thriller,Heavenly Creatures,1994,Peter Jackson,"Melanie Lynskey, Kate Winslet",7.4
+244,Animation|Children's,Gumby: The Movie,1995,Art Clokey,"Dal McKennon, Art Clokey",6.2
+252,Comedy|Romance,I.Q.,1994,Fred Schepisi,"Tim Robbins, Meg Ryan",6.2
+256,Comedy|Sci-Fi,Junior,1994,Ivan Reitman,"Arnold Schwarzenegger, Danny DeVito",4.5
+257,Mystery|Thriller,Just Cause,1995,Arne Glimcher,"Sean Connery, Laurence Fishburne",6.4
+254,Drama,Jefferson in Paris,1995,James Ivory,"Nick Nolte, Gwyneth Paltrow",5.7
+259,Crime|Drama|Thriller,Kiss of Death,1995,Barbet Schroeder,"David Caruso, Samuel L. Jackson",5.9
+261,Drama,Little Women,1994,Gillian Armstrong,"Winona Ryder, Gabriel Byrne",7.3
+265,Drama|Romance,Like Water for Chocolate,1992,Alfonso Arau,"Marco Leonardi, Lumi Cavazos",7.2
+266,Drama|Romance|War|Western,Legends of the Fall,1994,Edward Zwick,"Brad Pitt, Anthony Hopkins",7.5
+263,Drama,Ladybird Ladybird,1994,Ken Loach,"Crissy Rock, Vladimir Vega",7.5
+268,Drama,Little Odessa,1994,James Gray,"Tim Roth, Edward Furlong",6.8
+271,Drama,Losing Isaiah,1995,Stephen Gyllenhaal,"Jessica Lange, Halle Berry",6.4
+270,Drama|Romance,Love Affair,1994,Glenn Gordon Caron,"Warren Beatty, Annette Bening",5.9
+273,Drama|Horror,Mary Shelley's Frankenstein,1994,Kenneth Branagh,"Robert De Niro, Kenneth Branagh",6.4
+275,Comedy,Mixed Nuts,1994,Nora Ephron,"Steve Martin, Madeline Kahn",5.3
+276,Comedy|Romance,Milk Money,1994,Richard Benjamin,"Melanie Griffith, Ed Harris",5.4
+278,Comedy,Miami Rhapsody,1995,David Frankel,"Sarah Jessica Parker, Gil Bellows",5.3
+279,Drama,My Family,1995,Gregory Nava,"Edward James Olmos, Rafael Cortes",7.3
+281,Drama,Nobody's Fool,1994,Robert Benton,"Paul Newman, Jessica Tandy",7.4
+283,Crime|Drama,New Jersey Drive,1995,Nick Gomez,"Shar-Ron Corley, Gabriel Casseus",6.7
+288,Action|Thriller,Natural Born Killers,1994,Oliver Stone,"Woody Harrelson, Juliette Lewis",7.3
+289,Comedy|Romance,Only You,1994,Norman Jewison,"Marisa Tomei, Robert Downey Jr.",6.5
+290,Crime|Drama,Once Were Warriors,1994,Lee Tamahori,"Rena Owen, Temuera Morrison",8
+287,Comedy|Romance,Nina Takes a Lover,1994,Alan Jacobs,"Laura San Giacomo, Paul Rhys",5.7
+296,Crime|Drama,Pulp Fiction,1994,Quentin Tarantino,"Tim Roth, Amanda Plummer",8.9
+298,Comedy,Pushing Hands,1992,Ang Lee,"Sihung Lung, Lai Wang",7.3
+297,Drama,Panther,1995,Mario Van Peebles,"Kadeem Hardison, Bokeem Woodbine",6.4
+300,Drama,Quiz Show,1994,Robert Redford,"John Turturro, Rob Morrow",7.5
+302,Drama|Romance,Queen Margot,1994,Patrice Chreau,"Isabelle Adjani, Daniel Auteuil",7.5
+299,Drama,Priest,1994,Antonia Bird,"Linus Roache, Tom Wilkinson",7.2
+305,Comedy,Ready to Wear,1994,Robert Altman,"Marcello Mastroianni, Sophia Loren",5
+306,Drama,Three Colors: Red,1994,Krzysztof Kieslowski,"Irne Jacob, Jean-Louis Trintignant",8.1
+307,Drama,Three Colors: Blue,1993,Krzysztof Kieslowski,"Juliette Binoche, Benot Rgent",8
+308,Drama,Three Colors: White,1994,Krzysztof Kieslowski,"Zbigniew Zamachowski, Julie Delpy",7.7
+310,Comedy,Rent-a-Kid,1995,Fred Gerber,"Leslie Nielsen, Christopher Lloyd",5.4
+311,Horror|Thriller,Relative Fear,1994,George Mihalka,"Darlanne Fluegel, Martin Neufeld",5.7
+312,Comedy,Stuart Saves His Family,1995,Harold Ramis,"Al Franken, Laura San Giacomo",5.3
+316,Action|Adventure|Sci-Fi,Stargate,1994,Roland Emmerich,"Kurt Russell, James Spader",7
+319,Thriller,Shallow Grave,1994,Danny Boyle,"Kerry Fox, Christopher Eccleston",7.4
+321,Drama,Strawberry and Chocolate,1993,"Toms Gutirrez Alea,Juan Carlos Tabo","Jorge Perugorra, Vladimir Cruz",7.4
+327,Action|Comedy|Musical|Sci-Fi,Tank Girl,1995,Rachel Talalay,"Lori Petty, Ice-T",5.2
+329,Action|Adventure|Sci-Fi,Star Trek: Generations,1994,David Carson,"Patrick Stewart, Jonathan Frakes",6.6
+330,Comedy|Horror,Tales from the Hood,1995,Rusty Cundieff,"Clarence Williams III, Joe Torry",6.1
+333,Comedy,Tommy Boy,1995,Peter Segal,"Chris Farley, David Spade",7
+332,Horror|Sci-Fi,Village of the Damned,1995,John Carpenter,"Christopher Reeve, Kirstie Alley",5.6
+337,Drama,What's Eating Gilbert Grape,1993,Lasse Hallstrm,"Johnny Depp, Leonardo DiCaprio",7.8
+338,Sci-Fi|Thriller,Virtuosity,1995,Brett Leonard,"Denzel Washington, Kelly Lynch",5.5
+339,Comedy|Romance,While You Were Sleeping,1995,Jon Turteltaub,"Sandra Bullock, Bill Pullman",6.6
+341,Drama,Double Happiness,1994,Mina Shum,"Sandra Oh, Stephen Chang",7.2
+344,Comedy,Ace Ventura: Pet Detective,1994,Tom Shadyac,"Jim Carrey, Courteney Cox",6.9
+342,Comedy|Romance,Muriel's Wedding,1994,P.J. Hogan,"Sophie Lee, Roz Hammond",7.2
+349,Action|Adventure|Thriller,Clear and Present Danger,1994,Phillip Noyce,"Harrison Ford, Willem Dafoe",6.9
+347,Drama,Bitter Moon,1992,Roman Polanski,"Peter Coyote, Emmanuelle Seigner",7.1
+348,Comedy,Bullets Over Broadway,1994,Woody Allen,"John Cusack, Dianne Wiest",7.5
+356,Comedy|Romance|War,Forrest Gump,1994,Robert Zemeckis,"Tom Hanks, Rebecca Williams",8.8
+354,Drama,Cobb,1994,Ron Shelton,"Tommy Lee Jones, Robert Wuhl",6.4
+357,Comedy|Romance,Four Weddings and a Funeral,1994,Mike Newell,"Hugh Grant, James Fleet",7.1
+358,Drama,Higher Learning,1995,John Singleton,"Omar Epps, Kristy Swanson",6.5
+359,Comedy|Drama|Romance,I Like It Like That,1994,Darnell Martin,"Lauren Luna Vlez, Jon Seda",6.7
+360,Action|Comedy,I Love Trouble,1994,Charles Shyer,"Nick Nolte, Julia Roberts",5.2
+361,Drama|Romance,It Could Happen to You,1994,Andrew Bergman,"Nicolas Cage, Bridget Fonda",6.3
+365,Drama,Little Buddha,1993,Bernardo Bertolucci,"Keanu Reeves, Ruocheng Ying",6
+368,Action|Comedy|Western,Maverick,1994,Richard Donner,"Mel Gibson, Jodie Foster",7
+369,Drama,Mrs. Parker and the Vicious Circle,1994,Alan Rudolph,"Jennifer Jason Leigh, Campbell Scott",6.4
+372,Comedy|Drama,Reality Bites,1994,Ben Stiller,"Winona Ryder, Ethan Hawke",6.6
+377,Action|Romance|Thriller,Speed,1994,Jan de Bont,"Keanu Reeves, Dennis Hopper",7.2
+375,Drama,Safe Passage,1994,Robert Allan Ackerman,"Susan Sarandon, Nick Stahl",6.4
+378,Comedy|Romance,Speechless,1994,Ron Underwood,"Michael Keaton, Geena Davis",5.7
+380,Action|Adventure|Comedy|Romance,True Lies,1994,James Cameron,"Arnold Schwarzenegger, Jamie Lee Curtis",7.2
+382,Drama|Horror,Wolf,1994,Mike Nichols,"Jack Nicholson, Michelle Pfeiffer",6.2
+381,Drama,When a Man Loves a Woman,1994,Luis Mandoki,"Andy Garcia, Meg Ryan",6.5
+383,Western,Wyatt Earp,1994,Lawrence Kasdan,"Kevin Costner, Dennis Quaid",6.6
+391,Crime|Drama,Jason's Lyric,1994,Doug McHenry,"Allen Payne, Jada Pinkett Smith",6.6
+393,Action,Street Fighter,1994,Steven E. de Souza,"Jean-Claude Van Damme, Raul Julia",3.8
+394,Action,Coldblooded,1995,Wallace Wolodarsky,"Jason Priestley, Kimberly Williams-Paisley",6.8
+396,Drama,Fall Time,1995,Paul Warner,"Steve Alden, David Arquette",5.5
+398,Documentary,Frank and Ollie,1995,Theodore Thomas,"Frank Thomas, Ollie Johnston",8.1
+401,Action|Thriller,Mirage,1995,Paul Williams,"James Andronica, Cuauhtemoc Rivas",5.1
+399,Drama,Girl in the Cadillac,1995,Lucas Platt,"Erika Eleniak, William McNamara",6
+400,Drama,Homage,1995,Ross Kagan Marks,"Blythe Danner, Frank Whaley",6
+404,Documentary,Brother Minister: The Assassination of Malcolm X,1994,"Jefri Aalmuhammed,Jack Baxter","Peter Bailey, Roscoe Lee Browne",7.2
+406,Drama,Federal Hill,1994,Michael Corrente,"Nicholas Turturro, Anthony DeSando",6.4
+409,Drama,Above the Rim,1994,Jeff Pollack,"Duane Martin, Leon",6.6
+413,Comedy,Airheads,1994,Michael Lehmann,"Brendan Fraser, Steve Buscemi",6
+411,Comedy,You So Crazy,1994,Thomas Schlamme,Martin Lawrence,6.7
+410,Comedy,Addams Family Values,1993,Barry Sonnenfeld,"Anjelica Huston, Raul Julia",6.6
+415,Comedy|Thriller,Another Stakeout,1993,John Badham,"Richard Dreyfuss, Emilio Estevez",5.5
+422,Thriller,Blink,1994,Michael Apted,"Madeleine Stowe, Aidan Quinn",6.2
+421,Adventure|Children's,Black Beauty,1994,Caroline Thompson,"Docs Keepin Time, Alan Cumming",6.6
+420,Action|Comedy,Beverly Hills Cop III,1994,John Landis,"Eddie Murphy, Jon Tenney",5.5
+423,Action|Thriller,Blown Away,1994,Stephen Hopkins,"Jeff Bridges, Tommy Lee Jones",6.2
+425,Drama|Romance,Blue Sky,1994,Tony Richardson,"Jessica Lange, Tommy Lee Jones",6.4
+426,Horror|Sci-Fi|Thriller,Body Snatchers,1993,Abel Ferrara,"Terry Kinney, Meg Tilly",5.9
+424,Drama,Blue Chips,1994,William Friedkin,"Nick Nolte, Mary McDonnell",6.1
+431,Crime|Drama,Carlito's Way,1993,Brian De Palma,"Al Pacino, Sean Penn",7.9
+429,Comedy,Cabin Boy,1994,Adam Resnick,"Chris Elliott, Ritch Brinkley",5
+427,Mystery|Romance|Thriller,Boxing Helena,1993,Jennifer Chambers Lynch,"Julian Sands, Sherilyn Fenn",4.5
+430,Drama,Calendar Girl,1993,John Whitesell,"Jason Priestley, Gabriel Olds",4.9
+432,Comedy|Western,City Slickers II: The Legend of Curly's Gold,1994,Paul Weiland,"Billy Crystal, Daniel Stern",5.4
+434,Action|Adventure|Crime,Cliffhanger,1993,Renny Harlin,"Sylvester Stallone, John Lithgow",6.4
+433,Comedy,Clean Slate,1994,Mick Jackson,"Dana Carvey, Valeria Golino",5.6
+437,Comedy,Cops and Robbersons,1994,Michael Ritchie,"Chevy Chase, Jack Palance",5
+436,Drama|Thriller,Color of Night,1994,Richard Rush,"Bruce Willis, Jane March",5.1
+435,Comedy|Sci-Fi,Coneheads,1993,Steve Barron,"Robert Knott, Jonathan Penner",5.2
+441,Comedy,Dazed and Confused,1993,Richard Linklater,"Jason London, Joey Lauren Adams",7.7
+439,Drama,Dangerous Game,1993,Abel Ferrara,"Harvey Keitel, Madonna",5.7
+442,Action|Sci-Fi,Demolition Man,1993,Marco Brambilla,"Sylvester Stallone, Wesley Snipes",6.6
+444,Comedy|Romance,Even Cowgirls Get the Blues,1993,Gus Van Sant,"Uma Thurman, Lorraine Bracco",4.2
+445,Comedy,Fatal Instinct,1993,Carl Reiner,"Armand Assante, Sherilyn Fenn",5.6
+448,Drama,Fearless,1993,Peter Weir,"Jeff Bridges, Isabella Rossellini",7.2
+446,Drama|Romance,Farewell My Concubine,1993,Chen Kaige,"Leslie Cheung, Fengyi Zhang",8.1
+449,Comedy,Fear of a Black Hat,1993,Rusty Cundieff,"Mark Christopher Lawrence, Larry B. Scott",7.2
+450,Comedy|Drama,With Honors,1994,Alek Keshishian,"Joe Pesci, Brendan Fraser",6.7
+452,Drama,Widows' Peak,1994,John Irvin,"Mia Farrow, Joan Plowright",6.8
+453,Comedy,For Love or Money,1993,Barry Sonnenfeld,"Michael J. Fox, Gabrielle Anwar",6.1
+455,Adventure|Children's|Drama,Free Willy,1993,Simon Wincer,"Jason James Richter, Lori Petty",5.8
+458,Drama|Western,Geronimo: An American Legend,1993,Walter Hill,"Jason Patric, Gene Hackman",6.5
+456,Drama,Fresh,1994,Boaz Yakin,"Sean Nelson, Giancarlo Esposito",7.7
+460,Comedy,Getting Even with Dad,1994,Howard Deutch,"Macaulay Culkin, Ted Danson",4.6
+461,Drama|Romance,Go Fish,1994,Rose Troche,"V.S. Brodie, Guinevere Turner",5.6
+463,Crime|Drama|Thriller,Guilty as Sin,1993,Sidney Lumet,"Rebecca De Mornay, Don Johnson",5.5
+464,Action|Adventure|Crime|Thriller,Hard Target,1993,John Woo,"Chuck Pfarrer, Robert Apisa",6.1
+466,Action|Comedy|War,Hot Shots! Part Deux,1993,Jim Abrahams,"Charlie Sheen, Lloyd Bridges",6.6
+472,Comedy|Drama,I'll Do Anything,1994,James L. Brooks,"Nick Nolte, Whittni Wright",5.6
+473,Comedy|War,In the Army Now,1994,Daniel Petrie Jr.,"Pauly Shore, Andy Dick",4.7
+474,Action|Thriller,In the Line of Fire,1993,Wolfgang Petersen,"Clint Eastwood, John Malkovich",7.2
+475,Drama,In the Name of the Father,1993,Jim Sheridan,"Alison Crosbie, Daniel Day-Lewis",8.1
+478,Comedy,Jimmy Hollywood,1994,Barry Levinson,"Joe Pesci, Christian Slater",5.3
+479,Action,Judgment Night,1993,Stephen Hopkins,"Emilio Estevez, Cuba Gooding Jr.",6.6
+480,Action|Adventure|Sci-Fi,Jurassic Park,1993,Steven Spielberg,"Sam Neill, Laura Dern",8.1
+486,Comedy,Life with Mikey,1993,James Lapine,"Michael J. Fox, Christina Vidal",5.5
+485,Action|Comedy,Last Action Hero,1993,John McTiernan,"Arnold Schwarzenegger, F. Murray Abraham",6.2
+488,Drama,M. Butterfly,1993,David Cronenberg,"Jeremy Irons, John Lone",6.8
+487,Comedy|Western,Lightning Jack,1994,Simon Wincer,"Paul Hogan, Cuba Gooding Jr.",5.4
+493,Action|Crime|Drama,Menace II Society,1993,"Albert Hughes,Allen Hughes","Tyrin Turner, Larenz Tate",7.5
+492,Comedy|Mystery,Manhattan Murder Mystery,1993,Woody Allen,"Woody Allen, Diane Keaton",7.4
+496,Comedy|Drama|Romance,What Happened Was...,1994,Tom Noonan,"Karen Sillas, Tom Noonan",7.1
+494,Action|Thriller,Executive Decision,1996,Stuart Baird,"Kurt Russell, Steven Seagal",6.4
+497,Comedy|Romance,Much Ado About Nothing,1993,Kenneth Branagh,"Richard Briers, Kate Beckinsale",7.4
+501,Drama,Naked,1993,Mike Leigh,"David Thewlis, Lesley Sharp",7.9
+495,Drama,In the Realm of the Senses,1976,Nagisa shima,"Tatsuya Fuji, Eiko Matsuda",6.6
+498,Drama|Romance,Mr. Jones,1993,Mike Figgis,"Richard Gere, Lena Olin",5.7
+500,Comedy,Mrs. Doubtfire,1993,Chris Columbus,"Robin Williams, Sally Field",6.9
+499,Comedy|Romance,Mr. Wonderful,1993,Anthony Minghella,"Matt Dillon, Annabella Sciorra",5.9
+505,Comedy,North,1994,Rob Reiner,"Elijah Wood, Jason Alexander",4.4
+508,Drama,Philadelphia,1993,Jonathan Demme,"Tom Hanks, Denzel Washington",7.7
+510,Drama,Poetic Justice,1993,John Singleton,"Janet Jackson, Tupac Shakur",5.9
+513,Comedy|Mystery|Romance,Radioland Murders,1994,Mel Smith,"Brian Benben, Mary Stuart Masterson",6.2
+516,Comedy|Drama|War,Renaissance Man,1994,Penny Marshall,"Danny DeVito, Gregory Hines",6.1
+520,Comedy,Robin Hood: Men in Tights,1993,Mel Brooks,"Cary Elwes, Richard Lewis",6.7
+517,Action|Drama|Mystery,Rising Sun,1993,Philip Kaufman,"Sean Connery, Wesley Snipes",6.2
+521,Crime|Thriller,Romeo Is Bleeding,1993,Peter Medak,"Gary Oldman, Wallace Wood",6.6
+522,Action|Drama,Romper Stomper,1992,Geoffrey Wright,"Russell Crowe, Daniel Pollock",6.8
+524,Drama,Rudy,1993,David Anspaugh,"Sean Astin, Jon Favreau",7.5
+523,Drama,Ruby in Paradise,1993,Victor Nunez,"Ashley Judd, Todd Field",7.2
+527,Drama|War,Schindler's List,1993,Steven Spielberg,"Liam Neeson, Ben Kingsley",8.9
+529,Drama,Searching for Bobby Fischer,1993,Steven Zaillian,"Max Pomeranc, Joe Mantegna",7.5
+532,Comedy|Crime|Horror,Serial Mom,1994,John Waters,"Kathleen Turner, Sam Waterston",6.7
+530,Drama,Second Best,1994,Chris Menges,"William Hurt, Nathan Yapp",7.2
+534,Drama|Romance,Shadowlands,1993,Richard Attenborough,"Julian Fellowes, Roddy Maude-Roxby",7.4
+535,Drama,Short Cuts,1993,Robert Altman,"Andie MacDowell, Bruce Davison",7.7
+539,Comedy|Romance,Sleepless in Seattle,1993,Nora Ephron,"Tom Hanks, Ross Malinger",6.8
+540,Thriller,Sliver,1993,Phillip Noyce,"Sharon Stone, William Baldwin",4.9
+538,Drama,Six Degrees of Separation,1993,Fred Schepisi,"Stockard Channing, Will Smith",6.9
+542,Comedy,Son in Law,1993,Steve Rash,"Pauly Shore, Carla Gugino",5.6
+541,Film-Noir|Sci-Fi,Blade Runner,1982,Ridley Scott,"Harrison Ford, Rutger Hauer",8.2
+544,Action,Striking Distance,1993,Rowdy Herrington,"Bruce Willis, Sarah Jessica Parker",5.8
+546,Action|Adventure|Children's|Sci-Fi,Super Mario Bros.,1993,"Annabel Jankel,Rocky Morton","Bob Hoskins, John Leguizamo",4
+543,Comedy|Romance|Thriller,So I Married an Axe Murderer,1993,Thomas Schlamme,"Mike Myers, Nancy Travis",6.4
+547,Action|Adventure|Thriller,Surviving the Game,1994,Ernest R. Dickerson,"Ice-T, Rutger Hauer",6.1
+550,Comedy|Romance,Threesome,1994,Andrew Fleming,"Lara Flynn Boyle, Stephen Baldwin",6.2
+553,Western,Tombstone,1993,"George P. Cosmatos,Kevin Jarre","Kurt Russell, Val Kilmer",7.8
+548,Action,Terminal Velocity,1994,Deran Sarafian,"Charlie Sheen, Nastassja Kinski",5.4
+555,Action|Crime|Romance,True Romance,1993,Tony Scott,"Christian Slater, Patricia Arquette",8
+554,Thriller,Trial by Jury,1994,Heywood Gould,"Joanne Whalley, Armand Assante",5.3
+557,Drama,Mamma Roma,1962,Pier Paolo Pasolini,"Anna Magnani, Ettore Garofolo",7.9
+562,Comedy|Drama,Welcome to the Dollhouse,1995,Todd Solondz,"Heather Matarazzo, Victoria Davis",7.5
+563,Drama,Germinal,1993,Claude Berri,"Miou-Miou, Renaud",7.1
+561,Thriller,Killer,1994,Mark Malone,"Anthony LaPaglia, Mimi Rogers",6.1
+564,Comedy,Chasers,1994,Dennis Hopper,"Tom Berenger, William McNamara",4.9
+567,Drama,Kika,1993,Pedro Almodvar,"Vernica Forqu, Peter Coyote",6.5
+568,Comedy|Drama,Bhaji on the Beach,1993,Gurinder Chadha,"Kim Vithana, Jimmi Harkishin",6.5
+569,Children's|Comedy,Little Big League,1994,Andrew Scheinman,"Luke Edwards, Timothy Busfield",6
+574,Comedy|Drama,Spanking the Monkey,1994,David O. Russell,"Jeremy Davies, Elizabeth Newett",6.3
+572,Drama,Foreign Student,1994,Eva Sereny,"Robin Givens, Marco Hofschneider",5.8
+580,Drama,Princess Caraboo,1994,Michael Austin,"Jim Broadbent, Phoebe Cates",6
+584,Drama,I Don't Want to Talk About It,1993,Mara Luisa Bemberg,"Marcello Mastroianni, Luisina Brando",7
+587,Comedy|Romance|Thriller,Ghost,1990,Jerry Zucker,"Patrick Swayze, Demi Moore",7
+590,Adventure|Drama|Western,Dances with Wolves,1990,Kevin Costner,"Kevin Costner, Mary McDonnell",8
+588,Animation|Children's|Comedy|Musical,Aladdin,1992,"Ron Clements,John Musker","Scott Weinger, Robin Williams",8
+591,Action|Drama|Thriller,Tough and Deadly,1995,Steve Cohen,"Billy Blanks, Roddy Piper",5.9
+594,Animation|Children's|Musical,Snow White and the Seven Dwarfs,1937,"William Cottrell,David Hand","Roy Atwell, Stuart Buchanan",7.7
+596,Animation|Children's,Pinocchio,1940,"Norman Ferguson,T. Hee","Mel Blanc, Don Brodie",7.5
+597,Comedy|Romance,Pretty Woman,1990,Garry Marshall,"Richard Gere, Julia Roberts",6.9
+605,Drama|Romance,One Fine Day,1996,Michael Hoffman,"Michelle Pfeiffer, George Clooney",6.4
+608,Crime|Drama|Thriller,Fargo,1996,"Joel Coen,Ethan Coen","William H. Macy, Steve Buscemi",8.2
+606,Horror,Candyman: Farewell to the Flesh,1995,Bill Condon,"Tony Todd, Kelly Rowan",5.2
+611,Action|Horror|Sci-Fi,Hellraiser: Bloodline,1996,Kevin Yagher,"Bruce Ramsay, Valentina Vargas",5
+609,Adventure|Children's,Homeward Bound II: Lost in San Francisco,1996,David R. Ellis,"Michael J. Fox, Sally Field",5.9
+613,Drama|Romance,Jane Eyre,1996,Franco Zeffirelli,"Anna Paquin, Nic Knight",6.8
+618,Comedy|Romance,Two Much,1996,Fernando Trueba,"Antonio Banderas, Melanie Griffith",5.3
+620,Drama,Scream of Stone,1991,Werner Herzog,"Vittorio Mezzogiorno, Stefan Glowacz",6.4
+628,Drama|Thriller,Primal Fear,1996,Gregory Hoblit,"Richard Gere, Laura Linney",7.7
+624,Action|Drama|Thriller,Condition Red,1995,Mika Kaurismki,"James Russo, Cynda Williams",5
+632,War,Land and Freedom,1995,Ken Loach,"Ian Hart, Rosana Pastor",7.6
+630,Drama|Romance,Carried Away,1996,Bruno Barreto,"Dennis Hopper, Amy Irving",6.4
+633,Comedy,Denise Calls Up,1995,Hal Salwen,"Tim Daly, Caroleen Feeney",6.8
+637,Comedy,Sgt. Bilko,1996,Jonathan Lynn,"Steve Martin, Dan Aykroyd",5.7
+636,Drama,Frisk,1995,Todd Verow,"Michael Gunther, Craig Chester",5
+640,Drama|Thriller,Diabolique,1996,Jeremiah S. Chechik,"Sharon Stone, Isabelle Adjani",5.3
+634,Comedy,Theodore Rex,1995,Jonathan R. Betuel,"Whoopi Goldberg, Armin Mueller-Stahl",2.4
+642,Drama,Roula,1995,Martin Enlen,"Anica Dobra, Felicitas Grimm-Luck",6.6
+643,Comedy,Peanuts - Die Bank zahlt alles,1996,Carlo Rola,"Ulrich Mhe, Iris Berben",6
+644,Comedy,Happy Weekend,1996,Ed Herzog,"Erik Goertz, Anton Rattinger",5.4
+647,Drama|War,Courage Under Fire,1996,Edward Zwick,"Denzel Washington, Meg Ryan",6.6
+648,Action|Adventure|Mystery,Mission: Impossible,1996,Brian De Palma,"Tom Cruise, Jon Voight",7.1
+650,Drama,Moll Flanders,1996,Pen Densham,"Robin Wright, Morgan Freeman",6.5
+656,Comedy,Eddie,1996,Steve Rash,"Whoopi Goldberg, Frank Langella",5.1
+658,Drama,Billy's Holiday,1995,Richard Wherrett,"Max Cullen, Kris McQuade",4.7
+659,Crime|Thriller,Purple Noon,1960,Ren Clment,"Alain Delon, Maurice Ronet",7.8
+663,Comedy,Kids in the Hall: Brain Candy,1996,Kelly Makin,"Dave Foley, Bruce McCulloch",6.8
+661,Animation|Children's|Musical,James and the Giant Peach,1996,Henry Selick,"Simon Callow, Richard Dreyfuss",6.7
+664,Comedy,Faithful,1996,Paul Mazursky,"Cher, Chazz Palminteri",5.9
+669,Drama,Aparajito,1956,Satyajit Ray,"Kamala Adhikari, Lalchand Banerjee",8.1
+668,Drama,Pather Panchali,1955,Satyajit Ray,"Kanu Bannerjee, Karuna Bannerjee",8.4
+672,Drama,Tarantella,1995,Helen De Michiel,"Mira Sorvino, Rose Gregorio",5.1
+674,Adventure|Sci-Fi,Barbarella,1968,Roger Vadim,"Jane Fonda, John Phillip Law",5.9
+673,Adventure|Animation|Children's|Comedy|Fantasy,Space Jam,1996,Joe Pytka,"Michael Jordan, Wayne Knight",6.3
+680,Sci-Fi,Alphaville,1965,Jean-Luc Godard,"Eddie Constantine, Anna Karina",7.2
+682,Documentary|Drama,Tigrero: A Film That Was Never Made,1994,Mika Kaurismki,"Samuel Fuller, Jim Jarmusch",6.8
+676,Drama,They Bite,1996,Brett Piper,"Donna Frotscher, Nick Baldasare",5.2
+691,Comedy|Romance,Mrs. Winterbourne,1996,Richard Benjamin,"Shirley MacLaine, Ricki Lake",6.2
+688,Action|Adventure|Comedy|War,Operation Dumbo Drop,1995,Simon Wincer,"Danny Glover, Ray Liotta",4.9
+687,Drama|Romance,Country Life,1994,Michael Blakemore,"Sam Neill, Greta Scacchi",6.9
+697,Drama|Romance,Feeling Minnesota,1996,Steven Baigelman,"Keanu Reeves, Cameron Diaz",5.4
+696,Thriller,Butterfly Kiss,1995,Michael Winterbottom,"Amanda Plummer, Kathy Jamieson",6.4
+699,Drama,To Cross the Rubicon,1991,Barry Caillier,"Patricia Royce, Lorraine Devon Wilke",5.4
+700,Comedy,Angus,1995,Patrick Read Johnson,"Perry Anzilotti, Kathy Bates",6.7
+701,Drama,Daens,1992,Stijn Coninx,"Jan Decleir, Grard Desarthe",7.7
+703,Drama,Boys,1996,Stacy Cochran,"Winona Ryder, Lukas Haas",4.8
+705,Comedy,Cosi,1996,Mark Joffe,"Ben Mendelsohn, Barry Otto",6.8
+707,Crime|Film-Noir|Thriller,Mulholland Falls,1996,Lee Tamahori,"Nick Nolte, Melanie Griffith",6.2
+706,Drama,Sunset Park,1996,Steve Gomer,"Rhea Perlman, Fredro Starr",5.9
+1951,Musical,Oliver!,1968,Carol Reed,"Ron Moody, Shani Wallis",7.5
+710,Comedy,Celtic Pride,1996,Tom DeCerchio,"Damon Wayans, Daniel Stern",5.2
+711,Adventure|Children's,Flipper,1996,Alan Shapiro,"Elijah Wood, Paul Hogan",5.2
+712,Drama,Captives,1994,Angela Pope,"Julia Ormond, Tim Roth",6.4
+713,Drama,Of Love and Shadows,1994,Betty Kaplan,"Antonio Banderas, Jennifer Connelly",5.1
+714,Western,Dead Man,1995,Jim Jarmusch,"Johnny Depp, Gary Farmer",7.7
+716,Crime,Switchblade Sisters,1975,Jack Hill,"Robbie Lee, Joanne Nail",6.7
+719,Comedy,Multiplicity,1996,Harold Ramis,"Michael Keaton, Andie MacDowell",6
+717,Comedy,Mouth to Mouth,1995,Manuel Gmez Pereira,"Javier Bardem, Aitana Snchez-Gijn",6.7
+726,Drama,Last Dance,1996,Bruce Beresford,"Sharon Stone, Rob Morrow",5.8
+728,Comedy,Cold Comfort Farm,1995,John Schlesinger,"Eileen Atkins, Kate Beckinsale",7.4
+731,Mystery|Thriller,Heaven's Prisoners,1996,Phil Joanou,"Alec Baldwin, Kelly Lynch",5.7
+732,Crime,Original Gangstas,1996,"Larry Cohen,Fred Williamson","Fred Williamson, Jim Brown",5.7
+736,Action|Adventure|Romance|Thriller,Twister,1996,Jan de Bont,"Helen Hunt, Bill Paxton",6.3
+737,Action|Sci-Fi,Barb Wire,1996,David Hogan,"Amir Aboulela, Adriana Alexander",3.2
+739,Comedy,Honigmond,1996,Gabriel Barylli,"Veronica Ferres, Anica Dobra",4.2
+741,Animation|Sci-Fi,Ghost in the Shell,1995,Mamoru Oshii,"Atsuko Tanaka, Akio tsuka",8
+742,Horror|Thriller,Thinner,1996,Tom Holland,"Robert John Burke, Lucinda Jenney",5.7
+746,Film-Noir,Force of Evil,1948,Abraham Polonsky,"John Garfield, Thomas Gomez",7.4
+743,Comedy,Spy Hard,1996,Rick Friedberg,"Leslie Nielsen, Nicollette Sheridan",5.2
+744,Drama,Brothers in Trouble,1995,Udayan Prasad,"Om Puri, Pavan Malhotra",6.8
+751,Comedy,Careful,1992,Guy Maddin,"Kyle McCulloch, Gosia Dobrowolska",7.2
+754,Adventure|Children's,Gold Diggers: The Secret of Bear Mountain,1995,Kevin James Dobson,"Christina Ricci, Anna Chlumsky",6
+762,Comedy|Crime,Striptease,1996,Andrew Bergman,"Demi Moore, Burt Reynolds",4.3
+759,Documentary,Maya Lin: A Strong Clear Vision,1994,Freida Lee Mock,Maya Lin,7.5
+766,Drama,I Shot Andy Warhol,1996,Mary Harron,"Lili Taylor, Jared Harris",6.6
+768,Drama,Someone Else's America,1995,Goran Paskaljevic,"Tom Conti, Predrag Manojlovic",7.1
+769,Documentary,Marlene Dietrich: Shadow and Light,1996,Chris Hunt,"Marlene Dietrich, Maria Riva",7.2
+773,Drama,Touki Bouki,1973,Djibril Diop Mambty,"Magaye Niang, Mareme Niang",7.1
+772,Comedy,Quartier Mozart,1992,Jean-Pierre Bekolo,"Pauline Andela, Jimmy Biyona",6.8
+775,Horror,Spirits of the Dead,1968,"Federico Fellini,Louis Malle","Brigitte Bardot, Alain Delon",6.7
+778,Drama,Trainspotting,1996,Danny Boyle,"Ewan McGregor, Ewen Bremner",8.2
+776,Comedy|Drama,Babyfever,1994,"Victoria Foyt,Henry Jaglom","Victoria Foyt, Matt Salinger",5.5
+777,War,Pharaoh's Army,1995,Robby Henson,"Chris Cooper, Patricia Clarkson",7
+779,Drama|Romance,'Til There Was You,1997,Scott Winant,"John Plumpis, Janel Moloney",4.7
+780,Action|Sci-Fi|War,Independence Day,1996,Roland Emmerich,"Will Smith, Bill Pullman",6.9
+774,Drama,Wend Kuuni,1982,Gaston Kabor,"Serge Yanogo, Rosine Yanogo",7.2
+781,Drama,Stealing Beauty,1996,Bernardo Bertolucci,"Carlo Cecchi, Sinad Cusack",6.6
+785,Comedy,Kingpin,1996,"Bobby Farrelly,Peter Farrelly","Woody Harrelson, Randy Quaid",6.9
+786,Action|Thriller,Eraser,1996,Chuck Russell,"Arnold Schwarzenegger, James Caan",6.1
+790,Drama,An Unforgettable Summer,1994,Lucian Pintilie,"Kristin Scott Thomas, Claudiu Bleont",7.5
+794,Comedy|Drama,Midnight Dancers,1994,Mel Chionglo,"Alex Del Rosario, Gandong Cervantes",5.7
+795,Drama,Somebody to Love,1994,Alexandre Rockwell,"Rosie Perez, Harvey Keitel",5.2
+798,Action|Adventure|Thriller,Daylight,1996,Rob Cohen,"Sylvester Stallone, Amy Brenneman",5.8
+800,Drama|Mystery,Lone Star,1996,John Sayles,"Stephen Mendillo, Stephen J. Lang",7.6
+801,Children's|Comedy,Harriet the Spy,1996,Bronwen Hughes,"Michelle Trachtenberg, Gregory Smith",5.9
+803,Romance,Walking and Talking,1996,Nicole Holofcener,"Amy Braverman, Miranda Rhyne",6.8
+804,Comedy|Romance,She's the One,1996,Edward Burns,"John Mahoney, Edward Burns",6.1
+808,Adventure|Children's,Alaska,1996,Fraser Clarke Heston,"Thora Birch, Vincent Kartheiser",5.7
+806,Drama,American Buffalo,1996,Michael Corrente,"Dustin Hoffman, Dennis Franz",5.7
+809,Action|Adventure,Fled,1996,Kevin Hooks,"Laurence Fishburne, Stephen Baldwin",5.3
+810,Children's|Comedy|Fantasy,Kazaam,1996,Paul Michael Glaser,"Shaquille O'Neal, Francis Capra",2.8
+813,Comedy,Larger Than Life,1996,Howard Franklin,"Jerry Adler, Bill Murray",5.5
+812,Drama,Magic Hunter,1994,Ildik Enyedi,"Gary Kemp, Sadie Frost",6.7
+816,Drama,Two Deaths,1995,Nicolas Roeg,"Sonia Braga, Patrick Malahide",6.7
+819,Comedy|Drama,Stefano Quantestorie,1993,Maurizio Nichetti,"Maurizio Nichetti, Elena Sofia Ricci",6.7
+822,Drama,Hedd Wyn,1992,Paul Turner,"Huw Garmon, Catrin Fychan",7.4
+824,Drama,Kaspar Hauser,1993,Peter Sehr,"Andr Eisermann, Udo Samel",7
+831,Drama,Stonewall,1995,Nigel Finch,"Guillermo Daz, Frederick Weller",7.2
+832,Drama|Thriller,Ransom,1996,Ron Howard,"Mel Gibson, Rene Russo",6.6
+833,Comedy,High School High,1996,Hart Bochner,"Jon Lovitz, Tia Carrere",5.4
+829,Comedy|Musical,Joe's Apartment,1996,John Payson,"Jerry O'Connell, Megan Ward",5.4
+835,Drama,Foxfire,1996,Annette Haywood-Carter,"Hedy Burress, Angelina Jolie",6.1
+834,Comedy,Phat Beach,1996,Doug Ellin,"Jermaine 'Huggy' Hopkins, Claudia Kaleem",3.9
+837,Children's|Comedy,Matilda,1996,Danny DeVito,"Mara Wilson, Danny DeVito",6.8
+836,Action|Adventure|Thriller,Chain Reaction,1996,Andrew Davis,"Keanu Reeves, Morgan Freeman",5.6
+840,Comedy,House Arrest,1996,Harry Winer,"Kyle Howard, Herbert Russell",5.7
+843,Drama,Lotto Land,1995,John Rubino,"Lawrence Gilliard Jr., Wendell Holmes",7
+852,Comedy|Romance,Tin Cup,1996,Ron Shelton,"Kevin Costner, Rene Russo",6.3
+849,Action|Adventure|Sci-Fi|Thriller,Escape from L.A.,1996,John Carpenter,"Kurt Russell, Steve Buscemi",5.7
+851,Drama,Basquiat,1996,Julian Schnabel,"Jeffrey Wright, Michael Wincott",6.9
+850,Crime|Drama,Cyclo,1995,Tran Anh Hung,"Le Van Loc, Tony Chiu Wai Leung",7.4
+846,Drama,Flirt,1995,Hal Hartley,"Paul Austin, Robert John Burke",6.3
+856,Comedy,Mille bolle blu,1993,Leone Pompucci,"Carla Benedetti, Matteo Fadda",6.8
+866,Crime|Drama|Romance|Thriller,Bound,1996,"Lana Wachowski,Lilly Wachowski","Jennifer Tilly, Gina Gershon",7.4
+869,Crime,Kansas City,1996,Robert Altman,"Jennifer Jason Leigh, Miranda Richardson",6.3
+874,Crime|Drama,Killer: A Journal of Murder,1995,Tim Metcalfe,"James Woods, Robert Sean Leonard",6.4
+873,Drama,Shadow of Angels,1976,Daniel Schmid,"Ingrid Caven, Rainer Werner Fassbinder",6.9
+877,Drama,Girls Town,1996,Jim McKay,"Lili Taylor, Bruklin Harris",6.2
+884,Drama,Sweet Nothing,1995,Gary Winick,"Michael Imperioli, Mira Sorvino",6
+885,Children's|Drama|Fantasy,Bogus,1996,Norman Jewison,"Whoopi Goldberg, Grard Depardieu",5.3
+886,Action,Bulletproof,1996,Ernest R. Dickerson,"Damon Wayans, Adam Sandler",5.8
+881,Children's|Comedy,First Kid,1996,David M. Evans,"Sinbad, Brock Pierce",5.1
+887,Drama,Talk of Angels,1998,Nick Hamm,"Polly Walker, Vincent Perez",6.1
+890,Thriller,Baton Rouge,1988,Rafael Monlen,"Victoria Abril, Carmen Maura",6.5
+891,Horror|Thriller,Halloween: The Curse of Michael Myers,1995,Joe Chappelle,"Donald Pleasence, Paul Rudd",4.9
+896,Drama,Wild Reeds,1994,Andr Tchin,"lodie Bouchez, Gal Morel",7.6
+893,Drama,Mother Night,1996,Keith Gordon,"Nick Nolte, Sheryl Lee",7.2
+895,Drama,Venice/Venice,1992,Henry Jaglom,"Henry Jaglom, Nelly Alard",6.4
+894,Romance,Liebelei,1933,Max Ophls,"Paul Hrbiger, Magda Schneider",7.7
+899,Musical|Romance,Singin' in the Rain,1952,"Stanley Donen,Gene Kelly","Gene Kelly, Donald O'Connor",8.3
+897,Adventure|War,For Whom the Bell Tolls,1943,Sam Wood,"Gary Cooper, Ingrid Bergman",7
+901,Comedy|Musical,Funny Face,1957,Stanley Donen,"Audrey Hepburn, Fred Astaire",7.1
+904,Mystery|Thriller,Rear Window,1954,Alfred Hitchcock,"James Stewart, Grace Kelly",8.5
+903,Mystery|Thriller,Vertigo,1958,Alfred Hitchcock,"James Stewart, Kim Novak",8.4
+902,Drama|Romance,Breakfast at Tiffany's,1961,Blake Edwards,"Audrey Hepburn, George Peppard",7.8
+905,Comedy,It Happened One Night,1934,Frank Capra,"Clark Gable, Claudette Colbert",8.2
+906,Mystery|Thriller,Gaslight,1944,George Cukor,"Charles Boyer, Ingrid Bergman",7.9
+908,Drama|Thriller,North by Northwest,1959,Alfred Hitchcock,"Cary Grant, Eva Marie Saint",8.4
+910,Comedy|Crime,Some Like It Hot,1959,Billy Wilder,"Marilyn Monroe, Tony Curtis",8.3
+912,Drama|Romance|War,Casablanca,1942,Michael Curtiz,"Humphrey Bogart, Ingrid Bergman",8.6
+915,Comedy|Romance,Sabrina,1954,Billy Wilder,"Humphrey Bogart, Audrey Hepburn",7.7
+914,Musical|Romance,My Fair Lady,1964,George Cukor,"Audrey Hepburn, Rex Harrison",7.9
+916,Comedy|Romance,Roman Holiday,1953,William Wyler,"Gregory Peck, Audrey Hepburn",8.1
+918,Musical,Meet Me in St. Louis,1944,Vincente Minnelli,"Judy Garland, Margaret O'Brien",7.7
+920,Drama|Romance|War,Gone with the Wind,1939,"Victor Fleming,George Cukor","Thomas Mitchell, Barbara O'Neil",8.2
+923,Drama,Citizen Kane,1941,Orson Welles,"Joseph Cotten, Dorothy Comingore",8.4
+921,Comedy,My Favorite Year,1982,Richard Benjamin,"Peter O'Toole, Mark Linn-Baker",7.4
+926,Drama,All About Eve,1950,Joseph L. Mankiewicz,"Bette Davis, Anne Baxter",8.3
+925,Adventure|Romance,Golden Earrings,1947,Mitchell Leisen,"Ray Milland, Marlene Dietrich",6.7
+929,Thriller,Foreign Correspondent,1940,Alfred Hitchcock,"Joel McCrea, Laraine Day",7.6
+931,Mystery|Romance|Thriller,Spellbound,1945,Alfred Hitchcock,"Ingrid Bergman, Gregory Peck",7.6
+930,Film-Noir|Romance|Thriller,Notorious,1946,Alfred Hitchcock,"Cary Grant, Ingrid Bergman",8.1
+933,Comedy|Romance|Thriller,To Catch a Thief,1955,Alfred Hitchcock,"Cary Grant, Grace Kelly",7.5
+936,Comedy|Romance,Ninotchka,1939,Ernst Lubitsch,"Greta Garbo, Melvyn Douglas",8
+937,Comedy|Romance,Love in the Afternoon,1957,Billy Wilder,"Gary Cooper, Audrey Hepburn",7.3
+938,Musical,Gigi,1958,Vincente Minnelli,"Leslie Caron, Maurice Chevalier",6.9
+942,Crime|Film-Noir|Mystery,Laura,1944,Otto Preminger,"Gene Tierney, Dana Andrews",8.1
+945,Comedy|Musical|Romance,Top Hat,1935,Mark Sandrich,"Fred Astaire, Ginger Rogers",7.8
+947,Comedy,My Man Godfrey,1936,Gregory La Cava,"William Powell, Carole Lombard",8.1
+944,Drama,Lost Horizon,1937,Frank Capra,"Ronald Colman, Jane Wyatt",7.8
+948,Drama,Giant,1956,George Stevens,"Elizabeth Taylor, Rock Hudson",7.7
+949,Drama,East of Eden,1955,Elia Kazan,"Julie Harris, James Dean",8
+951,Comedy,His Girl Friday,1940,Howard Hawks,"Cary Grant, Rosalind Russell",8
+953,Drama,It's a Wonderful Life,1946,Frank Capra,"James Stewart, Donna Reed",8.6
+954,Drama,Mr. Smith Goes to Washington,1939,Frank Capra,"Jean Arthur, James Stewart",8.3
+955,Comedy,Bringing Up Baby,1938,Howard Hawks,"Katharine Hepburn, Cary Grant",8
+956,Drama|Romance,Penny Serenade,1941,George Stevens,"Irene Dunne, Cary Grant",7.2
+958,Comedy|Mystery,Lady of Burlesque,1943,William A. Wellman,"Barbara Stanwyck, Michael O'Shea",6.4
+960,Crime|Drama,Angel on My Shoulder,1946,Archie Mayo,"Paul Muni, Anne Baxter",6.9
+959,Drama,Of Human Bondage,1934,John Cromwell,"Leslie Howard, Bette Davis",7.3
+962,Crime|Drama,They Made Me a Criminal,1939,Busby Berkeley,"John Garfield, The 'Dead End' Kids",7.1
+964,Western,Angel and the Badman,1947,James Edward Grant,"John Wayne, Gail Russell",7
+968,Horror|Sci-Fi,Night of the Living Dead,1968,George A. Romero,"Duane Jones, Judith O'Dea",8
+971,Drama,Cat on a Hot Tin Roof,1958,Richard Brooks,"Elizabeth Taylor, Paul Newman",8.1
+973,Drama,Meet John Doe,1941,Frank Capra,"Gary Cooper, Barbara Stanwyck",7.7
+974,Drama|Romance,Algiers,1938,John Cromwell,"Charles Boyer, Sigrid Gurie",6.9
+977,Mystery,Moonlight Murder,1936,Edwin L. Marin,"Chester Morris, Madge Evans",5.9
+982,Drama,Picnic,1955,Joshua Logan,"William Holden, Kim Novak",7.2
+981,Drama,Dangerous Ground,1997,Darrell Roodt,"Thokozani Nkosi, Ron Smerczak",4.5
+983,Romance,Madagascar Skin,1995,Chris Newby,"Bernard Hill, John Hannah",6.4
+987,Drama|Romance,Bliss,1997,Lance Young,"Craig Sheffer, Sheryl Lee",6
+986,Adventure|Children's,Fly Away Home,1996,Carroll Ballard,"Jeff Daniels, Anna Paquin",6.8
+990,Action|Adventure|Thriller,Maximum Risk,1996,Ringo Lam,"Jean-Claude Van Damme, Natasha Henstridge",5.4
+988,Comedy|Drama,Grace of My Heart,1996,Allison Anders,"Illeana Douglas, Sissy Boyd",6.7
+991,Drama|War,Michael Collins,1996,Neil Jordan,"Ian Hart, Julia Roberts",7.1
+998,Action|Crime,Set It Off,1996,F. Gary Gray,"Jada Pinkett Smith, Queen Latifah",6.8
+997,Drama|Thriller,Caught,1996,Robert M. Young,"Edward James Olmos, Maria Conchita Alonso",6.8
+1002,Comedy,Ed's Next Move,1996,John Walsh,"Matt Ross, Catherine Curtin",6.5
+1000,Crime,Curdled,1996,Reb Braddock,"William Baldwin, Angela Jones",5.9
+1003,Drama|Thriller,Extreme Measures,1996,Michael Apted,"Hugh Grant, Gene Hackman",6.1
+1012,Children's|Drama,Old Yeller,1957,Robert Stevenson,"Dorothy McGuire, Fess Parker",7.3
+1009,Adventure|Children's|Fantasy,Escape to Witch Mountain,1975,John Hough,"Eddie Albert, Ray Milland",6.4
+1011,Adventure|Children's|Comedy,Herbie Rides Again,1974,Robert Stevenson,"Helen Hayes, Ken Berry",5.6
+1014,Children's|Comedy|Drama,Pollyanna,1960,David Swift,"Hayley Mills, Jane Wyman",7.3
+1015,Adventure|Children's,Homeward Bound: The Incredible Journey,1993,Duwayne Dunham,"Don Alder, Ed Bernard",6.9
+1017,Adventure|Children's,Swiss Family Robinson,1960,Ken Annakin,"John Mills, Dorothy McGuire",7.2
+1020,Comedy,Cool Runnings,1993,Jon Turteltaub,"Leon, Doug E. Doug",6.9
+1018,Children's|Comedy|Mystery,That Darn Cat!,1965,Robert Stevenson,"Hayley Mills, Dean Jones",6.7
+1021,Children's|Comedy,Angels in the Outfield,1994,William Dear,"Danny Glover, Brenda Fricker",6
+1027,Drama,Robin Hood: Prince of Thieves,1991,Kevin Reynolds,"Kevin Costner, Morgan Freeman",6.9
+1023,Animation|Children's,Winnie the Pooh and the Blustery Day,1968,Wolfgang Reitherman,"Sebastian Cabot, Sterling Holloway",8
+1028,Children's|Comedy|Musical,Mary Poppins,1964,Robert Stevenson,"Julie Andrews, Dick Van Dyke",7.8
+1029,Animation|Children's|Musical,Dumbo,1941,"Samuel Armstrong,Norman Ferguson","James Baskett, Herman Bing",7.3
+1031,Adventure|Children's|Musical,Bedknobs and Broomsticks,1971,Robert Stevenson,"Angela Lansbury, David Tomlinson",7
+1034,Crime,Freeway,1996,Matthew Bright,"Kiefer Sutherland, Reese Witherspoon",6.9
+1039,Documentary,Synthetic Pleasures,1995,Iara Lee,"Scott Bakatman, John Perry Barlow",6.6
+1038,Drama,Unhook the Stars,1996,Nick Cassavetes,"Gena Rowlands, Marisa Tomei",6.7
+1042,Comedy,That Thing You Do!,1996,Tom Hanks,"Tom Everett Scott, Liv Tyler",6.9
+1045,Comedy|Drama,Love Is All There Is,1996,"Joseph Bologna,Rene Taylor","Lainie Kazan, Joseph Bologna",5.1
+1046,Drama|Romance,Beautiful Thing,1996,Hettie Macdonald,"Meera Syal, Martin Walsh",7.7
+1044,Drama,Surviving Picasso,1996,James Ivory,"Anthony Hopkins, Natascha McElhone",6.3
+1050,Documentary|Drama,Looking for Richard,1996,Al Pacino,"Penelope Allen, Gordon MacDonald",7.4
+1053,Crime|Drama,Normal Life,1996,John McNaughton,"Ashley Judd, Luke Perry",6.3
+1055,Thriller,Shadow Conspiracy,1997,George P. Cosmatos,"Charlie Sheen, Donald Sutherland",4.9
+1054,Drama,Get on the Bus,1996,Spike Lee,"Richard Belzer, De'aundre Bonds",6.8
+1060,Comedy|Drama,Swingers,1996,Doug Liman,"Jon Favreau, Vince Vaughn",7.4
+1057,Comedy|Musical|Romance,Everyone Says I Love You,1996,Woody Allen,"Edward Norton, Drew Barrymore",6.8
+1061,Crime|Drama,Sleepers,1996,Barry Levinson,"Kevin Bacon, Billy Crudup",7.5
+1051,Drama,Trees Lounge,1996,Steve Buscemi,"Carol Kane, Mark Boone Junior",7.2
+1064,Animation|Children's|Comedy,Aladdin and the King of Thieves,1996,Tad Stones,"Val Bettin, Jim Cummings",6.4
+1068,Crime|Film-Noir,Crossfire,1947,Edward Dmytryk,"Robert Young, Robert Mitchum",7.4
+1070,Adventure,Macao,1952,"Josef von Sternberg,Nicholas Ray","Robert Mitchum, Jane Russell",6.7
+1077,Comedy|Sci-Fi,Sleeper,1973,Woody Allen,"Woody Allen, Diane Keaton",7.3
+1078,Comedy|War,Bananas,1971,Woody Allen,"Woody Allen, Louise Lasser",7.1
+1084,Crime|Drama,Bonnie and Clyde,1967,Arthur Penn,"Warren Beatty, Faye Dunaway",7.9
+1086,Mystery|Thriller,Dial M for Murder,1954,Alfred Hitchcock,"Ray Milland, Grace Kelly",8.2
+1088,Musical|Romance,Dirty Dancing,1987,Emile Ardolino,"Jennifer Grey, Patrick Swayze",6.9
+1089,Crime|Thriller,Reservoir Dogs,1992,Quentin Tarantino,"Harvey Keitel, Tim Roth",8.4
+1090,Drama|War,Platoon,1986,Oliver Stone,"Tom Berenger, Keith David",8.1
+1092,Mystery|Thriller,Basic Instinct,1992,Paul Verhoeven,"Michael Douglas, Sharon Stone",6.9
+1095,Drama,Glengarry Glen Ross,1992,James Foley,"Al Pacino, Jack Lemmon",7.8
+1091,Comedy,Weekend at Bernie's,1989,Ted Kotcheff,"Andrew McCarthy, Jonathan Silverman",6.3
+1097,Children's|Drama|Fantasy|Sci-Fi,E.T. the Extra-Terrestrial,1982,Steven Spielberg,"Dee Wallace, Henry Thomas",7.9
+1096,Drama,Sophie's Choice,1982,Alan J. Pakula,"Meryl Streep, Kevin Kline",7.7
+1100,Action|Romance,Days of Thunder,1990,Tony Scott,"Tom Cruise, Nicole Kidman",5.9
+1101,Action|Romance,Top Gun,1986,Tony Scott,"Tom Cruise, Kelly McGillis",6.9
+1103,Drama,Rebel Without a Cause,1955,Nicholas Ray,"James Dean, Natalie Wood",7.8
+1102,Action,American Strays,1996,Michael Covert,"Scott Plank, Melora Walters",5.4
+1107,Comedy,Loser,1991,Erik Burke,"Brendan Kelly, John Salemmo",7.7
+1111,Documentary,Microcosmos,1996,"Claude Nuridsany,Marie Prennou","Jacques Perrin, Kristin Scott Thomas",7.9
+1126,Comedy|Fantasy,Drop Dead Fred,1991,Ate de Jong,"Phoebe Cates, Rik Mayall",5.8
+1124,Drama,On Golden Pond,1981,Mark Rydell,"Katharine Hepburn, Henry Fonda",7.7
+1129,Action|Adventure|Sci-Fi|Thriller,Escape from New York,1981,John Carpenter,"Kurt Russell, Lee Van Cleef",7.2
+1132,Drama,Manon of the Spring,1986,Claude Berri,"Yves Montand, Daniel Auteuil",8
+1131,Drama,Jean de Florette,1986,Claude Berri,"Yves Montand, Grard Depardieu",8.1
+1133,Comedy|Drama,Talking About Sex,1994,Aaron Speiser,"Kim Wayans, Daniel Beer",6.1
+1135,Comedy,Private Benjamin,1980,Howard Zieff,"Goldie Hawn, Eileen Brennan",6.1
+1138,Documentary,Dadetown,1995,Russ Hexter,"Jim Pryor, Stephen Beals",7.2
+1137,Romance,Hustler White,1996,"Rick Castro,Bruce La Bruce","Tony Ward, Bruce La Bruce",6
+1140,Drama,Entertaining Angels: The Dorothy Day Story,1996,Michael Ray Rhodes,"Moira Kelly, Martin Sheen",6.4
+1139,Drama,Everything Relative,1996,Sharon Pollack,"Monica Bell, Carol Schneider",6.1
+1141,Drama,Hoogste tijd,1995,Frans Weisz,"Rijk de Gooyer, Josse De Pauw",7.1
+1142,Drama,Get Over It,1996,Nick Katsapetses,"Christian Canterbury, Dave McCrea",7.5
+1143,Comedy,Three Lives and Only One Death,1996,Raoul Ruiz,"Marcello Mastroianni, Anna Galiena",7.2
+1147,Documentary,When We Were Kings,1996,Leon Gast,"Muhammad Ali, George Foreman",8
+1146,Comedy|Drama,Curtis's Charm,1995,John L'Ecuyer,"Maurice Dean Wint, Callum Keith Rennie",5.2
+1145,Documentary,Snowriders,1996,"Kurt Miller,Peter Speek","Paul Miller, Warren Miller",7.7
+1152,Crime|Film-Noir|Thriller,He Walked by Night,1948,"Alfred L. Werker,Anthony Mann","Richard Basehart, Scott Brady",7.2
+1153,Film-Noir,Raw Deal,1948,Anthony Mann,"Dennis O'Keefe, Claire Trevor",7.4
+1159,Romance,Love in Bloom,1935,Elliott Nugent,"George Burns, Gracie Allen",6.1
+1158,Comedy,Here Comes Cookie,1935,Norman Z. McLeod,"George Burns, Gracie Allen",6.3
+1160,Comedy,Six of a Kind,1934,Leo McCarey,"Charles Ruggles, Mary Boland",6.9
+1168,Horror,Bad Moon,1996,Eric Red,"Mariel Hemingway, Michael Par",5.7
+1163,Drama,Mina Tannenbaum,1994,Martine Dugowson,"Romane Bohringer, Elsa Zylberstein",7.4
+1167,Comedy,Dear God,1996,Garry Marshall,"Greg Kinnear, Laurie Metcalf",5.2
+1172,Comedy|Drama|Romance,Cinema Paradiso,1988,Giuseppe Tornatore,"Antonella Attili, Enzo Cannavale",8.5
+1171,Comedy,Bob Roberts,1992,Tim Robbins,"Tim Robbins, Giancarlo Esposito",7
+1175,Comedy|Sci-Fi,Delicatessen,1991,"Marc Caro,Jean-Pierre Jeunet","Pascal Benezech, Dominique Pinon",7.7
+1178,Drama|War,Paths of Glory,1957,Stanley Kubrick,"Kirk Douglas, Ralph Meeker",8.5
+1180,Comedy,Hear My Song,1991,Peter Chelsom,"Brian Flanagan, Constance Cowley",7.3
+1185,Drama,My Left Foot,1989,Jim Sheridan,"Daniel Day-Lewis, Brenda Fricker",7.9
+1184,Comedy|War,Mediterraneo,1991,Gabriele Salvatores,"Diego Abatantuono, Claudio Bigagli",7.4
+1187,Drama,Passion Fish,1992,John Sayles,"Mary McDonnell, Angela Bassett",7.5
+1188,Comedy|Romance,Strictly Ballroom,1992,Baz Luhrmann,"Paul Mercurio, Tara Morice",7.3
+1191,Documentary,Madonna: Truth or Dare,1991,Alek Keshishian,"Madonna, Donna DeLory",6.1
+1192,Documentary,Paris Is Burning,1990,Jennie Livingston,"Andr Christian, Dorian Corey",8.1
+1193,Drama,One Flew Over the Cuckoo's Nest,1975,Milos Forman,"Michael Berryman, Peter Brocco",8.7
+1194,Comedy,Up in Smoke,1978,"Lou Adler,Tommy Chong","Cheech Marin, Tommy Chong",7
+1196,Action|Adventure|Drama|Sci-Fi|War,Star Wars: Episode V - The Empire Strikes Back,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.8
+1199,Sci-Fi,Brazil,1985,Terry Gilliam,"Jonathan Pryce, Robert De Niro",8
+1198,Action|Adventure,Raiders of the Lost Ark,1981,Steven Spielberg,"Harrison Ford, Karen Allen",8.5
+1200,Action|Sci-Fi|Thriller|War,Aliens,1986,James Cameron,"Sigourney Weaver, Carrie Henn",8.4
+1204,Adventure|War,Lawrence of Arabia,1962,David Lean,"Peter O'Toole, Alec Guinness",8.4
+1210,Action|Adventure|Romance|Sci-Fi|War,Star Wars: Episode VI - Return of the Jedi,1983,Richard Marquand,"Mark Hamill, Harrison Ford",8.4
+1208,Drama|War,Apocalypse Now,1979,Francis Ford Coppola,"Marlon Brando, Martin Sheen",8.5
+1207,Drama,To Kill a Mockingbird,1962,Robert Mulligan,"Gregory Peck, John Megna",8.4
+1222,Action|Drama|War,Full Metal Jacket,1987,Stanley Kubrick,"Matthew Modine, Adam Baldwin",8.3
+1225,Drama,Amadeus,1984,Milos Forman,"F. Murray Abraham, Tom Hulce",8.3
+1224,Drama|War,Henry V,1989,Kenneth Branagh,"Derek Jacobi, Kenneth Branagh",7.7
+1227,Crime|Drama|Thriller,Once Upon a Time in America,1984,Sergio Leone,"Robert De Niro, James Woods",8.4
+1228,Drama,Raging Bull,1980,Martin Scorsese,"Robert De Niro, Cathy Moriarty",8.3
+1230,Comedy|Romance,Annie Hall,1977,Woody Allen,"Woody Allen, Diane Keaton",8.1
+1232,Mystery|Sci-Fi,Stalker,1979,Andrei Tarkovsky,"Alisa Freyndlikh, Aleksandr Kaydanovskiy",8.2
+1235,Comedy,Harold and Maude,1971,Hal Ashby,"Ruth Gordon, Bud Cort",8
+1238,Comedy,Local Hero,1983,Bill Forsyth,"Burt Lancaster, Peter Riegert",7.5
+1245,Drama,Miller's Crossing,1990,"Joel Coen,Ethan Coen","Gabriel Byrne, Marcia Gay Harden",7.9
+1246,Drama,Dead Poets Society,1989,Peter Weir,"Robin Williams, Robert Sean Leonard",8
+1248,Crime|Film-Noir|Thriller,Touch of Evil,1958,Orson Welles,"Charlton Heston, Janet Leigh",8.1
+1257,Comedy,Better Off Dead...,1985,Savage Steve Holland,"John Cusack, David Ogden Stiers",7.2
+1256,Comedy|War,Duck Soup,1933,Leo McCarey,"The Marx Brothers, Groucho Marx",8
+1259,Adventure|Comedy|Drama,Stand by Me,1986,Rob Reiner,"Wil Wheaton, River Phoenix",8.1
+1261,Action|Adventure|Comedy|Horror,Evil Dead II,1987,Sam Raimi,"Bruce Campbell, Sarah Berry",7.8
+1264,Action|Drama|Mystery|Romance|Thriller,Diva,1981,Jean-Jacques Beineix,"Wilhelmenia Fernandez, Frdric Andri",7.3
+1266,Western,Unforgiven,1992,Clint Eastwood,"Clint Eastwood, Gene Hackman",8.3
+1265,Comedy|Romance,Groundhog Day,1993,Harold Ramis,"Bill Murray, Andie MacDowell",8.1
+1268,Drama,Pump Up the Volume,1990,Allan Moyle,"Christian Slater, Annie Ross",7.1
+1269,Comedy|Mystery|Thriller,Arsenic and Old Lace,1944,Frank Capra,"Cary Grant, Priscilla Lane",8.1
+1272,Drama|War,Patton,1970,Franklin J. Schaffner,"George C. Scott, Karl Malden",8
+1270,Comedy|Sci-Fi,Back to the Future,1985,Robert Zemeckis,"Michael J. Fox, Christopher Lloyd",8.5
+1271,Drama,Fried Green Tomatoes,1991,Jon Avnet,"Kathy Bates, Mary Stuart Masterson",7.6
+1273,Comedy|Drama,Down by Law,1986,Jim Jarmusch,"Tom Waits, John Lurie",7.8
+1275,Action|Adventure,Highlander,1986,Russell Mulcahy,"Christopher Lambert, Roxanne Hart",7.2
+1276,Comedy|Drama,Cool Hand Luke,1967,Stuart Rosenberg,"Paul Newman, George Kennedy",8.2
+1278,Comedy|Horror,Young Frankenstein,1974,Mel Brooks,"Gene Wilder, Peter Boyle",8
+1274,Adventure|Animation|Sci-Fi|Thriller,Akira,1988,Katsuhiro tomo,"Mitsuo Iwata, Nozomu Sasaki",8.1
+1277,Action|Drama|Romance,Cyrano de Bergerac,1990,Jean-Paul Rappeneau,"Grard Depardieu, Anne Brochet",7.6
+1279,Comedy|Drama,Night on Earth,1991,Jim Jarmusch,"Gena Rowlands, Winona Ryder",7.8
+1280,Drama,Raise the Red Lantern,1991,Yimou Zhang,"Li Gong, Saifei He",8.2
+1283,Western,High Noon,1952,Fred Zinnemann,"Gary Cooper, Thomas Mitchell",8.1
+1282,Animation|Children's|Musical,Fantasia,1940,"Norman Ferguson,James Algar","Leopold Stokowski, Deems Taylor",7.8
+1287,Action|Adventure|Drama,Ben-Hur,1959,William Wyler,"Charlton Heston, Jack Hawkins",8.1
+1286,Drama|Romance,Somewhere in Time,1980,Jeannot Szwarc,"Christopher Reeve, Jane Seymour",7.3
+1288,Comedy|Drama|Musical,This Is Spinal Tap,1984,Rob Reiner,"Rob Reiner, Kimberly Stringer",8
+1290,Drama|Romance,Some Kind of Wonderful,1987,Howard Deutch,"Eric Stoltz, Mary Stuart Masterson",7.1
+1291,Action|Adventure,Indiana Jones and the Last Crusade,1989,Steven Spielberg,"Harrison Ford, Sean Connery",8.3
+1292,Comedy,Being There,1979,Hal Ashby,"Peter Sellers, Shirley MacLaine",8
+1293,Drama,Gandhi,1982,Richard Attenborough,"Ben Kingsley, Candice Bergen",8.1
+1297,Comedy,Real Genius,1985,Martha Coolidge,"Val Kilmer, Gabriel Jarret",7
+1301,Sci-Fi,Forbidden Planet,1956,Fred M. Wilcox,"Walter Pidgeon, Anne Francis",7.7
+1300,Drama,My Life as a Dog,1985,Lasse Hallstrm,"Anton Glanzelius, Tomas von Brmssen",7.7
+1302,Drama,Field of Dreams,1989,Phil Alden Robinson,"Kevin Costner, Amy Madigan",7.6
+1304,Action|Comedy|Western,Butch Cassidy and the Sundance Kid,1969,George Roy Hill,"Paul Newman, Robert Redford",8.1
+1307,Comedy|Romance,When Harry Met Sally...,1989,Rob Reiner,"Billy Crystal, Meg Ryan",7.6
+1306,Drama|Sci-Fi,Until the End of the World,1991,Wim Wenders,"Solveig Dommartin, Pietro Falcone",6.9
+1311,Comedy,Santa with Muscles,1996,John Murlowski,"Hulk Hogan, Don Stark",2.4
+1309,Drama|Romance,Parallel Sons,1995,John G. Young,"Gabriel Mann, Laurence Mason",6.4
+1308,Comedy,I Shot a Man in Vegas,1995,Keoni Waxman,"John Stockwell, Janeane Garofalo",3.9
+1312,Drama,Female Perversions,1996,Susan Streitfeld,"Tilda Swinton, Amy Madigan",5.5
+1313,Crime,Mad Dog Time,1996,Larry Bishop,"Ellen Barkin, Gabriel Byrne",5.5
+1318,Comedy|Drama,Blue Juice,1995,Carl Prechezer,"Sean Pertwee, Catherine Zeta-Jones",5.3
+1317,Comedy,I'm Not Rappaport,1996,Herb Gardner,"Walter Matthau, Ossie Davis",6.6
+1325,Horror,Amityville: A New Generation,1993,John Murlowski,"Ross Partridge, Julia Nickson",3.6
+1326,Horror,Amityville II: The Possession,1982,Damiano Damiani,"James Olson, Burt Young",5.4
+1330,Comedy|Horror,April Fool's Day,1986,Fred Walton,"Jay Baker, Pat Barlow",6.2
+1331,Horror,Audrey Rose,1977,Robert Wise,"Marsha Mason, Anthony Hopkins",5.9
+1336,Horror,Body Parts,1991,Eric Red,"Jeff Fahey, Lindsay Duncan",5.5
+1342,Horror,Candyman,1992,Bernard Rose,"Virginia Madsen, Tony Todd",6.5
+1343,Thriller,Cape Fear,1991,Martin Scorsese,"Robert De Niro, Nick Nolte",7.3
+1340,Horror,Bride of Frankenstein,1935,James Whale,"Boris Karloff, Colin Clive",7.9
+1341,Horror,Burnt Offerings,1976,Dan Curtis,"Karen Black, Oliver Reed",6.5
+1344,Film-Noir|Thriller,Cape Fear,1962,J. Lee Thompson,"Gregory Peck, Robert Mitchum",7.8
+1345,Horror,Carrie,1976,Brian De Palma,"Sissy Spacek, Piper Laurie",7.4
+1346,Horror,Cat People,1982,Paul Schrader,"Nastassja Kinski, Malcolm McDowell",6.1
+1354,Drama,Breaking the Waves,1996,Lars von Trier,"Emily Watson, Stellan Skarsgrd",7.9
+1356,Action|Adventure|Sci-Fi,Star Trek: First Contact,1996,Jonathan Frakes,"Patrick Stewart, Jonathan Frakes",7.6
+1352,Crime|Thriller,Albino Alligator,1996,Kevin Spacey,"Matt Dillon, Faye Dunaway",6.1
+1355,Horror|Thriller,Nightwatch,1997,Ole Bornedal,"Ewan McGregor, Patricia Arquette",6.2
+1359,Adventure|Children's|Comedy,Jingle All the Way,1996,Brian Levant,"Arnold Schwarzenegger, Sinbad",5.4
+1358,Drama|Thriller,Sling Blade,1996,Billy Bob Thornton,"Billy Bob Thornton, Dwight Yoakam",8
+1361,Documentary,Paradise Lost: The Child Murders at Robin Hood Hills,1996,"Joe Berlinger,Bruce Sinofsky","Tony Brooks, Diana Davis",8.4
+1360,Drama,Identification of a Woman,1982,Michelangelo Antonioni,"Tomas Milian, Daniela Silverio",6.8
+1365,Drama,Ridicule,1996,Patrice Leconte,"Charles Berling, Jean Rochefort",7.5
+1371,Action|Adventure|Sci-Fi,Star Trek: The Motion Picture,1979,Robert Wise,"William Shatner, Leonard Nimoy",6.4
+1369,Drama|Thriller,I Can't Sleep,1994,Claire Denis,"Yekaterina Golubeva, Richard Courcet",7
+1373,Action|Adventure|Sci-Fi,Star Trek V: The Final Frontier,1989,William Shatner,"William Shatner, Leonard Nimoy",5.4
+1372,Action|Adventure|Sci-Fi,Star Trek VI: The Undiscovered Country,1991,Nicholas Meyer,"William Shatner, Leonard Nimoy",7.2
+1376,Action|Adventure|Sci-Fi,Star Trek IV: The Voyage Home,1986,Leonard Nimoy,"William Shatner, Leonard Nimoy",7.3
+1377,Action|Adventure|Comedy|Crime,Batman Returns,1992,Tim Burton,"Michael Keaton, Danny DeVito",7
+1379,Action|Comedy|Western,Young Guns II,1990,Geoff Murphy,"Emilio Estevez, Kiefer Sutherland",6.4
+1378,Action|Comedy|Western,Young Guns,1988,Christopher Cain,"Emilio Estevez, Kiefer Sutherland",6.8
+1375,Action|Adventure|Sci-Fi,Star Trek III: The Search for Spock,1984,Leonard Nimoy,"William Shatner, Leonard Nimoy",6.6
+1380,Comedy|Musical|Romance,Grease,1978,Randal Kleiser,"John Travolta, Olivia Newton-John",7.2
+1385,Action,Under Siege,1992,Andrew Davis,"Steven Seagal, Damian Chapa",6.4
+1383,Action|Sci-Fi,Adrenalin: Fear the Rush,1996,Albert Pyun,"Christopher Lambert, Natasha Henstridge",3.9
+1382,Action|Drama,Marked for Death,1990,Dwight H. Little,"Steven Seagal, Basil Wallace",5.9
+1386,Western,Terror in a Texas Town,1958,Joseph H. Lewis,"Sterling Hayden, Sebastian Cabot",6.9
+1390,Comedy,My Fellow Americans,1996,Peter Segal,"Jack Lemmon, James Garner",6.5
+1392,Comedy|Drama,Citizen Ruth,1996,Alexander Payne,"Laura Dern, Swoosie Kurtz",7
+1391,Action|Comedy|Sci-Fi|War,Mars Attacks!,1996,Tim Burton,"Jack Nicholson, Glenn Close",6.3
+1393,Drama|Romance,Jerry Maguire,1996,Cameron Crowe,"Tom Cruise, Cuba Gooding Jr.",7.3
+1394,Comedy,Raising Arizona,1987,"Joel Coen,Ethan Coen","Nicolas Cage, Holly Hunter",7.4
+1396,Crime|Drama|Sci-Fi,Sneakers,1992,Phil Alden Robinson,"Jo Marr, Gary Hershberger",7.1
+1395,Comedy|Drama,Tin Men,1987,Barry Levinson,"Richard Dreyfuss, Danny DeVito",6.5
+1398,Romance|War,In Love and War,1996,Richard Attenborough,"Mackenzie Astin, Chris O'Donnell",6
+1399,Drama,Marvin's Room,1996,Jerry Zaks,"Meryl Streep, Leonardo DiCaprio",6.7
+1397,Drama,Bastard Out of Carolina,1996,Anjelica Huston,"Jennifer Jason Leigh, Ron Eldard",7.4
+1401,Drama,Ghosts of Mississippi,1996,Rob Reiner,"Alec Baldwin, James Woods",6.6
+1407,Horror|Thriller,Scream,1996,Wes Craven,"Drew Barrymore, Roger Jackson",7.2
+1411,Drama,Hamlet,1996,Kenneth Branagh,"Riz Abbasi, Richard Attenborough",7.8
+1416,Drama|Musical,Evita,1996,Alan Parker,"Madonna, Antonio Banderas",6.3
+1414,Comedy,Mother,1996,Albert Brooks,"Paul Collins, Laura Weekes",6.9
+1412,Drama,Some Mother's Son,1996,Terry George,"Helen Mirren, Fionnula Flanagan",7.4
+1419,Drama,Walkabout,1971,Nicolas Roeg,"Jenny Agutter, Luc Roeg",7.7
+1426,Children's,Zeus and Roxanne,1997,George Miller,"Steve Guttenberg, Kathleen Quinlan",5.2
+1425,Comedy,Fierce Creatures,1997,"Fred Schepisi,Robert Young","John Cleese, Jamie Lee Curtis",6.4
+1427,Thriller,Turbulence,1997,Robert Butler,"Ray Liotta, Lauren Holly",4.7
+1431,Action|Comedy,Beverly Hills Ninja,1997,Dennis Dugan,"Chris Farley, Nicollette Sheridan",5.5
+1428,Drama,Angel Baby,1995,Michael Rymer,"John Lynch, Jacqueline McKenzie",7.2
+1439,Comedy,Meet Wally Sparks,1997,Peter Baldwin,"Rodney Dangerfield, Debi Mazar",5.1
+1436,Comedy,Falling in Love Again,1980,Steven Paul,"Elliott Gould, Susannah York",5.3
+1438,Action|Thriller,Dante's Peak,1997,Roger Donaldson,"Pierce Brosnan, Linda Hamilton",5.8
+1442,Drama,Prefontaine,1997,Steve James,"Jared Leto, R. Lee Ermey",6.8
+1446,Comedy,Kolya,1996,Jan Sverk,"Zdenek Sverk, Andrey Khalimon",7.8
+1447,Crime,Gridlock'd,1997,Vondie Curtis-Hall,"Tupac Shakur, Tim Roth",7
+1449,Comedy,Waiting for Guffman,1996,Christopher Guest,"Deborah Theaker, Michael Hitchcock",7.6
+1457,Comedy|Romance,Fools Rush In,1997,Andy Tennant,"Matthew Perry, Salma Hayek",6
+1455,Comedy|Romance,Hotel de Love,1996,Craig Rosenberg,"Aden Young, Saffron Burrows",6.4
+1459,Mystery|Thriller,Absolute Power,1997,Clint Eastwood,"Clint Eastwood, Gene Hackman",6.7
+1461,Comedy,Vegas Vacation,1997,Stephen Kessler,"Chevy Chase, Beverly D'Angelo",5.9
+1463,Comedy|Romance,That Old Feeling,1997,Carl Reiner,"Bette Midler, Dennis Farina",6.1
+1462,Documentary,Unforgotten: Twenty-Five Years After Willowbrook,1996,Jack Fisher,"Danny Aiello, Geraldo Rivera",6.4
+1465,Drama,Rosewood,1997,John Singleton,"Jon Voight, Ving Rhames",7.2
+1464,Mystery,Lost Highway,1997,David Lynch,"Bill Pullman, Patricia Arquette",7.6
+1466,Crime|Drama,Donnie Brasco,1997,Mike Newell,"Al Pacino, Johnny Depp",7.8
+1468,Comedy|Romance,Booty Call,1997,Jeff Pollack,"Jamie Foxx, Tommy Davidson",5.3
+1475,Romance,Kama Sutra: A Tale of Love,1996,Mira Nair,"Indira Varma, Sarita Choudhury",6
+1472,Crime|Thriller,City of Industry,1997,John Irvin,"Harvey Keitel, Stephen Dorff",6.2
+1476,Comedy|Drama,Private Parts,1997,Betty Thomas,"Howard Stern, Robin Quivers",6.8
+1477,Romance,Love Jones,1997,Theodore Witcher,"Larenz Tate, Nia Long",7.4
+1480,Action|Drama|Thriller,Smilla's Sense of Snow,1997,Bille August,"Ona Fletcher, Julia Ormond",6.4
+1485,Comedy,Liar Liar,1997,Tom Shadyac,"Jim Carrey, Maura Tierney",6.8
+1487,Drama|Musical,Selena,1997,Gregory Nava,"Jennifer Lopez, Jackie Guerra",6.7
+1490,Comedy,B*A*P*S,1997,Robert Townsend,"Halle Berry, Martin Landau",4
+1489,Animation|Children's|Musical,Cats Don't Dance,1997,Mark Dindal,"Scott Bakula, Jasmine Guy",6.9
+1493,Romance,Love and Other Catastrophes,1996,Emma-Kate Croghan,"Matt Day, Matthew Dyktynski",6.4
+1495,Action|Adventure|Children's,Turbo: A Power Rangers Movie,1997,"Shuki Levy,David Winning","Jon Simanton, Kai Doi",3.4
+1499,Action|Adventure|Thriller,Anaconda,1997,Luis Llosa,"Jennifer Lopez, Ice Cube",4.6
+1497,Action,Double Team,1997,Hark Tsui,"Jean-Claude Van Damme, Dennis Rodman",4.7
+1498,Drama|Romance,Inventing the Abbotts,1997,Pat O'Connor,"Joaquin Phoenix, Billy Crudup",6.4
+1500,Comedy|Crime,Grosse Pointe Blank,1997,George Armitage,"John Cusack, Minnie Driver",7.4
+1501,Crime,Keys to Tulsa,1997,Leslie Greif,"Eric Stoltz, James Spader",5.2
+1507,Drama|War,Paradise Road,1997,Bruce Beresford,"Glenn Close, Frances McDormand",6.8
+1504,Drama,Hollow Reed,1996,Angela Pope,"Sam Bould, Martin Donovan",7.4
+1508,Drama,Traveller,1997,Jack N. Green,"Bill Paxton, Mark Wahlberg",6.2
+1509,Drama,All Over Me,1997,Alex Sichel,"Alison Folland, Tara Subkoff",6.6
+1511,Comedy,A Chef in Love,1996,Nana Dzhordzhadze,"Pierre Richard, Micheline Presle",6.9
+1513,Comedy,Romy and Michele's High School Reunion,1997,David Mirkin,"Mira Sorvino, Lisa Kudrow",6.1
+1514,Romance,Temptress Moon,1996,Chen Kaige,"Leslie Cheung, Li Gong",6.9
+1517,Comedy,Austin Powers: International Man of Mystery,1997,Jay Roach,"Mike Myers, Elizabeth Hurley",7
+1516,Comedy,Children of the Revolution,1996,Peter Duncan,"Judy Davis, Sam Neill",6.3
+1518,Action|Thriller,Breakdown,1997,Jonathan Mostow,"Kurt Russell, J.T. Walsh",6.9
+1522,Drama,Ripe,1996,Mo Ogrodnik,"Monica Keena, Daisy Eagan",3.8
+1525,Action|Adventure|Children's|Fantasy,Warriors of Virtue,1997,Ronny Yu,"Angus Macfadyen, Mario Yedidia",4.6
+1528,Comedy,Intimate Relations,1996,Philip Goodhew,"Julie Walters, Rupert Graves",6.4
+1529,Drama,Nowhere,1997,Gregg Araki,"James Duval, Rachel True",6.4
+1531,Drama,Losing Chase,1996,Kevin Bacon,"Helen Mirren, Kyra Sedgwick",6.8
+1532,Comedy,Sprung,1997,Rusty Cundieff,"Tisha Campbell-Martin, Rusty Cundieff",4.9
+1535,Drama|Romance,Love! Valour! Compassion!,1997,Joe Mantello,"Jason Alexander, Stephen Spinella",7
+1537,Comedy,Shall We Dance?,1996,Masayuki Suo,"Kji Yakusho, Tamiyo Kusakari",7.8
+1539,Comedy|Crime,Twin Town,1997,Kevin Allen,"Llyr Ifans, Rhys Ifans",6.7
+1542,Comedy|Drama|Romance,Brassed Off,1996,Mark Herman,"Pete Postlethwaite, Tara Fitzgerald",7.1
+1541,Comedy|Romance,Addicted to Love,1997,Griffin Dunne,"Meg Ryan, Matthew Broderick",6.1
+1545,Drama,Ponette,1996,Jacques Doillon,"Victoire Thivisol, Delphine Schiltz",7.6
+1546,Comedy,Schizopolis,1996,Steven Soderbergh,"Scott Allen, Betsy Brantley",7.1
+1549,Drama|Romance,Rough Magic,1995,Clare Peploe,"Bridget Fonda, Russell Crowe",5.5
+1592,Children's|Comedy,Air Bud,1997,Charles Martin Smith,"Michael Jeter, Kevin Zegers",5.1
+1552,Action|Adventure|Thriller,Con Air,1997,Simon West,"Colm Meaney, Mykelti Williamson",6.8
+1550,Comedy|Romance,Trial and Error,1997,Jonathan Lynn,"Michael Richards, Jeff Daniels",5.7
+1558,Comedy,Sudden Manhattan,1996,Adrienne Shelly,"Adrienne Shelly, Tim Guinee",6.5
+1561,Comedy,Wedding Bell Blues,1996,Dana Lustig,"Illeana Douglas, Paulina Porizkova",4.9
+1565,Comedy|Thriller,Head Above Water,1996,Jim Wilson,"Harvey Keitel, Cameron Diaz",6
+1564,Comedy|Romance,Roseanna's Grave,1997,Paul Weiland,"Jean Reno, Mercedes Ruehl",7.2
+1566,Adventure|Animation|Children's|Comedy|Musical,Hercules,1997,"Ron Clements,John Musker","Tate Donovan, Josh Keaton",7.2
+1569,Comedy|Romance,My Best Friend's Wedding,1997,P.J. Hogan,"Julia Roberts, Dermot Mulroney",6.3
+1573,Action|Sci-Fi|Thriller,Face/Off,1997,John Woo,"John Travolta, Nicolas Cage",7.3
+1570,Sci-Fi,Tetsuo II: Body Hammer,1992,Shin'ya Tsukamoto,"Tomorowo Taguchi, Shin'ya Tsukamoto",6.4
+1575,Drama,Gabbeh,1996,Mohsen Makhmalbaf,"Abbas Sayah, Shaghayeh Djodat",7.1
+1579,Drama,For Ever Mozart,1996,Jean-Luc Godard,"Madeleine Assas, Ghalia Lacroix",6.6
+1584,Drama|Sci-Fi,Contact,1997,Robert Zemeckis,"Jena Malone, David Morse",7.4
+1580,Action|Adventure|Comedy|Sci-Fi,Men in Black,1997,Barry Sonnenfeld,"Tommy Lee Jones, Will Smith",7.3
+1582,Adventure|Children's,Wild America,1997,William Dear,"Jonathan Taylor Thomas, Devon Sawa",6.3
+1581,Comedy,Out to Sea,1997,Martha Coolidge,"Jack Lemmon, Walter Matthau",6
+1586,Action|Drama|War,G.I. Jane,1997,Ridley Scott,"Demi Moore, Viggo Mortensen",5.8
+1588,Children's|Comedy,George of the Jungle,1997,Sam Weisman,"Brendan Fraser, Leslie Mann",5.4
+1585,Comedy,Love Serenade,1996,Shirley Barrett,"Miranda Otto, Rebecca Frith",7
+1591,Action|Adventure|Sci-Fi|Thriller,Spawn,1997,Mark A.Z. Dipp,"Michael Jai White, John Leguizamo",5.2
+1589,Crime|Drama|Mystery,Cop Land,1997,James Mangold,"Sylvester Stallone, Harvey Keitel",6.9
+1590,Action|Mystery|Sci-Fi|Thriller,Event Horizon,1997,Paul W.S. Anderson,"Laurence Fishburne, Sam Neill",6.7
+1596,Drama,Career Girls,1997,Mike Leigh,"Katrin Cartlidge, Lynda Steadman",7.2
+1593,Comedy|Romance,Picture Perfect,1997,Glenn Gordon Caron,"Jennifer Aniston, Jay Mohr",5.5
+1594,Drama,In the Company of Men,1997,Neil LaBute,"Aaron Eckhart, Stacy Edwards",7.3
+1597,Action|Mystery|Romance|Thriller,Conspiracy Theory,1997,Richard Donner,"Mel Gibson, Julia Roberts",6.7
+1599,Action,Steel,1997,Kenneth Johnson,"Shaquille O'Neal, Annabeth Gish",2.7
+1600,Drama|Romance,She's So Lovely,1997,Nick Cassavetes,"Sean Penn, James Gandolfini",5.9
+1598,Crime|Drama|Thriller,Desperate Measures,1998,Barbet Schroeder,"Michael Keaton, Andy Garcia",6.1
+1601,Crime|Drama|Film-Noir,Hoodlum,1997,Bill Duke,"Laurence Fishburne, Tim Roth",6.2
+1603,Sci-Fi|Thriller,Mimic,1997,Guillermo del Toro,"Mira Sorvino, Jeremy Northam",5.9
+1604,Action|Comedy,Money Talks,1997,Brett Ratner,"Chris Tucker, Charlie Sheen",6.1
+1608,Action|Thriller,Air Force One,1997,Wolfgang Petersen,"Harrison Ford, Gary Oldman",6.4
+1605,Adventure|Romance,Excess Baggage,1997,Marco Brambilla,"Alicia Silverstone, Benicio Del Toro",5.2
+1606,Action|Adventure,Kull the Conqueror,1997,John Nicolella,"Kevin Sorbo, Tia Carrere",4.8
+1611,Drama,My Own Private Idaho,1991,Gus Van Sant,"River Phoenix, Keanu Reeves",7.1
+1613,Drama,Star Maps,1997,Miguel Arteta,"Douglas Spain, Efrain Figueroa",5.9
+1617,Crime|Film-Noir|Mystery|Thriller,L.A. Confidential,1997,Curtis Hanson,"Kevin Spacey, Russell Crowe",8.3
+1619,Drama|War,Seven Years in Tibet,1997,Jean-Jacques Annaud,"Brad Pitt, David Thewlis",7
+1620,Crime|Drama|Thriller,Kiss the Girls,1997,Gary Fleder,"Morgan Freeman, Ashley Judd",6.6
+1621,Drama,Soul Food,1997,George Tillman Jr.,"Vanessa Williams, Vivica A. Fox",6.9
+1623,Horror,Wishmaster,1997,Robert Kurtzman,"Tammy Lauren, Andrew Divoff",5.7
+1627,Action|Crime|Mystery,U Turn,1997,Oliver Stone,"Sean Penn, Billy Bob Thornton",6.8
+1622,Comedy|Drama,Kicked in the Head,1997,Matthew Harrison,"Kevin Corrigan, Linda Fiorentino",3.7
+1626,Action|Drama|Thriller,Fire Down Below,1997,Flix Enrquez Alcal,"Steven Seagal, Marg Helgenberger",4.9
+1633,Drama,Ulee's Gold,1997,Victor Nunez,"Peter Fonda, Patricia Richardson",7.1
+1639,Drama|Romance,Chasing Amy,1997,Kevin Smith,"Ethan Suplee, Ben Affleck",7.4
+1636,Action|Thriller,Stag,1997,Gavin Wilding,"John Stockwell, Mario Van Peebles",5.6
+1640,Comedy,How to Be a Player,1997,Lionel C. Martin,"Bill Bellamy, Natalie Desselle Reid",5.3
+1644,Horror|Mystery|Thriller,I Know What You Did Last Summer,1997,Jim Gillespie,"Jennifer Love Hewitt, Sarah Michelle Gellar",5.6
+1647,Crime|Thriller,Playing God,1997,Andy Wilson,"David Duchovny, Timothy Hutton",5.6
+1655,Horror,Phantoms,1998,Joe Chappelle,"Peter O'Toole, Rose McGowan",5.4
+1653,Drama|Sci-Fi|Thriller,Gattaca,1997,Andrew Niccol,"Ethan Hawke, Uma Thurman",7.8
+1651,Drama,Telling Lies in America,1997,Guy Ferland,"Kevin Bacon, Brad Renfro",6.3
+1650,Drama,Washington Square,1997,Agnieszka Holland,"Jennifer Jason Leigh, Albert Finney",6.7
+1652,Documentary,Year of the Horse,1997,Jim Jarmusch,"Ralph Molina, Frank 'Pancho' Sampedro",6.6
+1654,Children's|Drama|Fantasy,FairyTale: A True Story,1997,Charles Sturridge,"Harvey Keitel, Jason Salkey",6.5
+1660,Drama,Eve's Bayou,1997,Kasi Lemmons,"Jurnee Smollett-Bell, Meagan Good",7.3
+1661,Thriller,Switchback,1997,Jeb Stuart,"Claudia Stedelin, Ian Nelson",6.4
+1665,Comedy,Bean,1997,Mel Smith,"Rowan Atkinson, Peter MacNicol",6.3
+1667,Action|Drama,Mad City,1997,Costa-Gavras,"John Travolta, Dustin Hoffman",6.2
+1668,Drama,One Night Stand,1997,Mike Figgis,"Wesley Snipes, Nastassja Kinski",5.9
+1666,Romance,Hugo Pool,1997,Robert Downey Sr.,"Alyssa Milano, Mark Boone Junior",5.2
+1675,Crime|Thriller,Incognito,1997,John Badham,"Jason Patric, Irne Jacob",6.6
+1671,Crime,Deceiver,1997,"Jonas Pate,Josh Pate","Tim Roth, Chris Penn",6.7
+1673,Drama,Boogie Nights,1997,Paul Thomas Anderson,"Luis Guzmn, Burt Reynolds",7.9
+1676,Action|Adventure|Sci-Fi|War,Starship Troopers,1997,Paul Verhoeven,"Casper Van Dien, Dina Meyer",7.2
+1677,Comedy,Critical Care,1997,Sidney Lumet,"James Spader, Kyra Sedgwick",6
+1680,Drama|Romance,Sliding Doors,1998,Peter Howitt,"Gwyneth Paltrow, John Hannah",6.8
+1679,Comedy,Chairman of the Board,1998,Alex Zamm,"Scott 'Carrot Top' Thompson, Courtney Thorne-Smith",2.3
+1681,Action|Adventure,Mortal Kombat: Annihilation,1997,John R. Leonetti,"Robin Shou, Talisa Soto",3.7
+1688,Animation|Children's|Musical,Anastasia,1997,"Don Bluth,Gary Goldman","Meg Ryan, John Cusack",7.1
+1686,Crime|Thriller,Red Corner,1997,Jon Avnet,"Richard Gere, Bai Ling",6.2
+1690,Action|Horror|Sci-Fi,Alien: Resurrection,1997,Jean-Pierre Jeunet,"Sigourney Weaver, Winona Ryder",6.3
+1693,Drama,Amistad,1997,Steven Spielberg,"Morgan Freeman, Nigel Hawthorne",7.2
+1695,Drama,Artemisia,1997,Agns Merlet,"Michel Serrault, Valentina Cervi",6.8
+1701,Comedy|Drama,Deconstructing Harry,1997,Woody Allen,"Judy Davis, Julia Louis-Dreyfus",7.4
+1702,Children's|Comedy|Fantasy,Flubber,1997,Les Mayfield,"Robin Williams, Marcia Gay Harden",5.1
+1704,Drama,Good Will Hunting,1997,Gus Van Sant,"Matt Damon, Robin Williams",8.3
+1703,Comedy,For Richer or Poorer,1997,Bryan Spicer,"Tim Allen, Kirstie Alley",5.7
+1709,Thriller,Legal Deceit,1997,Monika Harris,"Lela Rochon, Jeffrey Dean Morgan",3.8
+1708,Drama,Ill Gotten Gains,1997,Joel B. Marsden,"Djimon Hounsou, Akosua Busia",5
+1711,Comedy|Crime|Drama|Mystery,Midnight in the Garden of Good and Evil,1997,Clint Eastwood,"John Cusack, Kevin Spacey",6.6
+1715,Thriller,Office Killer,1997,Cindy Sherman,"Carol Kane, Molly Ringwald",4.9
+1714,Romance,Never Met Picasso,1996,Stephen Kijak,"Alexis Arquette, Georgia Ragsdale",6
+1722,Action|Romance|Thriller,Tomorrow Never Dies,1997,Roger Spottiswoode,"Pierce Brosnan, Jonathan Pryce",6.5
+1724,Drama,Full Speed,1996,Gal Morel,"lodie Bouchez, Stphane Rideau",6.4
+1729,Crime|Drama,Jackie Brown,1997,Quentin Tarantino,"Pam Grier, Samuel L. Jackson",7.5
+1731,Comedy,Mr. Magoo,1997,Stanley Tong,"Leslie Nielsen, Kelly Lynch",3.8
+1730,Drama,Kundun,1997,Martin Scorsese,"Tenzin Thuthob Tsarong, Gyurme Tethong",7
+1733,Drama|Romance,Afterglow,1997,Alan Rudolph,"Nick Nolte, Julie Christie",6.2
+1738,Comedy,Vermin,1998,Frank Chindamo,"Blaine Capatch, Patton Oswalt",2.8
+1742,Crime,Caught Up,1998,Darin Scott,"Bokeem Woodbine, Damon Saleem",5.4
+1744,Action|Adventure|Thriller,Firestorm,1998,Dean Semler,"Howie Long, Scott Glenn",4.6
+1747,Comedy|Drama,Wag the Dog,1997,Barry Levinson,"Dustin Hoffman, Robert De Niro",7.1
+1748,Film-Noir|Sci-Fi|Thriller,Dark City,1998,Alex Proyas,"Rufus Sewell, William Hurt",7.7
+1746,Comedy,Senseless,1998,Penelope Spheeris,"Marlon Wayans, Brad Dourif",6
+1750,Adventure|Children's|Fantasy|Sci-Fi,Star Kid,1997,Manny Coto,"Joseph Mazzello, Richard Gilliland",5.4
+1753,Comedy,Half Baked,1998,Tamra Davis,"Dave Chappelle, Guillermo Daz",6.7
+1754,Action|Mystery|Thriller,Fallen,1998,Gregory Hoblit,"Denzel Washington, John Goodman",7
+1752,Action|Thriller,Hard Rain,1998,Mikael Salomon,"Morgan Freeman, Christian Slater",5.8
+1755,Romance,Shooting Fish,1997,Stefan Schwartz,"Rowena Cooper, Scott Charles",6.6
+1759,Drama,Four Days in September,1997,Bruno Barreto,"Alan Arkin, Fernanda Torres",7.4
+1762,Action|Horror|Sci-Fi,Deep Rising,1998,Stephen Sommers,"Treat Williams, Famke Janssen",6
+1760,Comedy|Musical,Spice World,1997,Bob Spiers,"Melanie Brown, Emma Bunton",3.3
+1758,Drama,Dangerous Beauty,1998,Marshall Herskovitz,"Catherine McCormack, Rufus Sewell",7.3
+1770,Romance|Thriller,B. Monkey,1998,Michael Radford,"Asia Argento, Jared Harris",6
+1773,Action|Drama,Tokyo Fist,1995,Shin'ya Tsukamoto,"Kaori Fujii, Shin'ya Tsukamoto",7.1
+1774,Comedy|Drama,Mass Transit,1998,"Kevin Goetz,Michael Goetz",,7
+1780,Documentary,Ayn Rand: A Sense of Life,1997,Michael Paxton,"Sharon Gless, Michael S. Berliner",6.8
+1783,Film-Noir|Mystery|Thriller,Palmetto,1998,Volker Schlndorff,"Woody Harrelson, Elisabeth Shue",6
+1785,Action|Crime,King of New York,1990,Abel Ferrara,"Christopher Walken, David Caruso",7
+1796,Action|Drama,In God's Hands,1998,Zalman King,"Shane Dorian, Matt George",5.5
+1794,Comedy|Drama,Love and Death on Long Island,1997,Richard Kwietniowski,"John Hurt, Jason Priestley",7.1
+1798,Thriller,Hush,1998,Jonathan Darby,"Jessica Lange, Gwyneth Paltrow",5.2
+1799,Crime|Drama,Suicide Kings,1997,Peter O'Fallon,"Mark Watson, Christopher Walken",7
+1805,Crime|Drama|Mystery|Thriller,Wild Things,1998,John McNaughton,"Kevin Bacon, Matt Dillon",6.5
+1806,Adventure|Children's|Comedy,Paulie,1998,John Roberts,"Gena Rowlands, Tony Shalhoub",6.4
+1812,Children's|Comedy|Drama,Wide Awake,1998,M. Night Shyamalan,"Joseph Cross, Timothy Reifsnyder",6.2
+1810,Drama,Primary Colors,1998,Mike Nichols,"John Travolta, Emma Thompson",6.7
+1816,Comedy|Drama,Two Girls and a Guy,1997,James Toback,"Natasha Gregson Wagner, Heather Graham",5.6
+1817,Comedy|Drama|Romance,No Looking Back,1998,Edward Burns,"Lauren Holly, Kevin Heffernan",5.9
+1826,Adventure|Children's,Barney's Great Adventure,1998,Steve Gomer,"Alan Fawcett, Jane Wheeler",2.8
+1822,Children's|Comedy,Meet the Deedles,1998,Steve Boyum,"Steve Van Wormer, Paul Walker",3.9
+1824,Comedy|Thriller,Homegrown,1998,Stephen Gyllenhaal,"John Lithgow, Jon Tenney",5.8
+1829,Drama|Romance,Chinese Box,1997,Wayne Wang,"Jeremy Irons, Li Gong",6.3
+1833,Action|Drama|Thriller,Mercury Rising,1998,Harold Becker,"Bruce Willis, Alec Baldwin",6.1
+1832,Action|Drama,Heaven's Burning,1997,Craig Lahiff,"Russell Crowe, Yki Kud",5.8
+1835,Romance,City of Angels,1998,Brad Silberling,"Nicolas Cage, Meg Ryan",6.7
+1839,Comedy,My Giant,1998,Michael Lehmann,"Billy Crystal, Kathleen Quinlan",4.9
+1840,Drama,He Got Game,1998,Spike Lee,"Denzel Washington, Ray Allen",6.9
+1843,Children's|Comedy,Slappy and the Stinkers,1998,Barnet Kellman,"BD Wong, Bronson Pinchot",5.1
+1844,Drama,Live Flesh,1997,Pedro Almodvar,"Javier Bardem, Francesca Neri",7.5
+1845,Comedy|Thriller,Zero Effect,1998,Jake Kasdan,"Bill Pullman, Ben Stiller",7
+1842,Crime|Drama,Illtown,1996,Nick Gomez,"Michael Rapaport, Lili Taylor",5.2
+1847,Drama|Thriller,Ratchet,1996,John Johnson,"Tom Gilroy, Margaret Welsh",4.6
+1851,Drama|Romance,Leather Jacket Love Story,1997,David DeCoteau,"Sean Tataryn, Christopher Bradley",6.1
+1855,Comedy,Krippendorf's Tribe,1998,Todd Holland,"Richard Dreyfuss, Jenna Elfman",4.9
+1854,Comedy|Romance,Kissing a Fool,1998,Doug Ellin,"David Schwimmer, Jason Lee",5.6
+1858,Action|Comedy,Mr. Nice Guy,1997,Sammo Kam-Bo Hung,"Jackie Chan, Richard Norton",6.2
+1860,Drama,Character,1997,Mike van Diem,"Jan Decleir, Fedja van Hut",7.8
+1861,Comedy|Thriller,Junk Mail,1997,Pl Sletaune,"Robert Skjrstad, Andrine Sther",6.8
+1862,Horror|Sci-Fi,Species II,1998,Peter Medak,"Michael Madsen, Natasha Henstridge",4.3
+1859,Drama,Taste of Cherry,1997,Abbas Kiarostami,"Homayoun Ershadi, Abdolrahman Bagheri",7.7
+1863,Comedy,Major League: Back to the Minors,1998,John Warren,"Scott Bakula, Corbin Bernsen",4.5
+1864,Comedy,Sour Grapes,1998,Larry David,"Jack Burns, Viola Harris",5.8
+1867,Action|Adventure,Tarzan and the Lost City,1998,Carl Schenkel,"Casper Van Dien, Jane March",3.9
+1869,Action|Thriller,Black Dog,1998,Kevin Hooks,"Patrick Swayze, Meat Loaf",5.3
+1874,Comedy|Romance,Still Breathing,1997,James F. Robinson,"Lou Rawls, Brendan Fraser",7
+1872,Drama,Go Now,1995,Michael Winterbottom,"Robert Carlyle, Juliet Aubrey",7.3
+1876,Action|Drama|Sci-Fi|Thriller,Deep Impact,1998,Mimi Leder,"Robert Duvall, Ta Leoni",6.1
+1875,Comedy,Clockwatchers,1997,Jill Sprecher,"Toni Collette, Parker Posey",6.4
+1877,Drama,Little Men,1998,Rodney Gibbons,"Mariel Hemingway, Michael Caloz",6.4
+1880,Drama,Lawn Dogs,1997,John Duigan,"Mischa Barton, Sam Rockwell",7.7
+1883,Comedy,Bulworth,1998,Warren Beatty,"Kimberly Deauna Adams, Vinny Argiro",6.8
+1881,Adventure|Animation|Children's|Fantasy,Quest for Camelot,1998,Frederik Du Chau,"Jessalyn Gilsig, Andrea Corr",6.2
+1884,Comedy|Drama,Fear and Loathing in Las Vegas,1998,Terry Gilliam,"Johnny Depp, Benicio Del Toro",7.7
+1887,Adventure|Comedy,Almost Heroes,1998,Christopher Guest,"Chris Farley, Matthew Perry",5.8
+1886,Comedy,I Got the Hook Up,1998,Michael Martin,"Master P, Anthony Johnson",3.9
+1888,Comedy|Drama|Romance,Hope Floats,1998,Forest Whitaker,"Sandra Bullock, Harry Connick Jr.",5.9
+1889,Thriller,Insomnia,1997,Erik Skjoldbjrg,"Maria Mathiesen, Stellan Skarsgrd",7.3
+1890,Drama,Little Boy Blue,1997,Antonio Tibaldi,"Ryan Phillippe, Nastassja Kinski",6.5
+1893,Drama,Beyond Silence,1996,Caroline Link,"Sylvie Testud, Tatjana Trieb",7.5
+1894,Adventure|Comedy|Romance,Six Days Seven Nights,1998,Ivan Reitman,"Harrison Ford, Anne Heche",5.7
+1895,Comedy|Drama|Romance,Can't Hardly Wait,1998,"Harry Elfont,Deborah Kaplan","Jennifer Love Hewitt, Ethan Embry",6.5
+1896,Comedy,Cousin Bette,1998,Des McAnuff,"Jessica Lange, Elisabeth Shue",6.2
+1897,Drama|Romance,High Art,1998,Lisa Cholodenko,"Radha Mitchell, Gabriel Mann",6.7
+1902,Drama|Romance,Dream for an Insomniac,1996,Tiffanie DeBartolo,"Ione Skye, Jennifer Aniston",6.2
+1904,Comedy|Drama,Henry Fool,1997,Hal Hartley,"Thomas Jay Ryan, James Urbaniak",7.4
+1907,Animation|Children's,Mulan,1998,"Tony Bancroft,Barry Cook","Ming-Na Wen, Lea Salonga",7.5
+1903,Comedy,Hav Plenty,1997,Christopher Scott Cherot,"Christopher Scott Cherot, Chenoa Maxwell",6.5
+1908,Drama|Thriller,Resurrection Man,1998,Marc Evans,"David Williamson, Stuart Townsend",5.5
+1906,Comedy|Romance,Mr. Jealousy,1997,Noah Baumbach,"Eric Stoltz, Annabella Sciorra",6.5
+2135,Adventure|Musical,Doctor Dolittle,1967,Richard Fleischer,"Rex Harrison, Samantha Eggar",6.2
+1910,Action|Comedy|Crime,I Went Down,1997,Paddy Breathnach,"Peter McDonald, Antoine Byrne",7
+1913,Drama|Mystery,Picnic at Hanging Rock,1975,Peter Weir,"Rachel Roberts, Vivean Gray",7.6
+1912,Action|Crime|Romance,Out of Sight,1998,Steven Soderbergh,"George Clooney, Jennifer Lopez",7.1
+1914,Comedy|Drama,Smoke Signals,1998,Chris Eyre,"Adam Beach, Evan Adams",7.2
+1915,Drama,Voyage to the Beginning of the World,1997,Manoel de Oliveira,"Marcello Mastroianni, Jean-Yves Gautier",7.1
+1920,Animation|Children's|Fantasy|War,Small Soldiers,1998,Joe Dante,"David Cross, Jay Mohr",6.1
+1923,Comedy,There's Something About Mary,1998,"Bobby Farrelly,Peter Farrelly","Cameron Diaz, Matt Dillon",7.1
+1919,Children's|Comedy,Madeline,1998,Daisy von Scherler Mayer,"Frances McDormand, Nigel Hawthorne",5.9
+1927,War,All Quiet on the Western Front,1930,Lewis Milestone,"Louis Wolheim, Lew Ayres",8.1
+1929,Drama,Grand Hotel,1932,Edmund Goulding,"Greta Garbo, John Barrymore",7.6
+1928,Western,Cimarron,1931,Wesley Ruggles,"Richard Dix, Irene Dunne",6
+1935,Drama,How Green Was My Valley,1941,John Ford,"Walter Pidgeon, Maureen O'Hara",7.8
+1934,Comedy,You Can't Take It With You,1938,Frank Capra,"Jean Arthur, Lionel Barrymore",8
+1937,Comedy,Going My Way,1944,Leo McCarey,"Bing Crosby, Barry Fitzgerald",7.2
+1936,Drama|War,Mrs. Miniver,1942,William Wyler,"Greer Garson, Walter Pidgeon",7.6
+1940,Drama,Gentleman's Agreement,1947,Elia Kazan,"Gregory Peck, Dorothy McGuire",7.4
+1941,Drama,Hamlet,1948,Laurence Olivier,"John Laurie, Esmond Knight",7.8
+1945,Crime|Drama,On the Waterfront,1954,Elia Kazan,"Marlon Brando, Karl Malden",8.3
+1944,Drama|Romance|War,From Here to Eternity,1953,Fred Zinnemann,"Burt Lancaster, Montgomery Clift",7.8
+1946,Drama|Romance,Marty,1955,Delbert Mann,"Esther Minciotti, Augusta Ciolli",7.7
+1947,Musical|Romance,West Side Story,1961,"Jerome Robbins,Robert Wise","Natalie Wood, Richard Beymer",7.6
+1948,Comedy,Tom Jones,1963,Tony Richardson,"George Devine, Rachel Kempson",6.8
+1950,Drama|Mystery,In the Heat of the Night,1967,Norman Jewison,"Sidney Poitier, Rod Steiger",8
+1952,Drama,Midnight Cowboy,1969,John Schlesinger,"Dustin Hoffman, Jon Voight",7.9
+1954,Action|Drama,Rocky,1976,John G. Avildsen,"Sylvester Stallone, Talia Shire",8.1
+1956,Drama,Ordinary People,1980,Robert Redford,"Donald Sutherland, Mary Tyler Moore",7.8
+1957,Drama,Chariots of Fire,1981,Hugh Hudson,"Nicholas Farrell, Nigel Havers",7.3
+1958,Comedy|Drama,Terms of Endearment,1983,James L. Brooks,"Shirley MacLaine, Debra Winger",7.4
+1959,Drama|Romance,Out of Africa,1985,Sydney Pollack,"Meryl Streep, Robert Redford",7.2
+1961,Drama,Rain Man,1988,Barry Levinson,"Dustin Hoffman, Tom Cruise",8
+1962,Drama,Driving Miss Daisy,1989,Bruce Beresford,"Morgan Freeman, Jessica Tandy",7.4
+1965,Comedy|Sci-Fi,Repo Man,1984,Alex Cox,"Harry Dean Stanton, Emilio Estevez",6.9
+1966,Comedy,Metropolitan,1990,Whit Stillman,"Carolyn Farina, Edward Clements",7.5
+1964,Drama|Mystery,Klute,1971,Alan J. Pakula,"Jane Fonda, Donald Sutherland",7.2
+1963,Comedy,Take the Money and Run,1969,Woody Allen,"Woody Allen, Janet Margolin",7.3
+1973,Horror,Freddy's Dead: The Final Nightmare,1991,Rachel Talalay,"Robert Englund, Lisa Zane",4.9
+1987,Horror,Prom Night,1980,Paul Lynch,"Leslie Nielsen, Jamie Lee Curtis",5.4
+1991,Horror,Child's Play,1988,Tom Holland,"Catherine Hicks, Chris Sarandon",6.5
+1995,Horror|Thriller,Poltergeist II: The Other Side,1986,Brian Gibson,"JoBeth Williams, Craig T. Nelson",5.7
+1996,Horror|Thriller,Poltergeist III,1988,Gary Sherman,"Tom Skerritt, Nancy Allen",4.5
+1998,Horror,Exorcist II: The Heretic,1977,John Boorman,"Linda Blair, Richard Burton",3.7
+2000,Action|Comedy|Crime|Drama,Lethal Weapon,1987,Richard Donner,"Mel Gibson, Danny Glover",7.6
+2003,Comedy|Horror,Gremlins,1984,Joe Dante,"Hoyt Axton, John Louie",7.2
+2011,Comedy|Sci-Fi,Back to the Future Part II,1989,Robert Zemeckis,"Michael J. Fox, Christopher Lloyd",7.8
+2009,Sci-Fi|Thriller,Soylent Green,1973,Richard Fleischer,"Charlton Heston, Leigh Taylor-Young",7.1
+2007,Comedy,Polish Wedding,1998,Theresa Connelly,"Claire Danes, Jon Bradford",5.4
+2012,Comedy|Sci-Fi|Western,Back to the Future Part III,1990,Robert Zemeckis,"Michael J. Fox, Christopher Lloyd",7.4
+2018,Animation|Children's,Bambi,1942,"James Algar,Samuel Armstrong","Hardie Albright, Stan Alexander",7.4
+2021,Fantasy|Sci-Fi,Dune,1984,David Lynch,"Francesca Annis, Leonardo Cimino",6.6
+2020,Drama|Romance,Dangerous Liaisons,1988,Stephen Frears,"Glenn Close, John Malkovich",7.7
+2026,Horror|Thriller,Disturbing Behavior,1998,David Nutter,"James Marsden, Katie Holmes",5.5
+2025,Drama|Romance,Lolita,1997,Adrian Lyne,"Jeremy Irons, Melanie Griffith",6.9
+2028,Action|Drama|War,Saving Private Ryan,1998,Steven Spielberg,"Tom Hanks, Tom Sizemore",8.6
+2035,Children's|Comedy,Blackbeard's Ghost,1968,Robert Stevenson,"Peter Ustinov, Dean Jones",6.8
+2036,Children's|Comedy,Blank Check,1994,Rupert Wainwright,"Brian Bonsall, Karen Duffy",5.1
+2039,Adventure|Children's,Cheetah,1989,Jeff Blyth,"Keith Coogan, Lucy Deakins",6.1
+2037,Adventure|Children's|Comedy,Candleshoe,1977,Norman Tokar,"David Niven, Helen Hayes",6.7
+2043,Adventure|Children's|Fantasy,Darby O'Gill and the Little People,1959,Robert Stevenson,"Albert Sharpe, Janet Munro",7.2
+2041,Action|Adventure|Children's|Comedy,Condorman,1981,Charles Jarrott,"Michael Crawford, Oliver Reed",5.7
+2046,Adventure|Children's|Sci-Fi,Flight of the Navigator,1986,Randal Kleiser,"Joey Cramer, Paul Reubens",6.9
+2050,Adventure|Children's|Comedy,Herbie Goes Bananas,1980,Vincent McEveety,"Cloris Leachman, Charles Martin Smith",4.8
+2052,Children's|Comedy,Hocus Pocus,1993,Kenny Ortega,"Bette Midler, Sarah Jessica Parker",6.7
+2051,Adventure|Children's|Comedy,Herbie Goes to Monte Carlo,1977,Vincent McEveety,"Dean Jones, Don Knotts",5.5
+2055,Comedy|Western,Hot Lead and Cold Feet,1978,Robert Butler,"Jim Dale, Karen Valentine",6.1
+2060,Comedy,BASEketball,1998,David Zucker,"Trey Parker, Matt Stone",6.6
+2056,Adventure|Children's,In Search of the Castaways,1962,Robert Stevenson,"Maurice Chevalier, Hayley Mills",6.7
+2061,Documentary,Full Tilt Boogie,1997,Sarah Kelly,"Rick Stribling, Ken Bondy",6.5
+2066,Film-Noir,Out of the Past,1947,Jacques Tourneur,"Robert Mitchum, Jane Greer",8.1
+2067,Drama|Romance|War,Doctor Zhivago,1965,David Lean,"Omar Sharif, Julie Christie",8
+2070,Drama,Tender Mercies,1983,Bruce Beresford,"Robert Duvall, Tess Harper",7.5
+2073,Comedy,Fandango,1985,Kevin Reynolds,"Kevin Costner, Judd Nelson",6.7
+2071,Drama,And the Band Played On,1993,Roger Spottiswoode,"Matthew Modine, Alan Alda",7.8
+2068,Drama,Fanny and Alexander,1982,Ingmar Bergman,"Kristina Adolphson, Brje Ahlstedt",8.1
+2075,Drama|War,Mephisto,1981,Istvn Szab,"Klaus Maria Brandauer, Krystyna Janda",7.9
+2076,Drama|Mystery,Blue Velvet,1986,David Lynch,"Isabella Rossellini, Kyle MacLachlan",7.8
+2079,Children's|Drama,Kidnapped,1960,Robert Stevenson,"Peter Finch, James MacArthur",6.8
+2099,Adventure|Animation|Children's|Musical,Song of the South,1946,"Wilfred Jackson,Harve Foster","Ruth Warrick, Bobby Driscoll",7.4
+2086,Drama|Fantasy,One Magic Christmas,1985,Phillip Borsos,"Mary Steenburgen, Gary Basaraba",6.7
+2101,Adventure|Drama,Squanto: A Warrior's Tale,1994,Xavier Koller,"Adam Beach, Sheldon Peters Wolfchild",6.1
+2088,Adventure|Comedy|Musical,Popeye,1980,Robert Altman,"Robin Williams, Shelley Duvall",5.2
+2100,Comedy|Fantasy|Romance,Splash,1984,Ron Howard,"Tom Hanks, Daryl Hannah",6.2
+2098,Children's|Comedy,Son of Flubber,1963,Robert Stevenson,"Fred MacMurray, Nancy Olson",6
+2080,Animation|Children's|Comedy|Musical|Romance,Lady and the Tramp,1955,"Clyde Geronimi,Wilfred Jackson","Peggy Lee, Larry Roberts",7.4
+2106,Drama|War,Swing Kids,1993,Thomas Carter,"Robert Sean Leonard, Christian Bale",6.8
+2097,Children's|Horror,Something Wicked This Way Comes,1983,Jack Clayton,"Jason Robards, Jonathan Pryce",6.8
+2104,Drama,Tex,1982,Tim Hunter,"Matt Dillon, Jim Metzler",6.6
+2110,Comedy|Crime|Thriller,Dead Men Don't Wear Plaid,1982,Carl Reiner,"Steve Martin, Rachel Ward",6.8
+2112,Crime|Drama,Grand Canyon,1991,Lawrence Kasdan,"Danny Glover, Kevin Kline",6.9
+2113,Horror|Thriller,Graveyard Shift,1990,Ralph S. Singleton,"David Andrews, Kelly Wolf",4.7
+2115,Action|Adventure,Indiana Jones and the Temple of Doom,1984,Steven Spielberg,"Harrison Ford, Kate Capshaw",7.6
+2117,Drama|Sci-Fi,Nineteen Eighty-Four,1984,Michael Radford,"John Hurt, Richard Burton",7.2
+2123,Animation|Children's,All Dogs Go to Heaven,1989,"Don Bluth,Gary Goldman","Burt Reynolds, Dom DeLuise",6.7
+2119,Horror,Maximum Overdrive,1986,Stephen King,"Emilio Estevez, Pat Hingle",5.4
+2120,Drama|Horror,Needful Things,1993,Fraser Clarke Heston,"Max von Sydow, Ed Harris",6.2
+2125,Drama|Romance,Ever After: A Cinderella Story,1998,Andy Tennant,"Drew Barrymore, Anjelica Huston",7
+2128,Comedy,Safe Men,1998,John Hamburg,"Sam Rockwell, Steve Zahn",6.1
+2130,Crime|Drama|Romance,Atlantic City,1980,Louis Malle,"Burt Lancaster, Susan Sarandon",7.5
+2132,Drama,Who's Afraid of Virginia Woolf?,1966,Mike Nichols,"Elizabeth Taylor, Richard Burton",8.1
+2133,Adventure|Comedy,Adventures in Babysitting,1987,Chris Columbus,"Elisabeth Shue, Maia Brewton",6.8
+2134,Comedy,Weird Science,1985,John Hughes,"Anthony Michael Hall, Kelly LeBrock",6.6
+2138,Animation|Children's|Drama|Fantasy,Watership Down,1978,Martin Rosen,"John Hurt, Richard Briers",7.7
+2146,Drama|Romance,St. Elmo's Fire,1985,Joel Schumacher,"Emilio Estevez, Rob Lowe",6.3
+2122,Horror|Thriller,Children of the Corn,1984,Fritz Kiersch,"Peter Horton, Linda Hamilton",5.6
+2126,Action|Crime|Mystery|Thriller,Snake Eyes,1998,Brian De Palma,"Nicolas Cage, Gary Sinise",5.9
+2121,Horror|Thriller,Cujo,1983,Lewis Teague,"Dee Wallace, Danny Pintauro",6
+2144,Comedy,Sixteen Candles,1984,John Hughes,"Molly Ringwald, Justin Henry",7.2
+2149,Comedy|Horror,House II: The Second Story,1987,Ethan Wiley,"Arye Gross, Jonathan Stark",5.4
+2145,Comedy|Drama|Romance,Pretty in Pink,1986,Howard Deutch,"Molly Ringwald, Harry Dean Stanton",6.7
+2152,Children's|Comedy,Air Bud: Golden Receiver,1998,Richard Martin,"Tim Conway, Dick Martin",4.4
+2154,Drama|Romance,How Stella Got Her Groove Back,1998,Kevin Rodney Sullivan,"Angela Bassett, Taye Diggs",5.5
+2160,Horror|Thriller,Rosemary's Baby,1968,Roman Polanski,"Mia Farrow, John Cassavetes",8
+2167,Action|Adventure|Horror,Blade,1998,Stephen Norrington,"Wesley Snipes, Stephen Dorff",7.1
+2164,Drama,Surf Nazis Must Die,1987,Peter George,"Gail Neely, Robert Harden",3.4
+2168,Drama|Romance,Dance with Me,1998,Randa Haines,"Vanessa Williams, Chayanne",5.8
+2169,Comedy,Dead Man on Campus,1998,Alan Cohn,"Tom Everett Scott, Mark-Paul Gosselaar",6
+2170,Action|Comedy,Wrongfully Accused,1998,Pat Proft,"Leslie Nielsen, Richard Crenna",6
+2178,Thriller,Frenzy,1972,Alfred Hitchcock,"Jon Finch, Alec McCowen",7.5
+2177,Comedy|Thriller,Family Plot,1976,Alfred Hitchcock,"Karen Black, Bruce Dern",6.8
+2179,Thriller,Topaz,1969,Alfred Hitchcock,"Frederick Stafford, Dany Robin",6.3
+2180,Thriller,Torn Curtain,1966,Alfred Hitchcock,"Paul Newman, Julie Andrews",6.7
+2181,Thriller,Marnie,1964,Alfred Hitchcock,"Tippi Hedren, Sean Connery",7.2
+2185,Thriller,I Confess,1953,Alfred Hitchcock,"Montgomery Clift, Anne Baxter",7.3
+2166,Drama|Romance,Return to Paradise,1998,Joseph Ruben,"Vince Vaughn, Anne Heche",6.9
+2195,Comedy,Dirty Work,1998,Bob Saget,"Norm MacDonald, Artie Lange",6.4
+2196,Action,Knock Off,1998,Hark Tsui,"Jean-Claude Van Damme, Rob Schneider",4.7
+2186,Film-Noir|Thriller,Strangers on a Train,1951,Alfred Hitchcock,"Farley Granger, Ruth Roman",8.1
+2197,Drama,Firelight,1997,William Nicholson,"Sophie Marceau, Stephen Dillane",7.3
+2198,Documentary,Modulations,1998,Iara Lee,"Arthur Baker, Afrika Bambaataa",7.1
+2202,Drama|Thriller|War,Lifeboat,1944,Alfred Hitchcock,"Tallulah Bankhead, William Bendix",7.8
+2200,Drama,Under Capricorn,1949,Alfred Hitchcock,"Ingrid Bergman, Joseph Cotten",6.2
+2206,Mystery|Thriller,Suspicion,1941,Alfred Hitchcock,"Cary Grant, Joan Fontaine",7.5
+2203,Film-Noir|Thriller,Shadow of a Doubt,1943,Alfred Hitchcock,"Teresa Wright, Joseph Cotten",8
+2192,Drama,See the Sea,1997,Franois Ozon,"Sasha Hails, Marina de Van",6.9
+2210,Thriller,Sabotage,1936,Alfred Hitchcock,"Sylvia Sidney, Oskar Homolka",7.1
+2193,Action|Adventure|Fantasy,Willow,1988,Ron Howard,"Val Kilmer, Joanne Whalley",7.3
+2204,Thriller,Saboteur,1942,Alfred Hitchcock,"Priscilla Lane, Robert Cummings",7.2
+2221,Thriller,Blackmail,1929,Alfred Hitchcock,"Anny Ondra, Sara Allgood",7
+2222,Comedy,Champagne,1928,Alfred Hitchcock,"Betty Balfour, Jean Bradin",5.7
+2217,Comedy|Musical,Elstree Calling,1930,"Andr Charlot,Jack Hulbert","Tommy Handley, Gordon Begg",5.8
+2231,Crime|Drama,Rounders,1998,John Dahl,"Matt Damon, Gretchen Mol",7.4
+2235,Drama|War,One Man's Hero,1999,Lance Hool,"Tom Berenger, Joaquim de Almeida",6.2
+2232,Sci-Fi|Thriller,Cube,1997,Vincenzo Natali,"Nicole de Boer, Nicky Guadagni",7.3
+2207,Drama,Jamaica Inn,1939,Alfred Hitchcock,"Charles Laughton, Horace Hodges",6.3
+2234,Drama,Let's Talk About Sex,1998,Troy Byer,"Troy Byer, Paget Brewster",3.6
+2236,Drama,Simon Birch,1998,Mark Steven Johnson,"Joseph Mazzello, Ashley Judd",6.9
+2240,Drama,My Bodyguard,1980,Tony Bill,"Chris Makepeace, Adam Baldwin",7.1
+2243,Comedy|Drama|Romance,Broadcast News,1987,James L. Brooks,"William Hurt, Albert Brooks",7.2
+2237,Drama,Without Limits,1998,Robert Towne,"Billy Crudup, Donald Sutherland",7.2
+2246,Comedy,Stars and Bars,1988,Pat O'Connor,"Daniel Day-Lewis, Harry Dean Stanton",4.8
+2245,Comedy|Drama,Working Girl,1988,Mike Nichols,"Harrison Ford, Sigourney Weaver",6.7
+2247,Comedy,Married to the Mob,1988,Jonathan Demme,"Paul Lazar, Alec Baldwin",6.1
+2248,Comedy|Drama|Romance,Say Anything...,1989,Cameron Crowe,"John Cusack, Ione Skye",7.4
+2230,Comedy,Always Tell Your Wife,1923,"Hugh Croise,Seymour Hicks","Seymour Hicks, Stanley Logan",7.2
+2255,Comedy,Young Doctors in Love,1982,Garry Marshall,"Sean Young, Michael McKean",5.2
+2249,Comedy,My Blue Heaven,1990,Herbert Ross,"Steve Martin, Rick Moranis",6.2
+2256,Horror|Sci-Fi,Parasite,1982,Charles Band,"Robert Glaudini, Demi Moore",3.5
+2254,Drama,Choices,1981,Silvio Narizzano,"Paul Carafotes, Victor French",4.7
+2250,Drama,Men Don't Leave,1990,Paul Brickman,"Jessica Lange, Arliss Howard",6.7
+2259,Comedy|Romance,Blame It on Rio,1984,Stanley Donen,"Michael Caine, Joseph Bologna",5.7
+2264,Drama,We're No Angels,1989,Neil Jordan,"Robert De Niro, Sean Penn",6
+2261,Comedy,One Crazy Summer,1986,Savage Steve Holland,"John Cusack, Linda Warren",6.4
+2267,Mystery|Thriller,Mortal Thoughts,1991,Alan Rudolph,"Demi Moore, Glenne Headly",5.7
+2260,Action|Crime,Wisdom,1986,Emilio Estevez,"Demi Moore, Emilio Estevez",5.7
+2265,Adventure|Comedy,Nothing But Trouble,1991,Dan Aykroyd,"Chevy Chase, Dan Aykroyd",4.8
+2257,Comedy|Romance,No Small Affair,1984,Jerry Schatzberg,"Jon Cryer, Demi Moore",5.5
+2272,Drama,One True Thing,1998,Carl Franklin,"Meryl Streep, Rene Zellweger",7
+2275,Action|Adventure|Sci-Fi,Six-String Samurai,1998,Lance Mungia,"Jeffrey Falcon, Justin McGuire",6.7
+2278,Action|Crime|Thriller,Ronin,1998,John Frankenheimer,"Robert De Niro, Jean Reno",7.3
+2279,Horror|Thriller,Urban Legend,1998,Jamie Blanks,"Jared Leto, Alicia Witt",5.5
+2281,Crime,Monument Ave.,1998,Ted Demme,"Denis Leary, Ian Hart",6.7
+2280,Crime,Clay Pigeons,1998,David Dobkin,"Joaquin Phoenix, Gregory Sporleder",6.6
+2273,Action|Thriller,Rush Hour,1998,Brett Ratner,"Ken Leung, Jackie Chan",6.9
+2282,Comedy|Drama,Pecker,1998,John Waters,"Edward Furlong, Christina Ricci",6.4
+2284,Drama,Bandit Queen,1994,Shekhar Kapur,"Seema Biswas, Nirmal Pandey",7.6
+2269,Drama,Indecent Proposal,1993,Adrian Lyne,"Robert Redford, Demi Moore",5.8
+2271,Drama,Permanent Midnight,1998,David Veloz,"Ben Stiller, Maria Bello",6.3
+2291,Drama|Romance,Edward Scissorhands,1990,Tim Burton,"Johnny Depp, Winona Ryder",7.9
+2294,Animation|Children's,Antz,1998,"Eric Darnell,Tim Johnson","Woody Allen, Dan Aykroyd",6.6
+2290,Comedy|Drama,Stardust Memories,1980,Woody Allen,"Woody Allen, Charlotte Rampling",7.5
+2293,Drama,Shadrach,1998,Susanna Styron,"Martin Sheen, John Franklin Sawyer",6.4
+2297,Drama|Romance,What Dreams May Come,1998,Vincent Ward,"Robin Williams, Cuba Gooding Jr.",7
+2298,Thriller,Strangeland,1998,John Pieplow,"Kevin Gage, Elizabeth Pea",4.9
+2301,Comedy,History of the World: Part I,1981,Mel Brooks,"Mel Brooks, Dom DeLuise",6.9
+2302,Comedy,My Cousin Vinny,1992,Jonathan Lynn,"Joe Pesci, Ralph Macchio",7.5
+2303,Drama|Musical,Nashville,1975,Robert Altman,"David Arkin, Barbara Baxley",7.8
+2305,Drama,Slam,1998,Marc Levin,"Saul Williams, Sonja Sohn",7.2
+2306,Comedy,Holy Man,1998,Stephen Herek,"Eddie Murphy, Jeff Goldblum",4.9
+2307,Action|Drama,One Tough Cop,1998,Bruno Barreto,"Stephen Baldwin, Chris Penn",5.2
+2312,Drama,Children of a Lesser God,1986,Randa Haines,"William Hurt, Marlee Matlin",7.2
+2314,Drama,Beloved,1998,Jonathan Demme,"Yada Beener, Emil Pinnock",5.9
+2315,Horror|Thriller,Bride of Chucky,1998,Ronny Yu,"Jennifer Tilly, Brad Dourif",5.3
+2316,Drama|Romance,Practical Magic,1998,Griffin Dunne,"Sandra Bullock, Nicole Kidman",6.1
+2320,Drama|Thriller,Apt Pupil,1998,Bryan Singer,"Brad Renfro, Ian McKellen",6.7
+2318,Comedy,Happiness,1998,Todd Solondz,"Jane Adams, Jon Lovitz",7.8
+2324,Comedy|Drama,Life Is Beautiful,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
+2321,Comedy,Pleasantville,1998,Gary Ross,"Tobey Maguire, Reese Witherspoon",7.5
+2329,Drama,American History X,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.6
+2327,Horror,Tales from the Darkside: The Movie,1990,John Harrison,"Debbie Harry, David Forrester",6.2
+2326,Drama|Thriller,Shattered Image,1998,Raoul Ruiz,"William Baldwin, Anne Parillaud",4.9
+2325,Comedy,Orgazmo,1997,Trey Parker,"Trey Parker, Dian Bachar",6.2
+2331,Comedy|Romance,Living Out Loud,1998,Richard LaGravenese,"Holly Hunter, Danny DeVito",6.6
+2332,Crime|Drama,Belly,1998,Hype Williams,"DMX, Nas",5.9
+2333,Drama,Gods and Monsters,1998,Bill Condon,"Ian McKellen, Brendan Fraser",7.5
+2337,Drama,Velvet Goldmine,1998,Todd Haynes,"Ewan McGregor, Jonathan Rhys Meyers",7
+2338,Horror|Mystery|Thriller,I Still Know What You Did Last Summer,1998,Danny Cannon,"Jennifer Love Hewitt, Freddie Prinze Jr.",4.6
+2341,Drama,Dancing at Lughnasa,1998,Pat O'Connor,"Gerard McSorley, Meryl Streep",6.3
+2340,Romance,Meet Joe Black,1998,Martin Brest,"Brad Pitt, Anthony Hopkins",7.1
+2342,Comedy,Hard Core Logo,1996,Bruce McDonald,"Hugh Dillon, Callum Keith Rennie",7.5
+2345,Drama,Desert Bloom,1986,Eugene Corr,"Annabeth Gish, Jon Voight",6.6
+2344,Action|Adventure|Drama|Thriller,Runaway Train,1985,Andrey Konchalovskiy,"Jon Voight, Eric Roberts",7.3
+2348,Drama,Sid and Nancy,1986,Alex Cox,"Gary Oldman, Chloe Webb",7.1
+2349,Comedy|Thriller,Mona Lisa,1986,Neil Jordan,"Bob Hoskins, Cathy Tyson",7.4
+2351,Drama,Nights of Cabiria,1957,Federico Fellini,"Giulietta Masina, Franois Prier",8.3
+2350,Comedy,Heart Condition,1990,James D. Parriott,"Bob Hoskins, Denzel Washington",5.6
+2353,Action|Thriller,Enemy of the State,1998,Tony Scott,"Will Smith, Gene Hackman",7.3
+2359,Comedy,Waking Ned Devine,1998,Kirk Jones,"Ian Bannen, David Kelly",7.4
+2357,Drama,Central Station,1998,Walter Salles,"Fernanda Montenegro, Marlia Pra",8
+2361,Comedy,Pink Flamingos,1972,John Waters,"Divine, David Lochary",6.1
+2358,Drama,Savior,1998,Predrag Antonijevic,"Nastassja Kinski, Pascal Rollin",7.3
+2363,Action|Sci-Fi,Godzilla,1954,Ishir Honda,"Akira Takarada, Momoko Kchi",7.5
+2362,Drama,Glen or Glenda,1953,Edward D. Wood Jr.,"Bela Lugosi, Lyle Talbot",4.1
+2368,Action|Adventure|Horror,King Kong Lives,1986,John Guillermin,"Peter Elliott, George Antoni",3.7
+2366,Action|Adventure|Horror,King Kong,1933,"Merian C. Cooper,Ernest B. Schoedsack","Fay Wray, Robert Armstrong",8
+2367,Action|Adventure|Horror,King Kong,1976,John Guillermin,"Jeff Bridges, Charles Grodin",5.8
+2371,Comedy,Fletch,1985,Michael Ritchie,"Chevy Chase, Joe Don Baker",6.9
+2372,Comedy,Fletch Lives,1989,Michael Ritchie,"Chevy Chase, Hal Holbrook",6
+2373,Action|Adventure,Red Sonja,1985,Richard Fleischer,"Brigitte Nielsen, Arnold Schwarzenegger",5
+2369,Comedy|Romance,Desperately Seeking Susan,1985,Susan Seidelman,"Rosanna Arquette, Madonna",5.8
+2374,Comedy|Drama,Gung Ho,1986,Ron Howard,"Michael Keaton, Gedde Watanabe",6.2
+2377,Horror|Sci-Fi,Lifeforce,1985,Tobe Hooper,"Steve Railsback, Peter Firth",6.1
+2378,Comedy,Police Academy,1984,Hugh Wilson,"Steve Guttenberg, Kim Cattrall",6.6
+2384,Children's|Comedy,Babe: Pig in the City,1998,George Miller,"Magda Szubanski, James Cromwell",5.8
+2387,Comedy|Crime,Very Bad Things,1998,Peter Berg,"Jon Favreau, Leland Orser",6.3
+2385,Comedy|Romance,Home Fries,1998,Dean Parisot,"Drew Barrymore, Catherine O'Hara",5
+2388,Drama|Romance,Steam: The Turkish Bath,1997,Ferzan Ozpetek,"Alessandro Gassman, Francesca d'Aloja",7
+2390,Comedy,Little Voice,1998,Mark Herman,"Brenda Blethyn, Jane Horrocks",7
+2392,Comedy|Drama,Jack Frost,1998,Troy Miller,"Michael Keaton, Kelly Preston",5.2
+2393,Action|Sci-Fi,Star Trek: Insurrection,1998,Jonathan Frakes,"Patrick Stewart, Jonathan Frakes",6.4
+2396,Comedy|Romance,Shakespeare in Love,1998,John Madden,"Geoffrey Rush, Tom Wilkinson",7.2
+2397,Drama,Mass Appeal,1984,Glenn Jordan,"Jack Lemmon, Zeljko Ivanek",6.6
+2395,Comedy,Rushmore,1998,Wes Anderson,"Jason Schwartzman, Bill Murray",7.7
+2401,Western,Pale Rider,1985,Clint Eastwood,"Clint Eastwood, Michael Moriarty",7.3
+2400,Children's|Drama,Prancer,1989,John D. Hancock,"Sam Elliott, Cloris Leachman",6.3
+2403,Action,First Blood,1982,Ted Kotcheff,"Sylvester Stallone, Richard Crenna",7.7
+2404,Action|War,Rambo III,1988,Peter MacDonald,"Sylvester Stallone, Richard Crenna",5.7
+2402,Action|War,Rambo: First Blood Part II,1985,George P. Cosmatos,"Sylvester Stallone, Richard Crenna",6.4
+2407,Comedy|Sci-Fi,Cocoon,1985,Ron Howard,"Don Ameche, Wilford Brimley",6.6
+2406,Action|Adventure|Comedy|Romance,Romancing the Stone,1984,Robert Zemeckis,"Michael Douglas, Kathleen Turner",6.9
+2408,Comedy|Sci-Fi,Cocoon: The Return,1988,Daniel Petrie,"Don Ameche, Wilford Brimley",5.3
+2409,Action|Drama,Rocky II,1979,Sylvester Stallone,"Sylvester Stallone, Talia Shire",7.2
+2411,Action|Drama,Rocky IV,1985,Sylvester Stallone,"Sylvester Stallone, Talia Shire",6.7
+2410,Action|Drama,Rocky III,1982,Sylvester Stallone,"Sylvester Stallone, Talia Shire",6.7
+2414,Action|Adventure|Mystery,Young Sherlock Holmes,1985,Barry Levinson,"Nicholas Rowe, Alan Cox",6.8
+2413,Comedy|Mystery,Clue,1985,Jonathan Lynn,"Eileen Brennan, Tim Curry",7.3
+2412,Action|Drama,Rocky V,1990,John G. Avildsen,"Sylvester Stallone, Talia Shire",5.1
+2417,Comedy|Drama,Heartburn,1986,Mike Nichols,"Meryl Streep, Jack Nicholson",6
+2416,Comedy,Back to School,1986,Alan Metter,"Rodney Dangerfield, Sally Kellerman",6.5
+2415,Drama|Romance,Violets Are Blue...,1986,Jack Fisk,"Sissy Spacek, Kevin Kline",5.7
+2418,Comedy,Nothing in Common,1986,Garry Marshall,"Tom Hanks, Jackie Gleason",5.9
+2419,Drama|Thriller,Extremities,1986,Robert M. Young,"Farrah Fawcett, James Russo",6.3
+2424,Comedy|Romance,You've Got Mail,1998,Nora Ephron,"Tom Hanks, Meg Ryan",6.5
+2432,Drama,Stepmom,1998,Chris Columbus,"Julia Roberts, Susan Sarandon",6.7
+2431,Comedy|Drama,Patch Adams,1998,Tom Shadyac,"Robin Williams, Daniel London",6.7
+2429,Adventure|Children's|Drama,Mighty Joe Young,1998,Ron Underwood,"Charlize Theron, Bill Paxton",5.6
+2435,Drama,Hurlyburly,1998,Anthony Drazan,"Sean Penn, Kevin Spacey",5.8
+2434,Drama,Down in the Delta,1998,Maya Angelou,"Alfre Woodard, Al Freeman Jr.",6.8
+2436,Comedy,Tea with Mussolini,1999,Franco Zeffirelli,"Cher, Judi Dench",6.9
+2438,Drama|Thriller,Outside Ozona,1998,J.S. Cardone,"Robert Forster, Kevin Pollak",6.4
+2439,Drama,Affliction,1997,Paul Schrader,"Nick Nolte, Brigid Tierney",7
+2443,Drama|Romance,Playing by Heart,1998,Willard Carroll,"Angelina Jolie, Sean Connery",7.2
+2440,Drama,Another Day in Paradise,1998,Larry Clark,"James Woods, Melanie Griffith",6.5
+2445,Drama,At First Sight,1999,Irwin Winkler,"Val Kilmer, Mira Sorvino",5.9
+2442,Drama,Hilary and Jackie,1998,Anand Tucker,"Emily Watson, Rachel Griffiths",7.4
+2447,Comedy|Drama,Varsity Blues,1999,Brian Robbins,"James Van Der Beek, Jon Voight",6.4
+2448,Horror|Sci-Fi,Virus,1999,John Bruno,"Jamie Lee Curtis, William Baldwin",4.8
+2450,Adventure|Children's|Sci-Fi,Howard the Duck,1986,Willard Huyck,"Lea Thompson, Jeffrey Jones",4.6
+2461,Horror,Leatherface: Texas Chainsaw Massacre III,1990,Jeff Burr,"Kate Hodge, Ken Foree",5.1
+2458,Comedy|Crime,Armed and Dangerous,1986,Mark L. Lester,"John Candy, Eugene Levy",5.5
+2465,Horror,Deadly Friend,1986,Wes Craven,"Matthew Labyorteaux, Kristy Swanson",5.5
+2463,Comedy,Ruthless People,1986,"Jim Abrahams,David Zucker","Danny DeVito, Bette Midler",6.9
+2464,Horror,Trick or Treat,1986,Charles Martin Smith,"Marc Price, Tony Fields",5.7
+2468,Action|Comedy|Romance|Thriller,Jumpin' Jack Flash,1986,Penny Marshall,"Whoopi Goldberg, Stephen Collins",5.8
+2470,Adventure|Comedy,Crocodile Dundee,1986,Peter Faiman,"Paul Hogan, Linda Kozlowski",6.5
+2466,Drama,Belizaire the Cajun,1986,Glen Pitre,"Armand Assante, Gail Youngs",6.5
+2469,Comedy|Romance,Peggy Sue Got Married,1986,Francis Ford Coppola,"Kathleen Turner, Nicolas Cage",6.3
+2472,Comedy,Tough Guys,1986,Jeff Kanew,"Burt Lancaster, Kirk Douglas",6.1
+2471,Adventure|Comedy,Crocodile Dundee II,1988,John Cornell,"Paul Hogan, Linda Kozlowski",5.5
+2476,Action|War,Heartbreak Ridge,1986,Clint Eastwood,"Clint Eastwood, Marsha Mason",6.8
+2473,Comedy,Soul Man,1986,Steve Miner,"C. Thomas Howell, Rae Dawn Chong",5.1
+2478,Comedy|Western,Three Amigos!,1986,John Landis,"Steve Martin, Chevy Chase",6.4
+2477,Adventure,Firewalker,1986,J. Lee Thompson,"Chuck Norris, Louis Gossett Jr.",4.9
+2479,Drama|Thriller,Gloria,1999,Sidney Lumet,"Sharon Stone, Jean-Luke Figueroa",5.1
+2480,Drama,Dry Cleaning,1997,Anne Fontaine,"Miou-Miou, Charles Berling",6.9
+2485,Comedy|Romance,She's All That,1999,Robert Iscove,"Freddie Prinze Jr., Rachael Leigh Cook",5.8
+2481,Drama|Romance,My Name Is Joe,1998,Ken Loach,"Peter Mullan, Louise Goodall",7.5
+2488,Drama|Horror|Thriller,Peeping Tom,1960,Michael Powell,"Karlheinz Bhm, Moira Shearer",7.8
+2482,Comedy|Romance,Still Crazy,1998,Brian Gibson,"Stephen Rea, Billy Connolly",7.1
+2490,Action|Thriller,Payback,1999,Brian Helgeland,"Mel Gibson, Gregg Henry",7.1
+2491,Comedy|Romance,Simply Irresistible,1999,Mark Tarlov,"Sarah Michelle Gellar, Sean Patrick Flanery",5.3
+2489,Drama,Spanish Fly,1998,Daphna Kastner,"Daphna Kastner, Toni Cant",4.7
+2496,Comedy|Romance,Blast from the Past,1999,Hugh Wilson,"Brendan Fraser, Alicia Silverstone",6.6
+2497,Romance,Message in a Bottle,1999,Luis Mandoki,"Kevin Costner, Robin Wright",6.1
+2501,Drama,October Sky,1999,Joe Johnston,"Jake Gyllenhaal, Chris Cooper",7.8
+2500,Comedy,Jawbreaker,1999,Darren Stein,"Rose McGowan, Rebecca Gayheart",5.4
+2502,Comedy|Romance,Office Space,1999,Mike Judge,"Ron Livingston, Jennifer Aniston",7.8
+2507,Comedy,Breakfast of Champions,1999,Alan Rudolph,"Bruce Willis, Albert Finney",4.6
+2509,Comedy,Eight Days a Week,1997,Michael Davis,"Joshua Schaefer, Keri Russell",6.3
+2510,Comedy|Romance,Just the Ticket,1999,Richard Wenk,"Andy Garcia, Andie MacDowell",5.6
+2513,Horror,Pet Sematary,1989,Mary Lambert,"Dale Midkiff, Fred Gwynne",6.6
+2514,Horror,Pet Sematary II,1992,Mary Lambert,"Edward Furlong, Anthony Edwards",4.7
+2518,Comedy,Night Shift,1982,Ron Howard,"Henry Winkler, Michael Keaton",6.5
+2523,Drama|Thriller,Rollercoaster,1977,James Goldstone,"George Segal, Richard Widmark",6.2
+2527,Action|Sci-Fi|Thriller|Western,Westworld,1973,Michael Crichton,"Yul Brynner, Richard Benjamin",7.1
+2525,Action|Horror|Sci-Fi,Alligator,1980,Lewis Teague,"Robert Forster, Robin Riker",5.9
+2528,Action|Adventure|Sci-Fi,Logan's Run,1976,Michael Anderson,"Michael York, Richard Jordan",6.8
+2530,Action|Sci-Fi,Beneath the Planet of the Apes,1970,Ted Post,"James Franciscus, Kim Hunter",6.1
+2526,Sci-Fi,Meteor,1979,Ronald Neame,"Sean Connery, Natalie Wood",4.9
+2532,Action|Sci-Fi,Conquest of the Planet of the Apes,1972,J. Lee Thompson,"Roddy McDowall, Don Murray",6.1
+2531,Action|Sci-Fi,Battle for the Planet of the Apes,1973,J. Lee Thompson,"Roddy McDowall, Claude Akins",5.5
+2533,Action|Sci-Fi,Escape from the Planet of the Apes,1971,Don Taylor,"Roddy McDowall, Kim Hunter",6.3
+2534,Action,Avalanche,1978,Corey Allen,"Rock Hudson, Mia Farrow",4.3
+2537,Adventure,Beyond the Poseidon Adventure,1979,Irwin Allen,"Michael Caine, Sally Field",4.5
+2538,Documentary,Dancemaker,1998,Matthew Diamond,"Andrew Asnes, Rachel Berman Benz",7.3
+2541,Drama,Cruel Intentions,1999,Roger Kumble,"Sarah Michelle Gellar, Ryan Phillippe",6.9
+2539,Comedy,Analyze This,1999,Harold Ramis,"Robert De Niro, Billy Crystal",6.7
+2543,Comedy,Six Ways to Sunday,1997,Adam Bernstein,"Norman Reedus, Debbie Harry",6.5
+2551,Drama|Thriller,Dead Ringers,1988,David Cronenberg,"Jeremy Irons, Genevive Bujold",7.3
+2545,Comedy,Relax... It's Just Sex,1998,P.J. Castellaneta,"Mitchell Anderson, Terrence 'T.C.' Carson",7
+2549,Action|Sci-Fi,Wing Commander,1999,Chris Roberts,"Freddie Prinze Jr., Saffron Burrows",4.1
+2552,Comedy,My Boyfriend's Back,1993,Bob Balaban,"Andrew Lowery, Traci Lind",5.3
+2555,Comedy,Baby Geniuses,1999,Bob Clark,"Kathleen Turner, Christopher Lloyd",2.5
+2557,Drama,I Stand Alone,1998,Gaspar No,"Philippe Nahon, Blandine Lenoir",7.5
+2556,Comedy|Drama|Romance,Telling You,1998,Rob DeFranco,"Peter Facinelli, Andy Berman",4.4
+2558,Comedy|Romance,Forces of Nature,1999,Bronwen Hughes,"Ben Affleck, Sandra Bullock",5.4
+3155,Drama|Romance,Anna and the King,1999,Andy Tennant,"Jodie Foster, Yun-Fat Chow",6.7
+2560,Drama|Horror,Ravenous,1999,Antonia Bird,"Guy Pearce, Robert Carlyle",7.1
+2562,Drama,Bandits,1997,Katja von Garnier,"Katja Riemann, Jasmin Tabatabai",6.4
+2569,Drama|Romance,Among Giants,1998,Sam Miller,"Pete Postlethwaite, Rachel Griffiths",5.9
+2573,Drama,Tango,1998,Carlos Saura,"Miguel ngel Sol, Cecilia Narova",7.2
+2577,Comedy|Drama,Metroland,1997,Philip Saville,"Christian Bale, Emily Watson",6.5
+2579,Drama,Following,1998,Christopher Nolan,"Jeremy Theobald, Alex Haw",7.6
+2583,Mystery,Cookie's Fortune,1999,Robert Altman,"Glenn Close, Julianne Moore",7
+2581,Comedy|Romance,Never Been Kissed,1999,Raja Gosnell,"Drew Barrymore, David Arquette",6
+2584,Comedy,Foolish,1999,Dave Meyers,"Eddie Griffin, Master P",4.3
+2594,Drama|Romance|Sci-Fi,Open Your Eyes,1997,Alejandro Amenbar,"Eduardo Noriega, Penlope Cruz",7.8
+2590,Drama,Hideous Kinky,1998,Gillies MacKinnon,"Kate Winslet, Sad Taghmaoui",6.1
+2596,Comedy|Drama,SLC Punk!,1998,James Merendino,"Matthew Lillard, Michael A. Goorjian",7.5
+2598,Comedy,Pushing Tin,1999,Mike Newell,"John Cusack, Billy Bob Thornton",6
+2600,Action|Sci-Fi|Thriller,eXistenZ,1999,David Cronenberg,"Jennifer Jason Leigh, Jude Law",6.8
+2605,Crime|Thriller,Entrapment,1999,Jon Amiel,"Sean Connery, Catherine Zeta-Jones",6.2
+2607,Drama,Get Real,1998,Simon Shore,"Ben Silverstone, Brad Gorton",7.7
+2606,Comedy|Horror,Idle Hands,1999,Rodman Flender,"Devon Sawa, Seth Green",6.2
+2610,Drama,Three Seasons,1999,Tony Bui,"Ngoc Hiep Nguyen, Ngoc Minh",7.3
+2613,Action|Horror|Sci-Fi,Night of the Comet,1984,Thom Eberhardt,"Robert Beltran, Catherine Mary Stewart",6.4
+2615,Adventure|Sci-Fi,My Science Project,1985,Jonathan R. Betuel,"John Stockwell, Danielle von Zerneck",6
+2616,Action|Crime,Dick Tracy,1990,Warren Beatty,"Warren Beatty, Charlie Korsmo",6.1
+2621,Drama|Romance,Xiu Xiu: The Sent-Down Girl,1998,Joan Chen,"Xiaolu Li, Lopsang",7.5
+2620,Drama|Romance,This Is My Father,1998,Paul Quinn,"James Caan, Jacob Tierney",7.1
+2625,Action,Black Mask,1996,Daniel Lee,"Jet Li, Ching Wan Lau",6.1
+2624,Drama,After Life,1998,Hirokazu Koreeda,"Arata Iura, Erika Oda",7.8
+2623,Comedy,Trippin',1999,David Raynr,"Deon Richmond, Donald Faison",5.2
+2628,Action|Adventure|Fantasy|Sci-Fi,Star Wars: Episode I - The Phantom Menace,1999,George Lucas,"Liam Neeson, Ewan McGregor",6.5
+2631,Comedy|Film-Noir|Thriller,Frogs for Snakes,1998,Amos Poe,"Jos Rafael Arango, Nicole Arlyn",4.2
+2641,Action|Adventure|Sci-Fi,Superman II,1980,"Richard Lester,Richard Donner","Gene Hackman, Christopher Reeve",6.8
+2639,Drama,Mommie Dearest,1981,Frank Perry,"Faye Dunaway, Diana Scarwid",6.7
+2642,Action|Adventure|Sci-Fi,Superman III,1983,Richard Lester,"Christopher Reeve, Richard Pryor",4.9
+2643,Action|Adventure|Sci-Fi,Superman IV: The Quest for Peace,1987,Sidney J. Furie,"Christopher Reeve, Gene Hackman",3.7
+2647,Horror,House of Frankenstein,1944,Erle C. Kenton,"Boris Karloff, Lon Chaney Jr.",6.3
+2649,Horror,Son of Frankenstein,1939,Rowland V. Lee,"Basil Rathbone, Boris Karloff",7.2
+2659,Comedy|Documentary,It Came from Hollywood,1982,"Malcolm Leo,Andrew Solt","Dan Aykroyd, John Candy",5.9
+2661,Sci-Fi,It Came from Outer Space,1953,Jack Arnold,"Richard Carlson, Barbara Rush",6.6
+2663,Sci-Fi,It Came from Beneath the Sea,1955,Robert Gordon,"Kenneth Tobey, Faith Domergue",5.9
+2666,Sci-Fi,It Conquered the World,1956,Roger Corman,"Peter Graves, Beverly Garland",4.9
+2668,Horror|Sci-Fi,Swamp Thing,1982,Wes Craven,"Louis Jourdan, Adrienne Barbeau",5.4
+2671,Comedy|Romance,Notting Hill,1999,Roger Michell,"Julia Roberts, Hugh Grant",7
+2669,War,Pork Chop Hill,1959,Lewis Milestone,"Gregory Peck, Harry Guardino",7.1
+2677,Documentary,Buena Vista Social Club,1999,Wim Wenders,"Compay Segundo, Eliades Ochoa",7.6
+2675,Comedy|Drama|Romance,Twice Upon a Yesterday,1998,Maria Ripoll,"Lena Headey, Douglas Henshall",6.5
+2676,Drama|Thriller,Instinct,1999,Jon Turteltaub,"Anthony Hopkins, Cuba Gooding Jr.",6.5
+2680,Drama,Floating,1997,William Roth,"Norman Reedus, Chad Lowe",6.7
+2681,Comedy|Romance|Sci-Fi,Free Enterprise,1998,Robert Meyer Burnett,"Eric McCormack, Carl Bressler",7
+2683,Comedy,Austin Powers: The Spy Who Shagged Me,1999,Jay Roach,"Mike Myers, Heather Graham",6.6
+2682,Drama,Limbo,1999,John Sayles,"Mary Elizabeth Mastrantonio, David Strathairn",7.1
+2684,Comedy|Drama,Taxman,1999,Avi Nesher,"Joe Pantoliano, Wade Dominguez",5.5
+2687,Animation|Children's,Tarzan,1999,"Chris Buck,Kevin Lima","Brian Blessed, Glenn Close",7.2
+2689,Documentary,Get Bruce,1999,Andrew J. Kuehn,"Whoopi Goldberg, Bette Midler",6
+2692,Action|Crime|Romance,Run Lola Run,1998,Tom Tykwer,"Franka Potente, Moritz Bleibtreu",7.8
+2693,Documentary,Trekkies,1997,Roger Nygard,"Denise Crosby, Barbara Adams",7
+2694,Comedy,Big Daddy,1999,Dennis Dugan,"Adam Sandler, Joey Lauren Adams",6.4
+2699,Action|Comedy|Sci-Fi|Thriller,Arachnophobia,1990,Frank Marshall,"Jeff Daniels, Harley Jane Kozak",6.3
+2702,Drama,Summer of Sam,1999,Spike Lee,"John Leguizamo, Adrien Brody",6.6
+2701,Action|Sci-Fi|Western,Wild Wild West,1999,Barry Sonnenfeld,"Will Smith, Kevin Kline",4.8
+2706,Comedy,American Pie,1999,"Paul Weitz,Chris Weitz","Jason Biggs, Chris Klein",7
+2707,Thriller,Arlington Road,1999,Mark Pellington,"Jeff Bridges, Tim Robbins",7.2
+2711,Drama,My Life So Far,1999,Hugh Hudson,"Colin Firth, Rosemary Harris",6.5
+2703,Drama,Broken Vessels,1998,Scott Ziehl,"Todd Field, Jason London",6.6
+2712,Drama,Eyes Wide Shut,1999,Stanley Kubrick,"Tom Cruise, Nicole Kidman",7.3
+2713,Horror|Thriller,Lake Placid,1999,Steve Miner,"Bill Pullman, Bridget Fonda",5.6
+2717,Comedy|Horror,Ghostbusters II,1989,Ivan Reitman,"Bill Murray, Dan Aykroyd",6.5
+2718,Comedy,Drop Dead Gorgeous,1999,Michael Patrick Jann,"Kirsten Dunst, Ellen Barkin",6.5
+2721,Romance,Trick,1999,Jim Fall,"Tori Spelling, Christian Campbell",7.2
+2722,Action|Sci-Fi|Thriller,Deep Blue Sea,1999,Renny Harlin,"Thomas Jane, Saffron Burrows",5.8
+2720,Action|Adventure|Children's|Comedy,Inspector Gadget,1999,David Kellogg,"Matthew Broderick, Rupert Everett",4.1
+2725,Drama,Twin Falls Idaho,1999,Michael Polish,"Mark Polish, Michael Polish",7.3
+2724,Comedy|Romance,Runaway Bride,1999,Garry Marshall,"Julia Roberts, Richard Gere",5.5
+2723,Action|Adventure|Comedy,Mystery Men,1999,Kinka Usher,"Ben Stiller, Hank Azaria",6
+2727,Film-Noir,Killer's Kiss,1955,Stanley Kubrick,"Frank Silvera, Jamie Smith",6.7
+2729,Drama,Lolita,1962,Stanley Kubrick,"James Mason, Shelley Winters",7.7
+2730,Drama,Barry Lyndon,1975,Stanley Kubrick,"Ryan O'Neal, Marisa Berenson",8.1
+2728,Drama,Spartacus,1960,Stanley Kubrick,"Kirk Douglas, Laurence Olivier",7.9
+2733,Adventure|Comedy,Vibes,1988,Ken Kwapis,"Ramon Bieri, Michael Lerner",5.5
+2736,Comedy,Brighton Beach Memoirs,1986,Gene Saks,"Jonathan Silverman, Blythe Danner",6.9
+2738,Comedy|Drama,Crimes of the Heart,1986,Bruce Beresford,"Diane Keaton, Jessica Lange",6.4
+2737,Action,Assassination,1987,Peter R. Hunt,"Charles Bronson, Jill Ireland",5
+2743,Drama,Native Son,1986,Jerrold Freedman,"Victor Love, Matt Dillon",5.9
+2746,Comedy|Horror|Musical,Little Shop of Horrors,1986,Frank Oz,"Levi Stubbs, Rick Moranis",6.9
+2744,Drama,Otello,1986,Franco Zeffirelli,"Plcido Domingo, Katia Ricciarelli",7.2
+2750,Comedy|Drama,Radio Days,1987,Woody Allen,"Mike Starr, Paul Herman",7.6
+2751,Comedy,From the Hip,1987,Bob Clark,"Judd Nelson, Elizabeth Perkins",6.2
+2755,Drama,Light of Day,1987,Paul Schrader,"Michael J. Fox, Gena Rowlands",5.4
+2757,Drama,Frances,1982,Graeme Clifford,"Jessica Lange, Kim Stanley",7.4
+2758,Drama,Plenty,1985,Fred Schepisi,"Meryl Streep, Charles Dance",6.2
+2767,Comedy,Illuminata,1998,John Turturro,"Leo Bassi, Henri Behar",6.2
+2771,Drama,Brokedown Palace,1999,Jonathan Kaplan,"Claire Danes, Kate Beckinsale",6.4
+2768,Comedy,Stiff Upper Lips,1998,Gary Sinyor,"David Artus, Kevin Furlong",6.4
+2772,Comedy,Detroit Rock City,1999,Adam Rifkin,"Giuseppe Andrews, James DeBello",6.8
+2770,Comedy,Bowfinger,1999,Frank Oz,"Steve Martin, Eddie Murphy",6.4
+2773,Drama,Alice and Martin,1998,Andr Tchin,"Juliette Binoche, Alexis Loret",6.4
+2774,Comedy|Romance,Better Than Chocolate,1999,Anne Wheeler,"Wendy Crewson, Karyn Dwyer",6.3
+2778,Thriller,Never Talk to Strangers,1995,Peter Hall,"Rebecca De Mornay, Antonio Banderas",5.1
+2775,Drama,Head On,1998,Ana Kokkinos,"Alex Dimitriades, Julian Garner",6.6
+2779,Comedy,Heaven Can Wait,1978,"Warren Beatty,Buck Henry","Warren Beatty, Julie Christie",6.9
+2782,Horror,Pit and the Pendulum,1961,Roger Corman,"Vincent Price, John Kerr",7.1
+2787,Horror,Cat's Eye,1985,Lewis Teague,"Drew Barrymore, James Woods",6.2
+2788,Comedy,And Now for Something Completely Different,1971,Ian MacNaughton,"Graham Chapman, John Cleese",7.7
+2786,Comedy,Haunted Honeymoon,1986,Gene Wilder,"Gene Wilder, Gilda Radner",5.5
+2789,Horror,Damien: Omen II,1978,"Don Taylor,Mike Hodges","William Holden, Lee Grant",6.3
+2792,Comedy,Airplane II: The Sequel,1982,Ken Finkleman,"Lloyd Bridges, Raymond Burr",6.1
+2796,Comedy,Funny Farm,1988,George Roy Hill,"Chevy Chase, Madolyn Smith Osborne",6.1
+2801,Drama|Romance,Oscar and Lucinda,1997,Gillian Armstrong,"Ralph Fiennes, Cate Blanchett",6.7
+2798,Comedy,Problem Child,1990,Dennis Dugan,"John Ritter, Jack Warden",5.2
+2802,Action|Romance|Thriller,Tequila Sunrise,1988,Robert Towne,"Mel Gibson, Michelle Pfeiffer",6
+2806,Comedy|Thriller,Teaching Mrs. Tingle,1999,Kevin Williamson,"Helen Mirren, Katie Holmes",5.2
+2805,Comedy|Romance,Mickey Blue Eyes,1999,Kelly Makin,"Hugh Grant, James Caan",5.8
+2807,Action|Sci-Fi,Universal Soldier: The Return,1999,Mic Rodgers,"Jean-Claude Van Damme, Michael Jai White",4.1
+2808,Action|Sci-Fi,Universal Soldier,1992,Roland Emmerich,"Jean-Claude Van Damme, Dolph Lundgren",6
+2811,Comedy,With Friends Like These...,1998,Philip Frank Messina,"Adam Arkin, David Strathairn",5.9
+2809,Comedy,Love Stinks,1999,Jeff Franklin,"French Stewart, Bridgette Wilson-Sampras",5.8
+2810,Animation|Mystery,Perfect Blue,1997,Satoshi Kon,"Junko Iwao, Rica Matsumoto",7.8
+2815,Action|War,Iron Eagle,1986,Sidney J. Furie,"Louis Gossett Jr., Jason Gedrick",5.3
+2812,Action|Thriller,In Too Deep,1999,Michael Rymer,"Omar Epps, LL Cool J",6.1
+2816,Action|War,Iron Eagle II,1988,Sidney J. Furie,"Louis Gossett Jr., Mark Humphrey",3.5
+2819,Thriller,Three Days of the Condor,1975,Sydney Pollack,"Robert Redford, Faye Dunaway",7.5
+2817,Action|War,Aces: Iron Eagle III,1992,John Glen,"Louis Gossett Jr., Rachel McLish",3.4
+2818,Action|War,Iron Eagle IV,1995,Sidney J. Furie,"Louis Gossett Jr., Jason Cadieux",3.1
+2820,Drama,Hamlet,1964,Grigori Kozintsev,"Innokentiy Smoktunovskiy, Mikhail Nazvanov",8.4
+2822,Adventure|Romance,Medicine Man,1992,John McTiernan,"Sean Connery, Lorraine Bracco",6
+2821,Adventure|Drama,Male and Female,1919,Cecil B. DeMille,"Thomas Meighan, Theodore Roberts",8
+2824,Documentary,On the Ropes,1999,"Nanette Burstein,Brett Morgen","Sam Doumit, Martin Goldman",7.5
+2828,Children's|Comedy,Dudley Do-Right,1999,Hugh Wilson,"Brendan Fraser, Sarah Jessica Parker",3.8
+2830,Drama,Cabaret Balkan,1998,Goran Paskaljevic,"Mira Banjac, Ivan Bekjarev",7.9
+2836,Comedy,Outside Providence,1999,Michael Corrente,"Shawn Hatosy, Tommy Bone",6.4
+2833,Romance|War,Lucie Aubrac,1997,Claude Berri,"Carole Bouquet, Daniel Auteuil",6.7
+2835,Action|Thriller,Chill Factor,1999,Hugh Johnson,"Cuba Gooding Jr., Skeet Ulrich",5.2
+2838,Comedy,I Woke Up Early the Day I Died,1998,Aris Iliopulos,"Billy Zane, Tippi Hedren",6.3
+2840,Thriller,Stigmata,1999,Rupert Wainwright,"Patricia Arquette, Gabriel Byrne",6.2
+2839,Drama,West Beirut,1998,Ziad Doueiri,"Rami Doueiri, Naamar Sahli",7.8
+2841,Thriller,Stir of Echoes,1999,David Koepp,"Zachary David Cope, Kevin Bacon",7
+2842,Crime|Drama,Best Laid Plans,1999,Mike Barker,"Alessandro Nivola, Reese Witherspoon",6.2
+2847,Drama,Only Angels Have Wings,1939,Howard Hawks,"Cary Grant, Jean Arthur",7.7
+2848,Drama,Othello,1952,Orson Welles,"Michel MacLiammir, Robert Coote",7.8
+2849,Comedy|Drama,Queens Logic,1991,Steve Rash,"Kevin Bacon, Linda Fiorentino",5.9
+2850,Drama|Thriller,Public Access,1993,Bryan Singer,"Ron Marquette, Bert Williams",5.3
+2856,Thriller,I Saw What You Did,1965,William Castle,"Joan Crawford, John Ireland",6.2
+2858,Comedy|Drama,American Beauty,1999,Sam Mendes,"Kevin Spacey, Annette Bening",8.4
+2859,Documentary,Stop Making Sense,1984,Jonathan Demme,"Bernie Worrell, Alex Weir",8.5
+2860,Comedy,Blue Streak,1999,Les Mayfield,"Martin Lawrence, Luke Wilson",6.3
+2857,Animation|Musical,Yellow Submarine,1968,George Dunning,"The Beatles, Paul Angelis",7.4
+2861,Comedy|Drama,For Love of the Game,1999,Sam Raimi,"Kevin Costner, Kelly Preston",6.5
+2864,Comedy,Splendor,1999,Gregg Araki,"Kathleen Robertson, Johnathon Schaech",5.9
+2865,Comedy,Sugar Town,1999,"Allison Anders,Kurt Voss","Jade Gordon, John Taylor",6.1
+2867,Comedy|Horror,Fright Night,1985,Tom Holland,"Chris Sarandon, William Ragsdale",7.1
+2871,Adventure|Thriller,Deliverance,1972,John Boorman,"Jon Voight, Burt Reynolds",7.7
+2870,Comedy,Barefoot in the Park,1967,Gene Saks,"Robert Redford, Jane Fonda",7
+2872,Action|Drama|Fantasy|Romance,Excalibur,1981,John Boorman,"Nigel Terry, Helen Mirren",7.4
+2873,Drama|Mystery|Romance,Lulu on the Bridge,1998,Paul Auster,"Harvey Keitel, Richard Edson",6.3
+2875,Drama|Mystery|Romance,Sommersby,1993,Jon Amiel,"Richard Gere, Jodie Foster",6.1
+2876,Animation|Children's,Thumbelina,1994,"Don Bluth,Gary Goldman","Gino Conforti, Barbara Cook",6.3
+2877,Drama|Musical,Tommy,1975,Ken Russell,"Oliver Reed, Ann-Margret",6.6
+2878,Horror,Hell Night,1981,Tom DeSimone,"Linda Blair, Vincent Van Patten",5.8
+2881,Action|Thriller,Double Jeopardy,1999,Bruce Beresford,"Tommy Lee Jones, Ashley Judd",6.4
+2882,Drama,Jakob the Liar,1999,Peter Kassovitz,"Robin Williams, Hannah Taylor Gordon",6.5
+2883,Comedy,Mumford,1999,Lawrence Kasdan,"Loren Dean, Hope Davis",6.9
+2888,Comedy|Romance,Drive Me Crazy,1999,John Schultz,"Melissa Joan Hart, Adrian Grenier",5.7
+2887,Drama,Simon Sez,1999,Kevin Alyn Elders,"Dennis Rodman, Dane Cook",2.5
+2885,Drama|Romance,Guinevere,1999,Audrey Wells,"Sarah Polley, Stephen Rea",6
+2890,Drama|War,Three Kings,1999,David O. Russell,"George Clooney, Mark Wahlberg",7.2
+2892,Action|Drama,New Rose Hotel,1998,Abel Ferrara,"Christopher Walken, Willem Dafoe",4.8
+2895,Adventure,Napoleon and Samantha,1972,Bernard McEveety,"Michael Douglas, Will Geer",6.2
+2896,Western,Alvarez Kelly,1966,Edward Dmytryk,"William Holden, Richard Widmark",6.4
+2900,Horror|Sci-Fi,Monkey Shines,1988,George A. Romero,"Jason Beghe, John Pankow",6.2
+2902,Horror|Thriller,Psycho II,1983,Richard Franklin,"Anthony Perkins, Vera Miles",6.4
+2905,Action|Adventure,Sanjuro,1962,Akira Kurosawa,"Toshir Mifune, Tatsuya Nakadai",8.2
+2903,Horror|Thriller,Psycho III,1986,Anthony Perkins,"Anthony Perkins, Diana Scarwid",5.2
+2906,Drama|Romance,Random Hearts,1999,Sydney Pollack,"Harrison Ford, Kristin Scott Thomas",5.1
+2908,Drama,Boys Don't Cry,1999,Kimberly Peirce,"Hilary Swank, Chlo Sevigny",7.6
+2916,Action|Adventure|Sci-Fi|Thriller,Total Recall,1990,Paul Verhoeven,"Arnold Schwarzenegger, Rachel Ticotin",7.5
+2915,Comedy,Risky Business,1983,Paul Brickman,"Tom Cruise, Rebecca De Mornay",6.8
+2914,Comedy|Drama,Molly,1999,John Duigan,"Elisabeth Shue, Aaron Eckhart",5.8
+2918,Comedy,Ferris Bueller's Day Off,1986,John Hughes,"Matthew Broderick, Alan Ruck",7.9
+2917,Crime|Thriller,Body Heat,1981,Lawrence Kasdan,"William Hurt, Kathleen Turner",7.4
+2920,Drama|Romance,Children of Paradise,1945,Marcel Carn,"Arletty, Jean-Louis Barrault",8.4
+2926,Comedy|Drama,Hairspray,1988,John Waters,"Sonny Bono, Ruth Brown",6.9
+2932,Drama,Days of Heaven,1978,Terrence Malick,"Richard Gere, Brooke Adams",8
+2930,Documentary,Return with Honor,1998,"Freida Lee Mock,Terry Sanders","Everett Alvarez, Ron Bliss",8.3
+2938,Drama,Man Facing Southeast,1986,Eliseo Subiela,"Lorenzo Quinteros, Hugo Soto",7.9
+2939,Drama|Thriller,Niagara,1953,Henry Hathaway,"Marilyn Monroe, Joseph Cotten",7.1
+2940,Film-Noir,Gilda,1946,Charles Vidor,"Rita Hayworth, Glenn Ford",7.8
+2941,Musical|Romance|War,South Pacific,1958,Joshua Logan,"Rossano Brazzi, Mitzi Gaynor",7
+2942,Drama|Romance,Flashdance,1983,Adrian Lyne,"Jennifer Beals, Michael Nouri",6.1
+2945,Mystery,Mike's Murder,1984,James Bridges,"Debra Winger, Mark Keyloun",5.6
+2947,Action,Goldfinger,1964,Guy Hamilton,"Sean Connery, Honor Blackman",7.8
+2948,Action,From Russia with Love,1963,Terence Young,"Sean Connery, Daniela Bianchi",7.5
+2946,Comedy|Musical,Help!,1965,Richard Lester,"The Beatles, Leo McKern",7.3
+2949,Action,Dr. No,1962,Terence Young,"Sean Connery, Ursula Andress",7.3
+2956,Action|Crime|Thriller,Someone to Watch Over Me,1987,Ridley Scott,"Tom Berenger, Mimi Rogers",6.1
+2955,Drama,Penitentiary II,1982,Jamaa Fanaka,"Leon Isaac Kennedy, Glynn Turman",3.4
+2954,Drama,Penitentiary,1979,Jamaa Fanaka,"Wilbur 'Hi-Fi' White, Leon Isaac Kennedy",5.8
+2957,Drama,Sparrows,1926,"William Beaudine,Tom McNamara","Mary Pickford, Roy Stewart",7.6
+2958,Drama,Naturally Native,1998,"Jennifer Wynne Farmer,Valerie Red-Horse","Valerie Red-Horse, Yvonne Russo",6.5
+2962,Comedy|Romance,Fever Pitch,1997,David Evans,"Luke Aikman, Bea Guard",6.7
+2963,Crime|Drama,Joe the King,1999,Frank Whaley,"Noah Fleiss, Karen Young",6.7
+2964,Drama,Julien Donkey-Boy,1999,Harmony Korine,"Ewen Bremner, Brian Fisk",6.6
+2968,Adventure|Fantasy|Sci-Fi,Time Bandits,1981,Terry Gilliam,"John Cleese, Sean Connery",7
+2970,Adventure|Drama,Fitzcarraldo,1982,Werner Herzog,"Klaus Kinski, Claudia Cardinale",8.2
+2972,Drama|War,Red Sorghum,1987,Yimou Zhang,"Li Gong, Wen Jiang",7.5
+2971,Musical,All That Jazz,1979,Bob Fosse,"Roy Scheider, Jessica Lange",7.8
+2973,Comedy,Crimes and Misdemeanors,1989,Woody Allen,"Bill Bernstein, Martin Landau",8
+2976,Drama|Horror,Bringing Out the Dead,1999,Martin Scorsese,"Nicolas Cage, Patricia Arquette",6.8
+2977,Comedy|Drama,Crazy in Alabama,1999,Antonio Banderas,"Melanie Griffith, David Morse",6.3
+2979,Drama,Body Shots,1999,Michael Cristofer,"Joe Basile, Scott Burkholder",5
+2978,Comedy|Romance,Three to Tango,1999,Damon Santostefano,"Matthew Perry, Neve Campbell",6.1
+2984,Documentary,On Any Sunday,1971,Bruce Brown,"Bruce Brown, David Evans",7.9
+2988,Drama,Melvin and Howard,1980,Jonathan Demme,"Jason Robards, Paul Le Mat",6.9
+2990,Action,Licence to Kill,1989,John Glen,"Timothy Dalton, Carey Lowell",6.6
+2989,Action,For Your Eyes Only,1981,John Glen,"Roger Moore, Carole Bouquet",6.8
+2991,Action,Live and Let Die,1973,Guy Hamilton,"Roger Moore, Yaphet Kotto",6.8
+2993,Action,Thunderball,1965,Terence Young,"Sean Connery, Claudine Auger",7
+2992,Horror|Thriller,Rawhead Rex,1986,George Pavlou,"David Dukes, Kelly Piper",4.9
+2997,Comedy,Being John Malkovich,1999,Spike Jonze,"John Cusack, Cameron Diaz",7.8
+2996,Drama,Music of the Heart,1999,Wes Craven,"Meryl Streep, Cloris Leachman",6.7
+3002,Documentary,My Best Fiend,1999,Werner Herzog,"Werner Herzog, Claudia Cardinale",7.9
+2999,Comedy,Man of the Century,1999,Adam Abraham,"Gibson Frazier, Cara Buono",7.1
+3003,Comedy|Drama,Train of Life,1998,Radu Mihaileanu,"Lionel Abelanski, Rufus",7.7
+3008,Thriller,Last Night,1998,Don McKellar,"Don McKellar, Sandra Oh",7.3
+3007,Documentary,American Movie,1999,Chris Smith,"Mark Borchardt, Tom Schimmels",7.9
+3010,Drama,Rosetta,1999,"Jean-Pierre Dardenne,Luc Dardenne","milie Dequenne, Fabrizio Rongione",7.6
+3012,Comedy,Battling Butler,1926,Buster Keaton,"Buster Keaton, Snitz Edwards",7.2
+3014,Comedy,Bustin' Loose,1981,"Oz Scott,Michael Schultz","Richard Pryor, Cicely Tyson",6
+3016,Horror,Creepshow,1982,George A. Romero,"Hal Holbrook, Adrienne Barbeau",6.8
+3019,Crime|Drama,Drugstore Cowboy,1989,Gus Van Sant,"Matt Dillon, Kelly Lynch",7.4
+3023,Comedy|Romance,My Best Girl,1927,Sam Taylor,"Mary Pickford, Charles 'Buddy' Rogers",7.8
+3020,Action|Drama,Falling Down,1993,Joel Schumacher,"Michael Douglas, Robert Duvall",7.6
+3024,Horror|Sci-Fi,Piranha,1978,Joe Dante,"Bradford Dillman, Heather Menzies-Urich",5.9
+3025,Western,Rough Night in Jericho,1967,Arnold Laven,"Dean Martin, George Peppard",6.4
+3029,Action|Drama,Nighthawks,1981,"Bruce Malmuth,Gary Nelson","Sylvester Stallone, Billy Dee Williams",6.4
+3031,Comedy,Repossessed,1990,Bob Logan,"Linda Blair, Ned Beatty",4.7
+3030,Comedy|Drama|Western,Yojimbo,1961,Akira Kurosawa,"Toshir Mifune, Tatsuya Nakadai",8.3
+3034,Animation|Children's,Robin Hood,1973,Wolfgang Reitherman,"Roger Miller, Peter Ustinov",7.6
+3033,Comedy|Sci-Fi,Spaceballs,1987,Mel Brooks,"Mel Brooks, John Candy",7.1
+3036,Adventure,Quest for Fire,1981,Jean-Jacques Annaud,"Everett McGill, Ron Perlman",7.4
+3035,Comedy|Drama|War,Mister Roberts,1955,"John Ford,Mervyn LeRoy","Henry Fonda, James Cagney",7.8
+3040,Comedy,Meatballs,1979,Ivan Reitman,"Bill Murray, Harvey Atkin",6.2
+3037,Comedy|Drama|Western,Little Big Man,1970,Arthur Penn,"Dustin Hoffman, Faye Dunaway",7.7
+3041,Comedy,Meatballs Part II,1984,Ken Wiederhorn,"Richard Mulligan, Hamilton Camp",3.4
+3039,Comedy,Trading Places,1983,John Landis,"Denholm Elliott, Dan Aykroyd",7.5
+3044,Mystery|Romance|Thriller,Dead Again,1991,Kenneth Branagh,"Kenneth Branagh, Andy Garcia",7
+3045,Comedy|Drama,Peter's Friends,1992,Kenneth Branagh,"Hugh Laurie, Kenneth Branagh",7
+3047,Drama,Experience Preferred... But Not Essential,1982,Peter Duffell,"Elizabeth Edmonds, Sue Wallace",7.2
+3049,Comedy|War,How I Won the War,1967,Richard Lester,"Michael Crawford, John Lennon",5.8
+3052,Comedy,Dogma,1999,Kevin Smith,"Bud Cort, Barret Hackney",7.4
+3050,Drama,Light It Up,1999,Craig Bolotin,"Usher Raymond, Forest Whitaker",6
+3048,Comedy,Under the Rainbow,1981,Steve Rash,"Chevy Chase, Carrie Fisher",5.4
+3051,Drama,Anywhere But Here,1999,Wayne Wang,"Susan Sarandon, Natalie Portman",6.1
+3055,Thriller,Felicia's Journey,1999,Atom Egoyan,"Bob Hoskins, Arsine Khanjian",7
+3059,Drama,British Intelligence,1940,Terry O. Morse,"Boris Karloff, Margaret Lindsay",6
+3056,Thriller,Oxygen,1999,Richard Shepard,"Maura Tierney, Adrien Brody",6.1
+3063,Thriller,Poison Ivy,1992,Katt Shea,"Sara Gilbert, Drew Barrymore",5.3
+3066,War,Tora! Tora! Tora!,1970,"Richard Fleischer,Kinji Fukasaku","Martin Balsam, S Yamamura",7.5
+3061,Comedy|Musical,Holiday Inn,1942,Mark Sandrich,"Bing Crosby, Fred Astaire",7.6
+3067,Comedy|Drama,Women on the Verge of a Nervous Breakdown,1988,Pedro Almodvar,"Carmen Maura, Antonio Banderas",7.6
+3072,Comedy,Moonstruck,1987,Norman Jewison,"Cher, Nicolas Cage",7.1
+3074,Western,Jeremiah Johnson,1972,Sydney Pollack,"Robert Redford, Will Geer",7.6
+3075,Thriller,Repulsion,1965,Roman Polanski,"Catherine Deneuve, Ian Hendry",7.8
+3079,Drama,Mansfield Park,1999,Patricia Rozema,"Hannah Taylor Gordon, Talya Gordon",7.1
+3076,Comedy,Irma la Douce,1963,Billy Wilder,"Jack Lemmon, Shirley MacLaine",7.4
+3078,Drama,Liberty Heights,1999,Barry Levinson,"Adrien Brody, Ben Foster",7.1
+3083,Comedy|Drama,All About My Mother,1999,Pedro Almodvar,"Cecilia Roth, Marisa Paredes",7.9
+3088,Comedy,Harvey,1950,Henry Koster,"James Stewart, Josephine Hull",8.1
+3087,Comedy,Scrooged,1988,Richard Donner,"Bill Murray, Karen Allen",7
+3091,Drama|War,Kagemusha,1980,Akira Kurosawa,"Tatsuya Nakadai, Tsutomu Yamazaki",8
+3090,Drama,Matewan,1987,John Sayles,"Chris Cooper, Mary McDonnell",7.9
+3099,Comedy|Romance,Shampoo,1975,Hal Ashby,"Warren Beatty, Julie Christie",6.3
+3101,Thriller,Fatal Attraction,1987,Adrian Lyne,"Michael Douglas, Glenn Close",6.9
+3102,Thriller,Jagged Edge,1985,Richard Marquand,"Maria Mayenzet, Peter Coyote",6.4
+3104,Action|Adventure|Comedy|Crime,Midnight Run,1988,Martin Brest,"Robert De Niro, Charles Grodin",7.6
+3107,Action|Drama,Backdraft,1991,Ron Howard,"Kurt Russell, William Baldwin",6.7
+3106,Drama|Romance,Come See the Paradise,1990,Alan Parker,"Dennis Quaid, Tamlyn Tomita",6.7
+3111,Drama,Places in the Heart,1984,Robert Benton,"Sally Field, Lindsay Crouse",7.3
+3113,Action|Thriller,End of Days,1999,Peter Hyams,"Arnold Schwarzenegger, Gabriel Byrne",5.7
+3115,Drama,Flawless,1999,Joel Schumacher,"Robert De Niro, Philip Seymour Hoffman",6.4
+3117,Drama|Romance|War,Ride with the Devil,1999,Ang Lee,"Tobey Maguire, Jeremy W. Auman",6.8
+3118,Drama,Tumbleweeds,1999,Gavin O'Connor,"Janet McTeer, Kimberly J. Brown",6.7
+3116,Drama,Miss Julie,1999,Mike Figgis,"Saffron Burrows, Peter Mullan",6.4
+3122,Drama|Romance|Western,Santa Fe Trail,1940,Michael Curtiz,"Errol Flynn, Olivia de Havilland",6.3
+3124,Comedy|Drama,Agnes Browne,1999,Anjelica Huston,"Anjelica Huston, Marion O'Dwyer",6.5
+3127,Drama,Holy Smoke,1999,Jane Campion,"Kate Winslet, Harvey Keitel",5.9
+3129,Comedy|Drama,Sweet and Lowdown,1999,Woody Allen,"Woody Allen, Ben Duncan",7.3
+3131,Comedy,Broadway Damage,1997,Victor Mignatti,"Mara Hobel, Michael Lucas",6.8
+3133,Comedy,Go West,1925,Buster Keaton,"Howard Truesdale, Kathleen Myers",7.3
+3138,Drama,Stealing Home,1988,"Steven Kampmann,William Porter","Mark Harmon, Blair Brown",6.8
+3139,Action|Adventure,Tarzan the Fearless,1933,Robert F. Hill,"Buster Crabbe, Julie Bishop",5.3
+3143,Drama|War,Hell in the Pacific,1968,John Boorman,"Lee Marvin, Toshir Mifune",7.4
+3146,Comedy,Deuce Bigalow: Male Gigolo,1999,Mike Mitchell,"Rob Schneider, William Forsythe",5.7
+3149,Mystery,Diamonds,1999,John Asher,"Kirk Douglas, Dan Aykroyd",5.4
+3156,Comedy|Drama|Sci-Fi,Bicentennial Man,1999,Chris Columbus,"Robin Williams, Embeth Davidtz",6.8
+3154,Drama|War,Blood on the Sun,1945,Frank Lloyd,"James Cagney, Sylvia Sidney",6.2
+3157,Children's|Comedy,Stuart Little,1999,Rob Minkoff,"Michael J. Fox, Geena Davis",5.9
+3160,Drama,Magnolia,1999,Paul Thomas Anderson,"Pat Healy, Genevieve Zweig",8
+3161,Drama,Onegin,1999,Martha Fiennes,"Ralph Fiennes, Liv Tyler",6.9
+3162,Comedy|Drama,Simpatico,1999,Matthew Warchus,"Nick Nolte, Jeff Bridges",4.5
+3163,Drama,Topsy-Turvy,1999,Mike Leigh,"Allan Corduner, Dexter Fletcher",7.4
+3165,Action|Drama,Boiling Point,1993,James B. Harris,"Wesley Snipes, Dennis Hopper",4.9
+3166,Adventure,Brenda Starr,1989,Robert Ellis Miller,"Brooke Shields, Timothy Dalton",4.6
+3168,Adventure|Drama,Easy Rider,1969,Dennis Hopper,"Peter Fonda, Dennis Hopper",7.4
+3170,Western,Hi-Yo Silver,1940,"John English,William Witney","Chief Thundercloud, Lynne Roberts",6.6
+3167,Drama,Carnal Knowledge,1971,Mike Nichols,"Jack Nicholson, Ann-Margret",7
+3173,Drama,Any Given Sunday,1999,Oliver Stone,"Al Pacino, Cameron Diaz",6.8
+3172,Adventure,Ulysses,1954,Mario Camerini,"Kirk Douglas, Silvana Mangano",6.7
+3175,Adventure|Comedy|Sci-Fi,Galaxy Quest,1999,Dean Parisot,"Tim Allen, Sigourney Weaver",7.3
+3174,Comedy|Drama,Man on the Moon,1999,Milos Forman,"Jim Carrey, Gerry Becker",7.4
+3179,Drama,Angela's Ashes,1999,Alan Parker,"Emily Watson, Robert Carlyle",7.3
+3181,Drama,Titus,1999,Julie Taymor,"Osheen Jones, Dario D'Ambrosi",7.3
+3185,Drama,Snow Falling on Cedars,1999,Scott Hicks,"Ethan Hawke, Yki Kud",6.8
+3187,Drama,Trans,1998,Julian Goldberger,"Lynn Boyd, Jon Daugherty",5.9
+3190,Adventure|Sci-Fi,Supernova,2000,Walter Hill,"James Spader, Angela Bassett",4.8
+3195,Drama,Tess of the Storm Country,1922,John S. Robertson,"Mary Pickford, Lloyd Hughes",7.4
+3199,Comedy|Musical|Romance,Pal Joey,1957,George Sidney,"Rita Hayworth, Frank Sinatra",6.8
+3198,Drama,Papillon,1973,Franklin J. Schaffner,"Steve McQueen, Dustin Hoffman",8
+3203,Thriller,Dead Calm,1989,Phillip Noyce,"Nicole Kidman, Sam Neill",6.8
+3201,Drama,Five Easy Pieces,1970,Bob Rafelson,"Jack Nicholson, Karen Black",7.5
+3206,Romance,Against All Odds,1984,Taylor Hackford,"Rachel Ward, Jeff Bridges",5.9
+3205,Horror,Black Sunday,1960,Mario Bava,"Barbara Steele, John Richardson",7.3
+3210,Comedy,Fast Times at Ridgemont High,1982,Amy Heckerling,"Sean Penn, Jennifer Jason Leigh",7.2
+3213,Animation|Children's,Batman: Mask of the Phantasm,1993,"Eric Radomski,Bruce W. Timm","Kevin Conroy, Dana Delany",7.9
+3212,Drama,Born to Win,1971,Ivan Passer,"George Segal, Paula Prentiss",5.7
+3214,Drama,American Flyers,1985,John Badham,"Kevin Costner, David Marshall Grant",6.3
+3215,Drama,Voyage of the Damned,1976,Stuart Rosenberg,"Faye Dunaway, Oskar Werner",6.5
+3218,Drama,Poison,1991,Todd Haynes,"Edith Meeks, Millie White",6.6
+3219,Thriller,Pacific Heights,1990,John Schlesinger,"Melanie Griffith, Matthew Modine",6.4
+3220,Drama,Night Tide,1961,Curtis Harrington,"Dennis Hopper, Linda Lawson",6.4
+3224,Drama,Woman in the Dunes,1964,Hiroshi Teshigahara,"Eiji Okada, Kyko Kishida",8.5
+3225,Comedy|Romance,Down to You,2000,Kris Isacsson,"Freddie Prinze Jr., Julia Stiles",4.9
+3228,Comedy,Wirey Spindell,1999,Eric Schaeffer,"Eric Schaeffer, Eric Mabius",4.6
+3235,Comedy,Where the Buffalo Roam,1980,Art Linson,"Peter Boyle, Bill Murray",6.7
+3232,Comedy,Seven Chances,1925,Buster Keaton,"Buster Keaton, T. Roy Barnes",8
+3236,Western,Zachariah,1971,George Englund,"John Rubinstein, Patricia Quinn",5.8
+3233,Comedy,Smashing Time,1967,Desmond Davis,"Rita Tushingham, Lynn Redgrave",6.5
+3238,Thriller,Eye of the Beholder,1999,Stephan Elliott,"Ewan McGregor, Ashley Judd",4.9
+3243,Comedy,Encino Man,1992,Les Mayfield,"Sean Astin, Brendan Fraser",5.7
+3247,Comedy|Crime,Sister Act,1992,Emile Ardolino,"Whoopi Goldberg, Maggie Smith",6.2
+3246,Drama,Malcolm X,1992,Spike Lee,"Denzel Washington, Angela Bassett",7.7
+3245,Drama,I Am Cuba,1964,Mikhail Kalatozov,"Sergio Corrieri, Salvador Wood",7.9
+3251,Drama|Mystery,Agnes of God,1985,Norman Jewison,"Jane Fonda, Anne Bancroft",6.6
+3253,Comedy,Wayne's World,1992,Penelope Spheeris,"Mike Myers, Dana Carvey",7
+3252,Drama,Scent of a Woman,1992,Martin Brest,"Al Pacino, Chris O'Donnell",8
+3256,Action|Thriller,Patriot Games,1992,Phillip Noyce,"Harrison Ford, Anne Archer",6.9
+3258,Comedy,Death Becomes Her,1992,Robert Zemeckis,"Meryl Streep, Bruce Willis",6.4
+3260,Drama,Howards End,1992,James Ivory,"Vanessa Redgrave, Helena Bonham Carter",7.5
+3262,Drama|Mystery,Twin Peaks: Fire Walk with Me,1992,David Lynch,"Sheryl Lee, Ray Wise",7.2
+3259,Drama|Romance,Far and Away,1992,Ron Howard,"Tom Cruise, Nicole Kidman",6.5
+3263,Comedy,White Men Can't Jump,1992,Ron Shelton,"Wesley Snipes, Woody Harrelson",6.7
+3268,Action|Comedy,Stop! Or My Mom Will Shoot,1992,Roger Spottiswoode,"Sylvester Stallone, Estelle Getty",4
+3271,Drama,Of Mice and Men,1992,Gary Sinise,"John Malkovich, Gary Sinise",7.5
+3269,Adventure|Romance|Sci-Fi,Forever Young,1992,Steve Miner,"Mel Gibson, Jamie Lee Curtis",6.2
+3272,Crime|Drama,Bad Lieutenant,1992,Abel Ferrara,"Harvey Keitel, Victor Argo",7.1
+3274,Action,Single White Female,1992,Barbet Schroeder,"Bridget Fonda, Jennifer Jason Leigh",6.3
+3276,Comedy,Gun Shy,2000,Eric Blakeney,"Liam Neeson, Oliver Platt",5.7
+3284,Comedy|Romance,They Might Be Giants,1971,Anthony Harvey,"George C. Scott, Joanne Woodward",7
+3283,Action,Minnie and Moskowitz,1971,John Cassavetes,"Gena Rowlands, Seymour Cassel",7.5
+3282,Comedy,Different for Girls,1996,Richard Spence,"Steven Mackintosh, Rupert Graves",7.1
+3288,Drama,Cotton Mary,1999,"Ismail Merchant,Madhur Jaffrey","Greta Scacchi, Madhur Jaffrey",5.4
+3289,Drama,Not One Less,1999,Yimou Zhang,"Minzhi Wei, Huike Zhang",7.8
+3290,Comedy,Soft Toilet Seats,1999,Tina Valinsky,"David Rosen, Alexa Jago",5.3
+3294,Horror,Eaten Alive,1976,Tobe Hooper,"Neville Brand, Mel Ferrer",5.4
+3293,Drama|Sci-Fi,Conceiving Ada,1997,Lynn Hershman-Leeson,"Tilda Swinton, Francesca Faridany",4.7
+3298,Drama,Boiler Room,2000,Ben Younger,"Giovanni Ribisi, Vin Diesel",7
+3295,Drama,Raining Stones,1993,Ken Loach,"Bruce Jones, Julie Brown",7.5
+3299,Comedy|Drama,Hanging Up,2000,Diane Keaton,"Meg Ryan, Diane Keaton",4.7
+3297,Documentary,With Byrd at the South Pole,1930,,"Richard E. Byrd, Clair D. Alexander",7.2
+3300,Action|Sci-Fi,Pitch Black,2000,David Twohy,"Vin Diesel, Radha Mitchell",7.1
+3304,Crime|Drama,Blue Collar,1978,Paul Schrader,"Richard Pryor, Harvey Keitel",7.6
+3307,Comedy|Drama|Romance,City Lights,1931,Charles Chaplin,"Virginia Cherrill, Florence Lee",8.6
+3313,Comedy,Class Reunion,1982,Michael Miller,"Gerrit Graham, Michael Lerner",4.6
+3315,Musical,Happy Go Lovely,1951,H. Bruce Humberstone,"David Niven, Vera-Ellen",6.5
+3316,Action|Thriller,Reindeer Games,2000,John Frankenheimer,"Ben Affleck, James Frain",5.7
+3319,Drama,Judy Berlin,1999,Eric Mendelsohn,"Barbara Barrie, Bob Dishy",6.8
+3317,Comedy|Drama,Wonder Boys,2000,Curtis Hanson,"Michael Douglas, Tobey Maguire",7.4
+3320,Comedy|Romance,Mifune,1999,Sren Kragh-Jacobsen,"Iben Hjejle, Anders W. Berthelsen",7.2
+3324,Comedy,Drowning Mona,2000,Nick Gomez,"Danny DeVito, Bette Midler",5.6
+3326,Comedy|Sci-Fi,What Planet Are You From?,2000,Mike Nichols,"Garry Shandling, Annette Bening",5.6
+3323,Comedy|Crime,Chain of Fools,2000,"Pontus Lwenhielm,Patrick von Krusenstjerna","Steve Zahn, Salma Hayek",6.2
+3328,Crime|Drama,Ghost Dog: The Way of the Samurai,1999,Jim Jarmusch,"Forest Whitaker, John Tormey",7.5
+3331,Drama,My Tutor,1983,George Bowers,"Caren Kaye, Matt Lattanzi",5.1
+3330,Drama,Splendor in the Grass,1961,Elia Kazan,"Natalie Wood, Pat Hingle",7.8
+3335,Crime|Drama,Jail Bait,1954,Edward D. Wood Jr.,"Lyle Talbot, Dolores Fuller",3.2
+3334,Crime|Drama|Film-Noir|Thriller,Key Largo,1948,John Huston,"Humphrey Bogart, Edward G. Robinson",7.9
+3342,Drama|War,Birdy,1984,Alan Parker,"Matthew Modine, Nicolas Cage",7.3
+3341,Comedy,Born Yesterday,1950,George Cukor,"Judy Holliday, Broderick Crawford",7.7
+3338,Documentary,For All Mankind,1989,Al Reinert,"Jim Lovell, Russell Schweickart",8.2
+3339,War,Cross of Iron,1977,Sam Peckinpah,"James Coburn, Maximilian Schell",7.5
+3344,Horror,Blood Feast,1963,Herschell Gordon Lewis,"William Kerwin, Mal Arnold",5
+3346,Horror,Color Me Blood Red,1965,Herschell Gordon Lewis,"Gordon Oas-Heim, Candi Conder",5.3
+3347,Drama,Never Cry Wolf,1983,Carroll Ballard,"Charles Martin Smith, Brian Dennehy",7.6
+3354,Sci-Fi,Mission to Mars,2000,Brian De Palma,"Gary Sinise, Tim Robbins",5.6
+3351,Horror,Two Thousand Maniacs!,1964,Herschell Gordon Lewis,"Connie Mason, William Kerwin",5.9
+3352,Drama,Brown's Requiem,1998,Jason Freeland,"Michael Rooker, Big Daddy Wayne",5.9
+3356,Documentary,Condo Painting,2000,John McNaughton,"Patrick Achdjian, William S. Burroughs",7.1
+3358,Comedy|Romance,Defending Your Life,1991,Albert Brooks,"Albert Brooks, Michael Durrell",7.3
+3359,Drama,Breaking Away,1979,Peter Yates,"Dennis Christopher, Dennis Quaid",7.7
+3362,Comedy|Crime|Drama,Dog Day Afternoon,1975,Sidney Lumet,"Penelope Allen, Sully Boyar",8
+3360,Drama,Hoosiers,1986,David Anspaugh,"Gene Hackman, Barbara Hershey",7.6
+3363,Comedy|Drama,American Graffiti,1973,George Lucas,"Richard Dreyfuss, Ron Howard",7.5
+3361,Comedy,Bull Durham,1988,Ron Shelton,"Kevin Costner, Susan Sarandon",7.1
+3370,Drama|Thriller,Betrayed,1988,Costa-Gavras,"Debra Winger, Tom Berenger",6.3
+3371,Drama,Bound for Glory,1976,Hal Ashby,"David Carradine, Ronny Cox",7.4
+3375,Sci-Fi,Destination Moon,1950,Irving Pichel,"John Archer, Warner Anderson",6.4
+3373,Western,Buck and the Preacher,1972,"Sidney Poitier,Joseph Sargent","Sidney Poitier, Harry Belafonte",6.4
+3380,Film-Noir,Railroaded!,1947,Anthony Mann,"John Ireland, Sheila Ryan",6.7
+3379,Drama,On the Beach,1959,Stanley Kramer,"Gregory Peck, Ava Gardner",7.3
+3381,Comedy|Drama,Slaves to the Underground,1997,Kristine Peterson,"Molly Gross, Jason Bortz",5.2
+3382,Drama,Song of Freedom,1936,J. Elder Wills,"Paul Robeson, Elisabeth Welch",6.5
+3385,Comedy,Volunteers,1985,Nicholas Meyer,"Tom Hanks, John Candy",5.4
+3383,Drama|Musical,Big Fella,1937,J. Elder Wills,"Paul Robeson, Elisabeth Welch",6.2
+3387,Comedy,Who's Harry Crumb?,1989,Paul Flaherty,"John Candy, Jeffrey Jones",5.8
+3389,Action|Adventure,Let's Get Harry,1986,Stuart Rosenberg,"Fidel Abrego, Jere Burns",5.2
+3388,Comedy,Harry and the Hendersons,1987,William Dear,"John Lithgow, Melinda Dillon",5.9
+3390,Adventure,Shanghai Surprise,1986,Jim Goddard,"Sean Penn, Madonna",3
+3395,Comedy,Nadine,1987,Robert Benton,"Jeff Bridges, Kim Basinger",5.5
+3392,Comedy,She-Devil,1989,Susan Seidelman,"Meryl Streep, Roseanne Barr",5.4
+3394,Comedy|Romance,Blind Date,1987,Blake Edwards,"Kim Basinger, Bruce Willis",5.9
+3393,Comedy|Fantasy,Date with an Angel,1987,Tom McLoughlin,"Michael E. Knight, Phoebe Cates",5.7
+3400,Animation|Children's,We're Back! A Dinosaur's Story,1993,"Phil Nibbelink,Simon Wells","John Goodman, Blaze Berdahl",6.1
+3402,Drama,Turtle Diary,1985,John Irvin,"Glenda Jackson, Ben Kingsley",7
+3403,Drama|Thriller,Raise the Titanic,1980,Jerry Jameson,"Jason Robards, Richard Jordan",4.7
+3408,Drama,Erin Brockovich,2000,Steven Soderbergh,"Julia Roberts, David Brisbin",7.3
+3411,Drama,Babymother,1998,Julian Henriques,"Anjela Lauren Smith, Wil Johnson",5.4
+3410,Comedy|Drama,Soft Fruit,1999,Christina Andreef,"Jeanie Drynan, Linal Haft",6.7
+3413,Crime|Drama,Impact,1949,Arthur Lubin,"Brian Donlevy, Ella Raines",7
+3414,Romance,Love Is a Many-Splendored Thing,1955,"Henry King,Otto Lang","William Holden, Jennifer Jones",6.6
+3423,Drama,School Daze,1988,Spike Lee,"Laurence Fishburne, Giancarlo Esposito",5.8
+3421,Comedy,Animal House,1978,John Landis,"Tom Hulce, Stephen Furst",7.6
+3419,Comedy|Crime,Something for Everyone,1970,Harold Prince,"Angela Lansbury, Michael York",7.4
+3422,Comedy|Romance,She's Gotta Have It,1986,Spike Lee,"Tracy Camilla Johns, Tommy Redmond Hicks",6.5
+3424,Comedy|Drama,Do the Right Thing,1989,Spike Lee,"Danny Aiello, Ossie Davis",7.9
+3425,Drama,Mo' Better Blues,1990,Spike Lee,"Denzel Washington, Spike Lee",6.5
+3427,Crime,Coogan's Bluff,1968,Don Siegel,"Clint Eastwood, Lee J. Cobb",6.5
+3426,Drama|Romance,Jungle Fever,1991,Spike Lee,"Wesley Snipes, Annabella Sciorra",6.5
+3430,Action|Drama,Death Wish,1974,Michael Winner,"Charles Bronson, Hope Lange",7
+3431,Action|Drama,Death Wish II,1982,Michael Winner,"Charles Bronson, Jill Ireland",6
+3434,Action|Drama,Death Wish V: The Face of Death,1994,Allan A. Goldstein,"Charles Bronson, Lesley-Anne Down",4.7
+3435,Crime|Film-Noir,Double Indemnity,1944,Billy Wilder,"Fred MacMurray, Barbara Stanwyck",8.4
+3437,Drama,Cool as Ice,1991,David Kellogg,"Naomi Campbell, Vanilla Ice",2.8
+3436,Drama|Romance,Dying Young,1991,Joel Schumacher,"Julia Roberts, Campbell Scott",5.9
+3440,Action|Children's|Fantasy,Teenage Mutant Ninja Turtles III,1993,Stuart Gillard,"Elias Koteas, Paige Turco",4.8
+3441,Action|War,Red Dawn,1984,John Milius,"Patrick Swayze, C. Thomas Howell",6.3
+3439,Action|Children's|Fantasy,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,1991,Michael Pressman,"Paige Turco, David Warner",6
+3442,Action,Band of the Hand,1986,Paul Michael Glaser,"Stephen Lang, Michael Carmine",6.3
+3443,Action|Drama|Thriller,Born American,1986,Renny Harlin,"Mike Norris, Steve Durham",4.4
+3444,Action,Bloodsport,1988,Newt Arnold,"Jean-Claude Van Damme, Donald Gibb",6.8
+3445,Mystery|Thriller,Eyes of Laura Mars,1978,Irvin Kershner,"Faye Dunaway, Tommy Lee Jones",6.1
+3446,Comedy,Funny Bones,1995,Peter Chelsom,"Oliver Platt, Jerry Lewis",7
+3450,Comedy,Grumpy Old Men,1993,Donald Petrie,"Jack Lemmon, Walter Matthau",6.9
+3453,Drama|Romance,Here on Earth,2000,Mark Piznarski,"Chris Klein, Leelee Sobieski",5.1
+3452,Action|Romance,Romeo Must Die,2000,Andrzej Bartkowiak,"Jet Li, Aaliyah",6.1
+3451,Comedy|Drama,Guess Who's Coming to Dinner,1967,Stanley Kramer,"Spencer Tracy, Sidney Poitier",7.8
+3455,Drama|Thriller,Buddy Boy,1999,Mark Hanlon,"Aidan Gillen, Emmanuelle Seigner",6.4
+3454,Comedy|Romance,Whatever It Takes,2000,David Raynr,"Jodi Lyn O'Keefe, Shane West",5.5
+3459,Drama|Horror,Gothic,1986,Ken Russell,"Gabriel Byrne, Julian Sands",5.7
+3462,Comedy,Modern Times,1936,Charles Chaplin,"Charles Chaplin, Paulette Goddard",8.6
+3460,Comedy,Hillbillys in a Haunted House,1967,Jean Yarbrough,"Ferlin Husky, Joi Lansing",2.1
+3463,Comedy,Last Resort,1994,Rafal Zielinski,"Corey Feldman, Corey Haim",2.7
+3465,Drama,That's Life!,1986,Blake Edwards,"Jack Lemmon, Julie Andrews",6.1
+3467,Drama|Western,Hud,1963,Martin Ritt,"Paul Newman, Melvyn Douglas",7.9
+3469,Drama,Inherit the Wind,1960,Stanley Kramer,"Spencer Tracy, Fredric March",8.2
+3471,Drama|Sci-Fi,Close Encounters of the Third Kind,1977,Steven Spielberg,"Richard Dreyfuss, Franois Truffaut",7.7
+3474,Sci-Fi|Thriller,Retroactive,1997,Louis Morneau,"James Belushi, Kylie Travis",6.3
+3466,Comedy|Fantasy,Heart and Souls,1993,Ron Underwood,"Robert Downey Jr., Charles Grodin",6.9
+3477,Comedy|Drama,Empire Records,1995,Allan Moyle,"Anthony LaPaglia, Maxwell Caulfield",6.7
+3479,Adventure|Fantasy|Romance,Ladyhawke,1985,Richard Donner,"Matthew Broderick, Rutger Hauer",7
+3476,Horror|Mystery|Thriller,Jacob's Ladder,1990,Adrian Lyne,"Tim Robbins, Elizabeth Pea",7.5
+3480,Drama,Lucas,1986,David Seltzer,"Corey Haim, Kerri Green",6.8
+3481,Comedy,High Fidelity,2000,Stephen Frears,"John Cusack, Iben Hjejle",7.6
+3482,Drama,Price of Glory,2000,Carlos vila,"Jimmy Smits, Maria del Mar",6.5
+3485,Horror,Autopsy,1975,Armando Crispino,"Mimsy Farmer, Barry Primus",5.9
+3489,Adventure|Fantasy,Hook,1991,Steven Spielberg,"Dustin Hoffman, Robin Williams",6.7
+3491,Comedy,My Chauffeur,1986,David Beaird,"Deborah Foreman, Sam J. Jones",5.6
+3493,Horror,Torso,1973,Sergio Martino,"Suzy Kendall, Tina Aumont",6.6
+3494,Adventure|Western,True Grit,1969,Henry Hathaway,"John Wayne, Glen Campbell",7.4
+3497,Comedy,Max Dugan Returns,1983,Herbert Ross,"Marsha Mason, Jason Robards",6.6
+3495,Comedy|Drama,Roadside Prophets,1992,Abbe Wool,"John Doe, David Anthony Marshall",6.5
+3496,Drama,Madame Sousatzka,1988,John Schlesinger,"Shirley MacLaine, Peggy Ashcroft",6.6
+3499,Horror,Misery,1990,Rob Reiner,"James Caan, Kathy Bates",7.8
+3498,Drama,Midnight Express,1978,Alan Parker,"Brad Davis, Irene Miracle",7.7
+3503,Drama|Sci-Fi,Solaris,1972,Andrei Tarkovsky,"Natalya Bondarchuk, Donatas Banionis",8.1
+3501,Comedy|Romance,Murphy's Romance,1985,Martin Ritt,"Sally Field, James Garner",7
+3500,Comedy|Drama,Mr. Saturday Night,1992,Billy Crystal,"Billy Crystal, David Paymer",5.8
+3505,Thriller,No Way Out,1987,Roger Donaldson,"Kevin Costner, Gene Hackman",7.1
+3506,Comedy|Drama,North Dallas Forty,1979,Ted Kotcheff,"Nick Nolte, Mac Davis",7
+3512,Drama|Romance,Return to Me,2000,Bonnie Hunt,"David Duchovny, Minnie Driver",6.9
+3514,Drama,Joe Gould's Secret,2000,Stanley Tucci,"Ian Holm, Stanley Tucci",6.6
+3511,Comedy,Ready to Rumble,2000,Brian Robbins,"David Arquette, Oliver Platt",5.3
+3520,Comedy,How to Stuff a Wild Bikini,1965,William Asher,"Annette Funicello, Dwayne Hickman",4.3
+3521,Comedy|Crime|Drama,Mystery Train,1989,Jim Jarmusch,"Masatoshi Nagase, Yki Kud",7.6
+3524,Comedy|Romance,Arthur,1981,Steve Gordon,"Dudley Moore, Liza Minnelli",6.9
+3523,Action|Thriller,Taffin,1988,Francis Megahy,"Pierce Brosnan, Ray McAnally",5.6
+3525,Comedy,Bachelor Party,1984,Neal Israel,"Tom Hanks, Tawny Kitaen",6.3
+3527,Action|Sci-Fi|Thriller,Predator,1987,John McTiernan,"Arnold Schwarzenegger, Carl Weathers",7.8
+3526,Comedy|Drama,Parenthood,1989,Ron Howard,"Steve Martin, Mary Steenburgen",7
+3530,Comedy,Smoking/No Smoking,1993,Alain Resnais,"Sabine Azma, Pierre Arditi",7.6
+3531,Comedy|Drama|Romance,All the Vermeers in New York,1990,Jon Jost,"Emmanuelle Chaulet, Katherine Bean",6.8
+3535,Comedy|Horror|Thriller,American Psycho,2000,Mary Harron,"Christian Bale, Justin Theroux",7.6
+3537,Comedy|Drama,Where the Money Is,2000,Marek Kanievska,"Paul Newman, Linda Fiorentino",6.3
+3536,Comedy|Romance,Keeping the Faith,2000,Edward Norton,"Ben Stiller, Edward Norton",6.4
+3541,Action,Third World Cop,1999,Chris Browne,"Paul Campbell, Mark Danvers",6.3
+3543,Comedy|Drama,Diner,1982,Barry Levinson,"Steve Guttenberg, Daniel Stern",7.2
+3542,Drama,Coming Apart,1969,Milton Moses Ginsberg,"Rip Torn, Sally Kirkland",7
+3544,Comedy,Shakes the Clown,1991,Bobcat Goldthwait,"Bobcat Goldthwait, Julie Brown",5.5
+3546,Drama|Thriller,What Ever Happened to Baby Jane?,1962,Robert Aldrich,"Bette Davis, Joan Crawford",8.1
+3547,Drama,Prick Up Your Ears,1987,Stephen Frears,"Gary Oldman, Alfred Molina",7.4
+3548,Comedy|Drama,Auntie Mame,1958,Morton DaCosta,"Rosalind Russell, Forrest Tucker",8
+3549,Musical,Guys and Dolls,1955,Joseph L. Mankiewicz,"Marlon Brando, Jean Simmons",7.3
+3551,Thriller,Marathon Man,1976,John Schlesinger,"Dustin Hoffman, Laurence Olivier",7.5
+3553,Drama|Thriller,Gossip,2000,Davis Guggenheim,"James Marsden, Lena Headey",5.9
+3552,Comedy,Caddyshack,1980,Harold Ramis,"Chevy Chase, Rodney Dangerfield",7.4
+3559,Drama,Limelight,1952,Charles Chaplin,"Charles Chaplin, Claire Bloom",8.1
+3565,Comedy|Drama,Where the Heart Is,2000,Matt Williams,"Natalie Portman, Ashley Judd",6.8
+3572,Horror|Sci-Fi,Carnosaur,1993,"Adam Simon,Darren Moloney","Diane Ladd, Raphael Sbarge",3.5
+3580,Drama,Up at the Villa,2000,Philip Haas,"Kristin Scott Thomas, Sean Penn",6
+3579,Drama,I Dreamed of Africa,2000,Hugh Hudson,"Kim Basinger, Vincent Perez",5.6
+3581,Drama,Human Traffic,1999,Justin Kerrigan,"John Simm, Lorraine Pilkington",7.1
+3584,Action|Drama|Romance|Thriller,Breathless,1983,Jim McBride,"Richard Gere, Valrie Kaprisky",5.7
+3591,Comedy|Drama,Mr. Mom,1983,Stan Dragoti,"Michael Keaton, Teri Garr",6.5
+3594,Drama,Center Stage,2000,Nicholas Hytner,"Amanda Schull, Christine Dunham",6.7
+3593,Action|Sci-Fi,Battlefield Earth,2000,Roger Christian,"John Travolta, Barry Pepper",2.4
+3597,Comedy,Whipped,2000,Peter M. Cohen,"Amanda Peet, Brian Van Holt",4.4
+3596,Comedy,Screwed,2000,"Scott Alexander,Larry Karaszewski","Norm MacDonald, Dave Chappelle",5.7
+3599,Comedy|Musical,Anchors Aweigh,1945,George Sidney,"Frank Sinatra, Kathryn Grayson",7.2
+3600,Comedy|Musical,Blue Hawaii,1961,Norman Taurog,"Elvis Presley, Joan Blackman",6
+3604,Musical,Gypsy,1962,Mervyn LeRoy,"Rosalind Russell, Natalie Wood",7.2
+3605,Drama|Musical,King Creole,1958,Michael Curtiz,"Elvis Presley, Carolyn Jones",7
+3607,Comedy|Drama|Western,One Little Indian,1973,Bernard McEveety,"James Garner, Vera Miles",6.6
+3608,Comedy,Pee-wee's Big Adventure,1985,Tim Burton,"Paul Reubens, Elizabeth Daily",7
+3606,Musical,On the Town,1949,"Stanley Donen,Gene Kelly","Gene Kelly, Frank Sinatra",7.6
+3609,Documentary,Regret to Inform,1998,Barbara Sonneborn,"Xuan Ngoc Nguyen, Barbara Sonneborn",7.4
+3610,Musical,Roustabout,1964,John Rich,"Elvis Presley, Barbara Stanwyck",5.9
+3614,Comedy|Romance,Honeymoon in Vegas,1992,Andrew Bergman,"James Caan, Nicolas Cage",5.8
+3613,Comedy,Things Change,1988,David Mamet,"Don Ameche, Joe Mantegna",7
+3616,Comedy|Romance,Loser,2000,Amy Heckerling,"Jason Biggs, Mena Suvari",5.3
+3618,Comedy,Small Time Crooks,2000,Woody Allen,"Woody Allen, Carolyn Saxon",6.7
+3621,Drama|Horror,Possession,1981,Andrzej Zulawski,"Isabelle Adjani, Sam Neill",7.4
+3625,Documentary,Better Living Through Circuitry,1999,Jon Reiss,"Moby, Lord T. Byron",7.1
+3624,Action,Shanghai Noon,2000,Tom Dey,"Jackie Chan, Owen Wilson",6.6
+3627,Horror|Thriller,Carnival of Souls,1962,Herk Harvey,"Candace Hilligoss, Frances Feist",7.2
+3628,Action|Drama|War,Flying Tigers,1942,David Miller,"John Wayne, John Carroll",6.8
+3633,Action,On Her Majesty's Secret Service,1969,Peter R. Hunt,"George Lazenby, Diana Rigg",6.8
+3632,Comedy,Monsieur Verdoux,1947,Charles Chaplin,"Charles Chaplin, Mady Correll",8
+3634,Thriller,Seven Days in May,1964,John Frankenheimer,"Burt Lancaster, Kirk Douglas",7.9
+3638,Action|Romance|Sci-Fi,Moonraker,1979,Lewis Gilbert,"Roger Moore, Lois Chiles",6.3
+3637,Drama,Vagabond,1985,Agns Varda,"Sandrine Bonnaire, Setti Ramdane",7.8
+3636,Drama,Those Who Love Me Can Take the Train,1998,Patrice Chreau,"Pascal Greggory, Valeria Bruni Tedeschi",6.6
+3644,Western,Dark Command,1940,Raoul Walsh,"Claire Trevor, John Wayne",6.9
+3642,Western,In Old California,1942,William C. McGann,"John Wayne, Binnie Barnes",6.4
+3649,Drama,American Gigolo,1980,Paul Schrader,"Richard Gere, Lauren Hutton",6.2
+3656,Crime,Lured,1947,Douglas Sirk,"George Sanders, Lucille Ball",7
+3657,Drama,Pandora and the Flying Dutchman,1951,Albert Lewin,"James Mason, Ava Gardner",7.1
+3661,Horror|Sci-Fi|Thriller,Puppet Master II,1990,David Allen,"Elizabeth Maclellan, Collin Bernsen",5.4
+3662,Horror|Sci-Fi|Thriller,Puppet Master III: Toulon's Revenge,1991,David DeCoteau,"Guy Rolfe, Richard Lynch",6
+3665,Horror|Sci-Fi|Thriller,Curse of the Puppet Master,1998,David DeCoteau,"George Peck, Emily Harrison",3.9
+3668,Drama|Romance,Romeo and Juliet,1968,Franco Zeffirelli,"Leonard Whiting, Olivia Hussey",7.7
+3671,Comedy|Western,Blazing Saddles,1974,Mel Brooks,"Cleavon Little, Gene Wilder",7.8
+3669,Comedy,Stay Tuned,1992,Peter Hyams,"John Ritter, Pam Dawber",6
+3673,Adventure|Children's,Benji the Hunted,1987,Joe Camp,"Benjean, Frank Inn",6.3
+3675,Musical,White Christmas,1954,Michael Curtiz,"Bing Crosby, Danny Kaye",7.6
+3674,Adventure|Children's,For the Love of Benji,1977,Joe Camp,"Benjean, Art Vasil",5.9
+3677,Documentary,Baraka,1992,Ron Fricke,,8.6
+3672,Adventure|Children's,Benji,1974,Joe Camp,"Patsy Garrett, Allen Fiuzat",6.1
+3676,Drama|Horror,Eraserhead,1977,David Lynch,"Jack Nance, Charlotte Stewart",7.4
+3682,Western,Magnum Force,1973,Ted Post,"Clint Eastwood, Hal Holbrook",7.2
+3681,Western,For a Few Dollars More,1965,Sergio Leone,"Clint Eastwood, Lee Van Cleef",8.3
+3686,Thriller,Flatliners,1990,Joel Schumacher,"Kiefer Sutherland, Julia Roberts",6.5
+3685,Comedy|Drama|Romance,Prizzi's Honor,1985,John Huston,"Jack Nicholson, Kathleen Turner",6.8
+3688,Comedy,Porky's,1981,Bob Clark,"Dan Monahan, Mark Herrier",6.1
+3689,Comedy,Porky's II: The Next Day,1983,Bob Clark,"Dan Monahan, Wyatt Knight",4.9
+3692,Comedy|Horror,Class of Nuke 'Em High,1986,"Richard W. Haines,Lloyd Kaufman","Janelle Brady, Gil Brenton",5.6
+3690,Comedy,Porky's Revenge,1985,James Komack,"Dan Monahan, Wyatt Knight",4.6
+3691,Comedy,Private School,1983,Noel Black,"Phoebe Cates, Betsy Russell",5.2
+3696,Comedy|Horror|Sci-Fi,Night of the Creeps,1986,Fred Dekker,"Jason Lively, Steve Marshall",6.8
+3699,Adventure|Drama|Romance|Sci-Fi,Starman,1984,John Carpenter,"Jeff Bridges, Karen Allen",7
+3705,Action|Adventure|Romance|Thriller,Bird on a Wire,1990,John Badham,"Mel Gibson, Goldie Hawn",5.9
+3704,Action|Sci-Fi,Mad Max Beyond Thunderdome,1985,"George Miller,George Ogilvie","Mel Gibson, Bruce Spence",6.2
+3706,Film-Noir|Mystery|Thriller,Angel Heart,1987,Alan Parker,"Mickey Rourke, Robert De Niro",7.3
+3710,Action|Comedy,Action Jackson,1988,Craig R. Baxley,"Carl Weathers, Craig T. Nelson",5.2
+3709,Horror,Sleepwalkers,1992,Mick Garris,"Brian Krause, Mdchen Amick",5.1
+3708,Horror|Thriller,Firestarter,1984,Mark L. Lester,"David Keith, Drew Barrymore",6
+3712,Comedy,Soapdish,1991,Michael Hoffman,"Sally Field, Kevin Kline",6.5
+3714,Drama,Clara's Heart,1988,Robert Mulligan,"Whoopi Goldberg, Michael Ontkean",6.3
+3711,Drama,Sarafina!,1992,Darrell Roodt,"Leleti Khumalo, Whoopi Goldberg",6.4
+3715,Comedy,Burglar,1987,Hugh Wilson,"Whoopi Goldberg, Bobcat Goldthwait",5
+3719,Comedy|Romance,Love's Labour's Lost,2000,Kenneth Branagh,"Alessandro Nivola, Alicia Silverstone",6.1
+3716,Action|Crime,Fatal Beauty,1987,Tom Holland,"Whoopi Goldberg, Sam Elliott",5.3
+3718,Documentary,American Pimp,1999,"Albert Hughes,Allen Hughes","Too $hort, John S. Dickson",6.6
+3722,Comedy,Live Virgin,1999,Jean-Pierre Marois,"Mark Adair-Rios, Jason Bercy",3.6
+3723,Drama,Hamlet,1990,Franco Zeffirelli,"Mel Gibson, Glenn Close",6.8
+3724,Drama|War,Coming Home,1978,Hal Ashby,"Jane Fonda, Jon Voight",7.3
+3725,Animation|Musical,American Pop,1981,Ralph Bakshi,"Ron Thompson, Mews Small",7.2
+3727,Comedy|Horror,Near Dark,1987,Kathryn Bigelow,"Adrian Pasdar, Jenny Wright",7
+3731,Drama|Thriller,Cutter's Way,1981,Ivan Passer,"Jeff Bridges, John Heard",6.9
+3735,Crime|Drama,Serpico,1973,Sidney Lumet,"Al Pacino, John Randolph",7.8
+3734,Drama,Prince of the City,1981,Sidney Lumet,"Treat Williams, Jerry Orbach",7.7
+3737,Drama|Western,Lonely Are the Brave,1962,David Miller,"Kirk Douglas, Gena Rowlands",7.7
+3739,Comedy|Romance,Trouble in Paradise,1932,Ernst Lubitsch,"Miriam Hopkins, Kay Francis",8.2
+3740,Action|Comedy,Big Trouble in Little China,1986,John Carpenter,"Kurt Russell, Kim Cattrall",7.3
+3741,Crime|Drama,Badlands,1973,Terrence Malick,"Martin Sheen, Sissy Spacek",7.9
+3743,Comedy|Romance,Boys and Girls,2000,Robert Iscove,"Brendon Ryan Barrett, Gay Thomas Wilson",5.3
+3744,Action|Crime,Shaft,2000,John Singleton,"Samuel L. Jackson, Vanessa Williams",5.9
+3745,Adventure|Animation|Sci-Fi,Titan A.E.,2000,"Don Bluth,Gary Goldman","Matt Damon, Bill Pullman",6.6
+3747,Drama,Jesus' Son,1999,Alison Maclean,"Billy Crudup, Robert Michael Kelly",7
+3750,Drama,Boricua's Bond,2000,Val Lik,"Frankie Negron, Val Lik",3.8
+3751,Animation|Children's|Comedy,Chicken Run,2000,"Peter Lord,Nick Park","Phil Daniels, Lynn Ferguson",7
+3757,Horror,Asylum,1972,Roy Ward Baker,"Barbara Parkins, Richard Todd",6.5
+3758,Drama|Sci-Fi|Thriller,Communion,1989,Philippe Mora,"Christopher Walken, Lindsay Crouse",5.7
+3763,Action|Crime|Thriller,F/X,1986,Robert Mandel,"Bryan Brown, Brian Dennehy",6.6
+3766,Action|War,Missing in Action,1984,Joseph Zito,"Chuck Norris, M. Emmet Walsh",5.3
+3768,Action|War,Braddock: Missing in Action III,1988,Aaron Norris,"Chuck Norris, Aki Aleong",4.6
+3770,Adventure|Crime|Sci-Fi|Thriller,Dreamscape,1984,Joseph Ruben,"Dennis Quaid, Max von Sydow",6.3
+3769,Action,Thunderbolt and Lightfoot,1974,Michael Cimino,"Clint Eastwood, Jeff Bridges",7.1
+3773,Comedy,House Party,1990,Reginald Hudlin,"Christopher Reid, Robin Harris",6.3
+3776,Animation|Children's|Musical,Melody Time,1948,"Clyde Geronimi,Wilfred Jackson","Roy Rogers, Trigger",6.5
+3775,Animation|Children's|Musical,Make Mine Music,1946,"Robert Cormack,Clyde Geronimi","Nelson Eddy, Dinah Shore",6.5
+3778,Comedy|Drama,On Our Merry Way,1948,"Leslie Fenton,King Vidor","Paulette Goddard, James Stewart",6
+3777,Comedy|Horror,Nekromantik,1987,Jrg Buttgereit,"Bernd Daktari Lorenz, Beatrice Manowski",5.2
+3779,Sci-Fi,Project Moon Base,1953,Richard Talmadge,"Donna Martell, Hayden Rorke",2.7
+3782,Action|Crime,Shaft's Big Score!,1972,Gordon Parks,"Richard Roundtree, Moses Gunn",6.1
+3781,Action|Crime,Shaft in Africa,1973,John Guillermin,"Richard Roundtree, Frank Finlay",5.9
+3786,Comedy,But I'm a Cheerleader,1999,Jamie Babbit,"Natasha Lyonne, Michelle Williams",6.6
+3780,Sci-Fi,Rocketship X-M,1950,Kurt Neumann,"Lloyd Bridges, Osa Massen",4.9
+3783,Crime|Drama,Croupier,1998,Mike Hodges,"Clive Owen, Nick Reding",7.2
+3791,Drama,Footloose,1984,Herbert Ross,"Kevin Bacon, Lori Singer",6.5
+3792,Western,Duel in the Sun,1946,"King Vidor,Otto Brower","Jennifer Jones, Joseph Cotten",6.9
+3793,Action|Sci-Fi,X-Men,2000,Bryan Singer,"Hugh Jackman, Patrick Stewart",7.4
+3798,Thriller,What Lies Beneath,2000,Robert Zemeckis,"Michelle Pfeiffer, Katharine Towne",6.6
+3801,Drama|Mystery,Anatomy of a Murder,1959,Otto Preminger,"James Stewart, Lee Remick",8.1
+3804,Comedy,H.O.T.S.,1979,Gerald Seth Sindell,"Susan Kiger, Lisa London",4.2
+3802,Action|Sci-Fi,Freejack,1992,Geoff Murphy,"Emilio Estevez, Mick Jagger",5.3
+3803,Drama,Greaser's Palace,1972,Robert Downey Sr.,"Albert Henderson, Michael Sullivan",6.3
+3800,Drama|Romance,Criminal Lovers,1999,Franois Ozon,"Natacha Rgnier, Jrmie Renier",6.6
+3805,Action|Adventure|Drama,Knightriders,1981,George A. Romero,"Ed Harris, Gary Lahti",6.4
+3807,Action|Adventure,Sinbad and the Eye of the Tiger,1977,Sam Wanamaker,"Patrick Wayne, Taryn Power",6.3
+3810,Drama|Thriller,White Sands,1992,Roger Donaldson,"Willem Dafoe, Mary Elizabeth Mastrantonio",6
+3809,Comedy,What About Bob?,1991,Frank Oz,"Bill Murray, Richard Dreyfuss",7
+3813,Drama,Interiors,1978,Woody Allen,"Kristin Griffith, Mary Beth Hurt",7.6
+3814,Comedy,Love and Death,1975,Woody Allen,"Woody Allen, Diane Keaton",7.8
+3811,Drama|War,Breaker Morant,1980,Bruce Beresford,"Edward Woodward, Jack Thompson",7.9
+3821,Comedy,Nutty Professor II: The Klumps,2000,Peter Segal,"Eddie Murphy, Janet Jackson",4.3
+3820,Children's,Thomas and the Magic Railroad,2000,Britt Allcroft,"Alec Baldwin, Cody McMains",3.6
+3824,Drama|Romance,Autumn in New York,2000,Joan Chen,"Richard Gere, Winona Ryder",5.5
+3825,Drama,Coyote Ugly,2000,David McNally,"Piper Perabo, Adam Garcia",5.6
+3827,Action|Sci-Fi,Space Cowboys,2000,Clint Eastwood,"Clint Eastwood, Tommy Lee Jones",6.4
+3828,Comedy,Better Living,1998,Max Mayer,"Scott Cohen, Olympia Dukakis",4.6
+3830,Comedy|Horror|Thriller,Psycho Beach Party,2000,Robert Lee King,"Lauren Ambrose, Thomas Gibson",6.3
+3834,Adventure|Drama|Romance,Bronco Billy,1980,Clint Eastwood,"Clint Eastwood, Sondra Locke",6
+3829,Comedy|Romance,Mad About Mambo,2000,John Forte,"William Ash, Maclean Stewart",6
+3836,Action|Comedy|War,Kelly's Heroes,1970,Brian G. Hutton,"Clint Eastwood, Telly Savalas",7.7
+3838,Horror,Phantasm III: Lord of the Dead,1994,Don Coscarelli,"Reggie Bannister, A. Michael Baldwin",6
+3837,Horror,Phantasm II,1988,Don Coscarelli,"James Le Gros, Reggie Bannister",6.5
+3839,Horror,Phantasm IV: Oblivion,1998,Don Coscarelli,"A. Michael Baldwin, Reggie Bannister",5.7
+3840,Horror,Pumpkinhead,1988,Stan Winston,"Lance Henriksen, Jeff East",6.2
+3841,Action|Comedy,Air America,1990,Roger Spottiswoode,"Mel Gibson, Robert Downey Jr.",5.7
+3843,Horror,Sleepaway Camp,1983,Robert Hiltzik,"Felissa Rose, Jonathan Tiersten",6.2
+3846,Comedy,Easy Money,1983,James Signorelli,"Rodney Dangerfield, Joe Pesci",6.3
+3844,Drama,Steel Magnolias,1989,Herbert Ross,"Sally Field, Dolly Parton",7.2
+3848,Drama|Thriller,Silent Fall,1994,Bruce Beresford,"Richard Dreyfuss, Linda Hamilton",5.9
+3851,Comedy,I'm the One That I Want,2000,Lionel Coleman,Margaret Cho,7.5
+3857,Thriller,Bless the Child,2000,Chuck Russell,"Kim Basinger, Jimmy Smits",5.1
+3862,Comedy,About Adam,2000,Gerard Stembridge,"Tommy Tiernan, Kate Hudson",6
+3866,Comedy,Sunset Strip,2000,Adam Collis,"Simon Baker, Anna Friel",5.7
+3873,Comedy|Western,Cat Ballou,1965,Elliot Silverstein,"Jane Fonda, Lee Marvin",6.9
+3871,Drama|Western,Shane,1953,George Stevens,"Alan Ladd, Jean Arthur",7.7
+3870,Drama,Our Town,1940,Sam Wood,"William Holden, Martha Scott",6.8
+3877,Action|Adventure|Fantasy,Supergirl,1984,Jeannot Szwarc,"Faye Dunaway, Helen Slater",4.3
+3881,Documentary,Bittersweet Motel,2000,Todd Phillips,"Trey Anastasio, Jon Fishman",8.1
+3882,Comedy,Bring It On,2000,Peyton Reed,"Kirsten Dunst, Eliza Dushku",5.9
+3889,Action|Adventure|Fantasy,Highlander: Endgame,2000,Douglas Aarniokoski,"Adrian Paul, Christopher Lambert",4.6
+3888,Drama|Romance,Skipped Parts,2000,Tamra Davis,"Drew Barrymore, Jennifer Jason Leigh",6.5
+3891,Crime|Drama,Turn It Up,2000,Robert Adetuyi,"Pras Michel, Ja Rule",4.4
+3893,Comedy|Thriller,Nurse Betty,2000,Neil LaBute,"Morgan Freeman, Rene Zellweger",6.3
+3892,Horror,Anatomy,2000,Stefan Ruzowitzky,"Franka Potente, Benno Frmann",6.1
+3894,Drama,Solas,1999,Benito Zambrano,"Mara Galiana, Ana Fernndez",7.7
+3897,Comedy|Drama,Almost Famous,2000,Cameron Crowe,"Billy Crudup, Frances McDormand",7.9
+3898,Action|Comedy,Bait,2000,Antoine Fuqua,"Jamie Foxx, David Morse",5.8
+3906,Crime,Under Suspicion,2000,Stephen Hopkins,"Gene Hackman, Morgan Freeman",6.5
+3911,Comedy,Best in Show,2000,Christopher Guest,"Jay Brazeau, Parker Posey",7.5
+3910,Drama|Musical,Dancer in the Dark,2000,Lars von Trier,"Bjrk, Catherine Deneuve",8
+3909,Comedy|Romance,Woman on Top,2000,Fina Torres,"Penlope Cruz, Murilo Bencio",5.3
+3908,Horror,Urban Legends: Final Cut,2000,John Ottman,"Jennifer Morrison, Matthew Davis",4.1
+3916,Drama,Remember the Titans,2000,Boaz Yakin,"Denzel Washington, Will Patton",7.8
+3913,Documentary,Barenaked in America,1999,Jason Priestley,"Steven Page, Ed Robertson",7.3
+3915,Drama,Girlfight,2000,Karyn Kusama,"Michelle Rodriguez, Jaime Tirelli",6.8
+3921,Comedy,Beach Party,1963,William Asher,"Robert Cummings, Dorothy Malone",5.7
+3919,Horror,Hellraiser III: Hell on Earth,1992,Anthony Hickox,"Kevin Bernhardt, Lawrence Mortorff",5.4
+3918,Horror,Hellbound: Hellraiser II,1988,Tony Randel,"Clare Higgins, Ashley Laurence",6.5
+3922,Comedy,Bikini Beach,1964,William Asher,"Frankie Avalon, Annette Funicello",5.4
+3923,Horror|Sci-Fi,Return of the Fly,1959,Edward Bernds,"Vincent Price, Brett Halsey",5.7
+3924,Comedy,Pajama Party,1964,Don Weis,"Tommy Kirk, Annette Funicello",4.4
+3925,Comedy,Stranger Than Paradise,1984,Jim Jarmusch,"John Lurie, Eszter Balint",7.6
+3926,Adventure|Sci-Fi,Voyage to the Bottom of the Sea,1961,Irwin Allen,"Walter Pidgeon, Joan Fontaine",6.1
+3927,Adventure|Sci-Fi,Fantastic Voyage,1966,Richard Fleischer,"Stephen Boyd, Raquel Welch",6.9
+3928,Comedy|Horror,Abbott and Costello Meet Frankenstein,1948,Charles Barton,"Bud Abbott, Lou Costello",7.6
+3934,Sci-Fi,Kronos,1957,Kurt Neumann,"Jeff Morrow, Barbara Lawrence",5.9
+3937,Sci-Fi|Thriller,Runaway,1984,Michael Crichton,"Tom Selleck, Cynthia Rhodes",5.9
+3941,Horror,Sorority House Massacre,1986,Carol Frank,"Angela O'Neill, Wendy Martel",4.3
+3946,Action|Drama|Thriller,Get Carter,2000,Stephen Kay,"Sylvester Stallone, Miranda Richardson",5.1
+3948,Comedy,Meet the Parents,2000,Jay Roach,"Robert De Niro, Ben Stiller",7
+3944,Comedy|Drama,Bootmen,2000,Dein Perry,"Vaughan Sheffield, Christian Patterson",6.2
+3947,Thriller,Get Carter,1971,Mike Hodges,"Michael Caine, Ian Hendry",7.5
+3943,Comedy,Bamboozled,2000,Spike Lee,"Damon Wayans, Savion Glover",6.5
+3945,Adventure|Animation|Children's,Digimon: The Movie,2000,"Mamoru Hosoda,Shigeyasu Yamauchi","Lara Jill Miller, Joshua Seth",5.9
+3949,Drama,Requiem for a Dream,2000,Darren Aronofsky,"Ellen Burstyn, Jared Leto",8.4
+3951,Drama,Two Family House,2000,Raymond De Felitta,"Michael Rispoli, Kelly Macdonald",7.3
+3950,Drama,Tigerland,2000,Joel Schumacher,"Colin Farrell, Matthew Davis",7
