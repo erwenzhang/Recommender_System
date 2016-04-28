@@ -1,0 +1,573 @@
+	Movie ID	Genre	Name	Year	Director	Cast	imDB rating	label
+1	1	Animation|Children's|Comedy	Toy Story	1995	John Lasseter	Tom Hanks, Tim Allen	8.3	1
+3	5	Comedy	Father of the Bride Part II	1995	Charles Shyer	Steve Martin, Diane Keaton	5.9	1
+4	7	Comedy|Romance	Sabrina	1995	Sydney Pollack	Harrison Ford, Julia Ormond	6.2	1
+5	3	Comedy|Romance	Grumpier Old Men	1995	Howard Deutch	Walter Matthau, Jack Lemmon	6.6	1
+13	19	Comedy	Ace Ventura: When Nature Calls	1995	Steve Oedekerk	Jim Carrey, Ian McNeice	6.3	1
+17	12	Comedy|Horror	Dracula: Dead and Loving It	1995	Mel Brooks	Leslie Nielsen, Peter MacNicol	5.8	1
+29	38	Comedy	It Takes Two	1995	Andy Tennant	Kirstie Alley, Steve Guttenberg	5.7	1
+32	39	Comedy|Romance	Clueless	1995	Amy Heckerling	Alicia Silverstone, Stacey Dash	6.8	1
+38	52	Comedy	Mighty Aphrodite	1995	Woody Allen	Pamela Blair, Rene Ceballos	7.1	1
+43	63	Comedy	Don't Be a Menace to South Central While Drinking Your Juice in the Hood	1996	Paris Barclay	Shawn Wayans, Marlon Wayans	6.6	1
+45	65	Comedy	Bio-Dome	1996	Jason Bloom	William Atherton, Denise Dowse	4.4	1
+46	68	Comedy|Romance	French Twist	1995	Josiane Balasko	Victoria Abril, Josiane Balasko	6.4	1
+47	70	Action|Comedy|Crime|Horror|Thriller	From Dusk Till Dawn	1996	Robert Rodriguez	George Clooney, Quentin Tarantino	7.3	1
+59	87	Children's|Comedy	Dunston Checks In	1996	Ken Kwapis	Jason Alexander, Faye Dunaway	5.2	1
+60	88	Comedy	Black Sheep	1996	Penelope Spheeris	Chris Farley, David Spade	6.2	1
+63	93	Comedy|Romance	Vampire in Brooklyn	1995	Wes Craven	Eddie Murphy, Angela Bassett	4.5	1
+67	101	Comedy	Bottle Rocket	1996	Wes Anderson	Luke Wilson, Owen Wilson	7.1	1
+69	104	Comedy	Happy Gilmore	1996	Dennis Dugan	Adam Sandler, Christopher McDonald	7.0	1
+70	102	Comedy	Mr. Wrong	1996	Nick Castle	Ellen DeGeneres, Bill Pullman	3.7	1
+72	107	Adventure|Children's|Comedy|Musical	Muppet Treasure Island	1996	Brian Henson	Tim Curry, Billy Connolly	6.9	1
+74	109	Comedy	Headless Body in Topless Bar	1995	James Bruce	Raymond J. Barry, Rustam Branaman	4.7	1
+81	115	Comedy	Happiness Is in the Field	1995	tienne Chatiliez	Michel Serrault, Eddy Mitchell	7.0	1
+82	118	Comedy|Romance	If Lucy Fell	1996	Eric Schaeffer	Sarah Jessica Parker, Eric Schaeffer	4.9	1
+84	122	Comedy|Romance	Boomerang	1992	Reginald Hudlin	Eddie Murphy, Robin Givens	5.4	1
+90	135	Comedy	Down Periscope	1996	David S. Ward	Kelsey Grammer, Lauren Holly	6.0	1
+95	153	Action|Adventure|Comedy|Crime	Batman Forever	1995	Joel Schumacher	Val Kilmer, Tommy Lee Jones	5.4	1
+98	156	Comedy	Blue in the Face	1995	Paul Auster,Wayne Wang	Lou Reed, Michael J. Fox	6.7	1
+107	171	Comedy	Jeffrey	1995	Christopher Ashley	Steven Weber, Peter Jacobson	6.7	1
+111	174	Comedy	Jury Duty	1995	John Fortenberry	Pauly Shore, Tia Carrere	4.0	1
+112	176	Comedy	Living in Oblivion	1995	Tom DiCillo	Steve Buscemi, Catherine Keener	7.6	1
+115	180	Comedy	Mallrats	1995	Kevin Smith	Shannen Doherty, Jeremy London	7.2	1
+118	186	Comedy	Nine Months	1995	Chris Columbus	Hugh Grant, Julianne Moore	5.4	1
+119	187	Comedy	Party Girl	1995	Daisy von Scherler Mayer	Parker Posey, Anthony DeSando	6.6	1
+121	189	Comedy	Reckless	1995	Norman Ren	Mia Farrow, Tony Goldwyn	5.0	1
+133	212	Comedy	Bushwhacked	1995	Greg Beeman	Daniel Stern, Jon Polito	5.4	1
+134	216	Comedy	Billy Madison	1995	Tamra Davis	Adam Sandler, Darren McGavin	6.4	1
+141	223	Comedy	Clerks	1994	Kevin Smith	Brian O'Halloran, Jeff Anderson	7.8	1
+143	228	Comedy	Destiny Turns on the Radio	1995	Jack Baran	Dylan McDermott, Nancy Travis	4.5	1
+146	231	Comedy	Dumb & Dumber	1994	Peter Farrelly,Bobby Farrelly	Jim Carrey, Jeff Daniels	7.3	1
+147	234	Comedy	Exit to Eden	1994	Garry Marshall	Dana Delany, Paul Mercurio	4.1	1
+149	236	Comedy|Romance	French Kiss	1995	Lawrence Kasdan	Meg Ryan, Kevin Kline	6.5	1
+151	237	Comedy|Romance	Forget Paris	1995	Billy Crystal	Billy Crystal, Debra Winger	6.4	1
+154	243	Comedy	Gordy	1995	Mark Lewis	Doug Stone, Kristy Young	3.9	1
+159	252	Comedy|Romance	I.Q.	1994	Fred Schepisi	Tim Robbins, Meg Ryan	6.2	1
+160	256	Comedy|Sci-Fi	Junior	1994	Ivan Reitman	Arnold Schwarzenegger, Danny DeVito	4.5	1
+172	275	Comedy	Mixed Nuts	1994	Nora Ephron	Steve Martin, Madeline Kahn	5.3	1
+173	276	Comedy|Romance	Milk Money	1994	Richard Benjamin	Melanie Griffith, Ed Harris	5.4	1
+174	278	Comedy	Miami Rhapsody	1995	David Frankel	Sarah Jessica Parker, Gil Bellows	5.3	1
+179	289	Comedy|Romance	Only You	1994	Norman Jewison	Marisa Tomei, Robert Downey Jr.	6.5	1
+181	287	Comedy|Romance	Nina Takes a Lover	1994	Alan Jacobs	Laura San Giacomo, Paul Rhys	5.7	1
+183	298	Comedy	Pushing Hands	1992	Ang Lee	Sihung Lung, Lai Wang	7.3	1
+188	305	Comedy	Ready to Wear	1994	Robert Altman	Marcello Mastroianni, Sophia Loren	5.0	1
+192	310	Comedy	Rent-a-Kid	1995	Fred Gerber	Leslie Nielsen, Christopher Lloyd	5.4	1
+194	312	Comedy	Stuart Saves His Family	1995	Harold Ramis	Al Franken, Laura San Giacomo	5.3	1
+198	327	Action|Comedy|Musical|Sci-Fi	Tank Girl	1995	Rachel Talalay	Lori Petty, Ice-T	5.2	1
+200	330	Comedy|Horror	Tales from the Hood	1995	Rusty Cundieff	Clarence Williams III, Joe Torry	6.1	1
+201	333	Comedy	Tommy Boy	1995	Peter Segal	Chris Farley, David Spade	7.0	1
+205	339	Comedy|Romance	While You Were Sleeping	1995	Jon Turteltaub	Sandra Bullock, Bill Pullman	6.6	1
+207	344	Comedy	Ace Ventura: Pet Detective	1994	Tom Shadyac	Jim Carrey, Courteney Cox	6.9	1
+208	342	Comedy|Romance	Muriel's Wedding	1994	P.J. Hogan	Sophie Lee, Roz Hammond	7.2	1
+211	348	Comedy	Bullets Over Broadway	1994	Woody Allen	John Cusack, Dianne Wiest	7.5	1
+212	356	Comedy|Romance|War	Forrest Gump	1994	Robert Zemeckis	Tom Hanks, Rebecca Williams	8.8	1
+214	357	Comedy|Romance	Four Weddings and a Funeral	1994	Mike Newell	Hugh Grant, James Fleet	7.1	1
+217	360	Action|Comedy	I Love Trouble	1994	Charles Shyer	Nick Nolte, Julia Roberts	5.2	1
+220	368	Action|Comedy|Western	Maverick	1994	Richard Donner	Mel Gibson, Jodie Foster	7.0	1
+225	378	Comedy|Romance	Speechless	1994	Ron Underwood	Michael Keaton, Geena Davis	5.7	1
+226	380	Action|Adventure|Comedy|Romance	True Lies	1994	James Cameron	Arnold Schwarzenegger, Jamie Lee Curtis	7.2	1
+241	413	Comedy	Airheads	1994	Michael Lehmann	Brendan Fraser, Steve Buscemi	6.0	1
+242	411	Comedy	You So Crazy	1994	Thomas Schlamme	Martin Lawrence	6.7	1
+243	410	Comedy	Addams Family Values	1993	Barry Sonnenfeld	Anjelica Huston, Raul Julia	6.6	1
+244	415	Comedy|Thriller	Another Stakeout	1993	John Badham	Richard Dreyfuss, Emilio Estevez	5.5	1
+247	420	Action|Comedy	Beverly Hills Cop III	1994	John Landis	Eddie Murphy, Jon Tenney	5.5	1
+253	429	Comedy	Cabin Boy	1994	Adam Resnick	Chris Elliott, Ritch Brinkley	5.0	1
+256	432	Comedy|Western	City Slickers II: The Legend of Curly's Gold	1994	Paul Weiland	Billy Crystal, Daniel Stern	5.4	1
+258	433	Comedy	Clean Slate	1994	Mick Jackson	Dana Carvey, Valeria Golino	5.6	1
+259	437	Comedy	Cops and Robbersons	1994	Michael Ritchie	Chevy Chase, Jack Palance	5.0	1
+261	435	Comedy|Sci-Fi	Coneheads	1993	Steve Barron	Robert Knott, Jonathan Penner	5.2	1
+262	441	Comedy	Dazed and Confused	1993	Richard Linklater	Jason London, Joey Lauren Adams	7.7	1
+265	444	Comedy|Romance	Even Cowgirls Get the Blues	1993	Gus Van Sant	Uma Thurman, Lorraine Bracco	4.2	1
+266	445	Comedy	Fatal Instinct	1993	Carl Reiner	Armand Assante, Sherilyn Fenn	5.6	1
+269	449	Comedy	Fear of a Black Hat	1993	Rusty Cundieff	Mark Christopher Lawrence, Larry B. Scott	7.2	1
+272	453	Comedy	For Love or Money	1993	Barry Sonnenfeld	Michael J. Fox, Gabrielle Anwar	6.1	1
+276	460	Comedy	Getting Even with Dad	1994	Howard Deutch	Macaulay Culkin, Ted Danson	4.6	1
+280	466	Action|Comedy|War	Hot Shots! Part Deux	1993	Jim Abrahams	Charlie Sheen, Lloyd Bridges	6.6	1
+282	473	Comedy|War	In the Army Now	1994	Daniel Petrie Jr.	Pauly Shore, Andy Dick	4.7	1
+285	478	Comedy	Jimmy Hollywood	1994	Barry Levinson	Joe Pesci, Christian Slater	5.3	1
+288	486	Comedy	Life with Mikey	1993	James Lapine	Michael J. Fox, Christina Vidal	5.5	1
+289	485	Action|Comedy	Last Action Hero	1993	John McTiernan	Arnold Schwarzenegger, F. Murray Abraham	6.2	1
+291	487	Comedy|Western	Lightning Jack	1994	Simon Wincer	Paul Hogan, Cuba Gooding Jr.	5.4	1
+293	492	Comedy|Mystery	Manhattan Murder Mystery	1993	Woody Allen	Woody Allen, Diane Keaton	7.4	1
+296	497	Comedy|Romance	Much Ado About Nothing	1993	Kenneth Branagh	Richard Briers, Kate Beckinsale	7.4	1
+300	500	Comedy	Mrs. Doubtfire	1993	Chris Columbus	Robin Williams, Sally Field	6.9	1
+301	499	Comedy|Romance	Mr. Wonderful	1993	Anthony Minghella	Matt Dillon, Annabella Sciorra	5.9	1
+302	505	Comedy	North	1994	Rob Reiner	Elijah Wood, Jason Alexander	4.4	1
+305	513	Comedy|Mystery|Romance	Radioland Murders	1994	Mel Smith	Brian Benben, Mary Stuart Masterson	6.2	1
+307	520	Comedy	Robin Hood: Men in Tights	1993	Mel Brooks	Cary Elwes, Richard Lewis	6.7	1
+315	532	Comedy|Crime|Horror	Serial Mom	1994	John Waters	Kathleen Turner, Sam Waterston	6.7	1
+319	539	Comedy|Romance	Sleepless in Seattle	1993	Nora Ephron	Tom Hanks, Ross Malinger	6.8	1
+322	542	Comedy	Son in Law	1993	Steve Rash	Pauly Shore, Carla Gugino	5.6	1
+326	543	Comedy|Romance|Thriller	So I Married an Axe Murderer	1993	Thomas Schlamme	Mike Myers, Nancy Travis	6.4	1
+328	550	Comedy|Romance	Threesome	1994	Andrew Fleming	Lara Flynn Boyle, Stephen Baldwin	6.2	1
+337	564	Comedy	Chasers	1994	Dennis Hopper	Tom Berenger, William McNamara	4.9	1
+340	569	Children's|Comedy	Little Big League	1994	Andrew Scheinman	Luke Edwards, Timothy Busfield	6.0	1
+345	587	Comedy|Romance|Thriller	Ghost	1990	Jerry Zucker	Patrick Swayze, Demi Moore	7.0	1
+347	588	Animation|Children's|Comedy|Musical	Aladdin	1992	Ron Clements,John Musker	Scott Weinger, Robin Williams	8.0	1
+351	597	Comedy|Romance	Pretty Woman	1990	Garry Marshall	Richard Gere, Julia Roberts	6.9	1
+358	618	Comedy|Romance	Two Much	1996	Fernando Trueba	Antonio Banderas, Melanie Griffith	5.3	1
+364	633	Comedy	Denise Calls Up	1995	Hal Salwen	Tim Daly, Caroleen Feeney	6.8	1
+365	637	Comedy	Sgt. Bilko	1996	Jonathan Lynn	Steve Martin, Dan Aykroyd	5.7	1
+368	634	Comedy	Theodore Rex	1995	Jonathan R. Betuel	Whoopi Goldberg, Armin Mueller-Stahl	2.4	1
+370	643	Comedy	Peanuts - Die Bank zahlt alles	1996	Carlo Rola	Ulrich Mhe, Iris Berben	6.0	1
+371	644	Comedy	Happy Weekend	1996	Ed Herzog	Erik Goertz, Anton Rattinger	5.4	1
+375	656	Comedy	Eddie	1996	Steve Rash	Whoopi Goldberg, Frank Langella	5.1	1
+378	663	Comedy	Kids in the Hall: Brain Candy	1996	Kelly Makin	Dave Foley, Bruce McCulloch	6.8	1
+380	664	Comedy	Faithful	1996	Paul Mazursky	Cher, Chazz Palminteri	5.9	1
+385	673	Adventure|Animation|Children's|Comedy|Fantasy	Space Jam	1996	Joe Pytka	Michael Jordan, Wayne Knight	6.3	1
+389	691	Comedy|Romance	Mrs. Winterbourne	1996	Richard Benjamin	Shirley MacLaine, Ricki Lake	6.2	1
+390	688	Action|Adventure|Comedy|War	Operation Dumbo Drop	1995	Simon Wincer	Danny Glover, Ray Liotta	4.9	1
+395	700	Comedy	Angus	1995	Patrick Read Johnson	Perry Anzilotti, Kathy Bates	6.7	1
+398	705	Comedy	Cosi	1996	Mark Joffe	Ben Mendelsohn, Barry Otto	6.8	1
+402	710	Comedy	Celtic Pride	1996	Tom DeCerchio	Damon Wayans, Daniel Stern	5.2	1
+408	719	Comedy	Multiplicity	1996	Harold Ramis	Michael Keaton, Andie MacDowell	6.0	1
+409	717	Comedy	Mouth to Mouth	1995	Manuel Gmez Pereira	Javier Bardem, Aitana Snchez-Gijn	6.7	1
+411	728	Comedy	Cold Comfort Farm	1995	John Schlesinger	Eileen Atkins, Kate Beckinsale	7.4	1
+416	739	Comedy	Honigmond	1996	Gabriel Barylli	Veronica Ferres, Anica Dobra	4.2	1
+420	743	Comedy	Spy Hard	1996	Rick Friedberg	Leslie Nielsen, Nicollette Sheridan	5.2	1
+422	751	Comedy	Careful	1992	Guy Maddin	Kyle McCulloch, Gosia Dobrowolska	7.2	1
+424	762	Comedy|Crime	Striptease	1996	Andrew Bergman	Demi Moore, Burt Reynolds	4.3	1
+430	772	Comedy	Quartier Mozart	1992	Jean-Pierre Bekolo	Pauline Andela, Jimmy Biyona	6.8	1
+439	785	Comedy	Kingpin	1996	Bobby Farrelly,Peter Farrelly	Woody Harrelson, Randy Quaid	6.9	1
+446	801	Children's|Comedy	Harriet the Spy	1996	Bronwen Hughes	Michelle Trachtenberg, Gregory Smith	5.9	1
+448	804	Comedy|Romance	She's the One	1996	Edward Burns	John Mahoney, Edward Burns	6.1	1
+452	810	Children's|Comedy|Fantasy	Kazaam	1996	Paul Michael Glaser	Shaquille O'Neal, Francis Capra	2.8	1
+453	813	Comedy	Larger Than Life	1996	Howard Franklin	Jerry Adler, Bill Murray	5.5	1
+461	833	Comedy	High School High	1996	Hart Bochner	Jon Lovitz, Tia Carrere	5.4	1
+462	829	Comedy|Musical	Joe's Apartment	1996	John Payson	Jerry O'Connell, Megan Ward	5.4	1
+464	834	Comedy	Phat Beach	1996	Doug Ellin	Jermaine 'Huggy' Hopkins, Claudia Kaleem	3.9	1
+465	837	Children's|Comedy	Matilda	1996	Danny DeVito	Mara Wilson, Danny DeVito	6.8	1
+467	840	Comedy	House Arrest	1996	Harry Winer	Kyle Howard, Herbert Russell	5.7	1
+469	852	Comedy|Romance	Tin Cup	1996	Ron Shelton	Kevin Costner, Rene Russo	6.3	1
+474	856	Comedy	Mille bolle blu	1993	Leone Pompucci	Carla Benedetti, Matteo Fadda	6.8	1
+483	881	Children's|Comedy	First Kid	1996	David M. Evans	Sinbad, Brock Pierce	5.1	1
+493	901	Comedy|Musical	Funny Face	1957	Stanley Donen	Audrey Hepburn, Fred Astaire	7.1	1
+497	905	Comedy	It Happened One Night	1934	Frank Capra	Clark Gable, Claudette Colbert	8.2	1
+500	910	Comedy|Crime	Some Like It Hot	1959	Billy Wilder	Marilyn Monroe, Tony Curtis	8.3	1
+502	915	Comedy|Romance	Sabrina	1954	Billy Wilder	Humphrey Bogart, Audrey Hepburn	7.7	1
+504	916	Comedy|Romance	Roman Holiday	1953	William Wyler	Gregory Peck, Audrey Hepburn	8.1	1
+508	921	Comedy	My Favorite Year	1982	Richard Benjamin	Peter O'Toole, Mark Linn-Baker	7.4	1
+514	933	Comedy|Romance|Thriller	To Catch a Thief	1955	Alfred Hitchcock	Cary Grant, Grace Kelly	7.5	1
+515	936	Comedy|Romance	Ninotchka	1939	Ernst Lubitsch	Greta Garbo, Melvyn Douglas	8.0	1
+516	937	Comedy|Romance	Love in the Afternoon	1957	Billy Wilder	Gary Cooper, Audrey Hepburn	7.3	1
+519	945	Comedy|Musical|Romance	Top Hat	1935	Mark Sandrich	Fred Astaire, Ginger Rogers	7.8	1
+520	947	Comedy	My Man Godfrey	1936	Gregory La Cava	William Powell, Carole Lombard	8.1	1
+524	951	Comedy	His Girl Friday	1940	Howard Hawks	Cary Grant, Rosalind Russell	8.0	1
+527	955	Comedy	Bringing Up Baby	1938	Howard Hawks	Katharine Hepburn, Cary Grant	8.0	1
+529	958	Comedy|Mystery	Lady of Burlesque	1943	William A. Wellman	Barbara Stanwyck, Michael O'Shea	6.4	1
+549	1002	Comedy	Ed's Next Move	1996	John Walsh	Matt Ross, Catherine Curtin	6.5	1
+554	1011	Adventure|Children's|Comedy	Herbie Rides Again	1974	Robert Stevenson	Helen Hayes, Ken Berry	5.6	1
+558	1020	Comedy	Cool Runnings	1993	Jon Turteltaub	Leon, Doug E. Doug	6.9	1
+559	1018	Children's|Comedy|Mystery	That Darn Cat!	1965	Robert Stevenson	Hayley Mills, Dean Jones	6.7	1
+560	1021	Children's|Comedy	Angels in the Outfield	1994	William Dear	Danny Glover, Brenda Fricker	6.0	1
+563	1028	Children's|Comedy|Musical	Mary Poppins	1964	Robert Stevenson	Julie Andrews, Dick Van Dyke	7.8	1
+569	1042	Comedy	That Thing You Do!	1996	Tom Hanks	Tom Everett Scott, Liv Tyler	6.9	1
+578	1057	Comedy|Musical|Romance	Everyone Says I Love You	1996	Woody Allen	Edward Norton, Drew Barrymore	6.8	1
+581	1064	Animation|Children's|Comedy	Aladdin and the King of Thieves	1996	Tad Stones	Val Bettin, Jim Cummings	6.4	1
+584	1077	Comedy|Sci-Fi	Sleeper	1973	Woody Allen	Woody Allen, Diane Keaton	7.3	1
+585	1078	Comedy|War	Bananas	1971	Woody Allen	Woody Allen, Louise Lasser	7.1	1
+593	1091	Comedy	Weekend at Bernie's	1989	Ted Kotcheff	Andrew McCarthy, Jonathan Silverman	6.3	1
+600	1107	Comedy	Loser	1991	Erik Burke	Brendan Kelly, John Salemmo	7.7	1
+602	1126	Comedy|Fantasy	Drop Dead Fred	1991	Ate de Jong	Phoebe Cates, Rik Mayall	5.8	1
+608	1135	Comedy	Private Benjamin	1980	Howard Zieff	Goldie Hawn, Eileen Brennan	6.1	1
+615	1143	Comedy	Three Lives and Only One Death	1996	Raoul Ruiz	Marcello Mastroianni, Anna Galiena	7.2	1
+622	1158	Comedy	Here Comes Cookie	1935	Norman Z. McLeod	George Burns, Gracie Allen	6.3	1
+623	1160	Comedy	Six of a Kind	1934	Leo McCarey	Charles Ruggles, Mary Boland	6.9	1
+626	1167	Comedy	Dear God	1996	Garry Marshall	Greg Kinnear, Laurie Metcalf	5.2	1
+628	1171	Comedy	Bob Roberts	1992	Tim Robbins	Tim Robbins, Giancarlo Esposito	7.0	1
+629	1175	Comedy|Sci-Fi	Delicatessen	1991	Marc Caro,Jean-Pierre Jeunet	Pascal Benezech, Dominique Pinon	7.7	1
+631	1180	Comedy	Hear My Song	1991	Peter Chelsom	Brian Flanagan, Constance Cowley	7.3	1
+633	1184	Comedy|War	Mediterraneo	1991	Gabriele Salvatores	Diego Abatantuono, Claudio Bigagli	7.4	1
+635	1188	Comedy|Romance	Strictly Ballroom	1992	Baz Luhrmann	Paul Mercurio, Tara Morice	7.3	1
+639	1194	Comedy	Up in Smoke	1978	Lou Adler,Tommy Chong	Cheech Marin, Tommy Chong	7.0	1
+653	1230	Comedy|Romance	Annie Hall	1977	Woody Allen	Woody Allen, Diane Keaton	8.1	1
+655	1235	Comedy	Harold and Maude	1971	Hal Ashby	Ruth Gordon, Bud Cort	8.0	1
+656	1238	Comedy	Local Hero	1983	Bill Forsyth	Burt Lancaster, Peter Riegert	7.5	1
+660	1257	Comedy	Better Off Dead...	1985	Savage Steve Holland	John Cusack, David Ogden Stiers	7.2	1
+661	1256	Comedy|War	Duck Soup	1933	Leo McCarey	The Marx Brothers, Groucho Marx	8.0	1
+663	1261	Action|Adventure|Comedy|Horror	Evil Dead II	1987	Sam Raimi	Bruce Campbell, Sarah Berry	7.8	1
+666	1265	Comedy|Romance	Groundhog Day	1993	Harold Ramis	Bill Murray, Andie MacDowell	8.1	1
+668	1269	Comedy|Mystery|Thriller	Arsenic and Old Lace	1944	Frank Capra	Cary Grant, Priscilla Lane	8.1	1
+670	1270	Comedy|Sci-Fi	Back to the Future	1985	Robert Zemeckis	Michael J. Fox, Christopher Lloyd	8.5	1
+675	1278	Comedy|Horror	Young Frankenstein	1974	Mel Brooks	Gene Wilder, Peter Boyle	8.0	1
+687	1292	Comedy	Being There	1979	Hal Ashby	Peter Sellers, Shirley MacLaine	8.0	1
+689	1297	Comedy	Real Genius	1985	Martha Coolidge	Val Kilmer, Gabriel Jarret	7.0	1
+693	1304	Action|Comedy|Western	Butch Cassidy and the Sundance Kid	1969	George Roy Hill	Paul Newman, Robert Redford	8.1	1
+694	1307	Comedy|Romance	When Harry Met Sally...	1989	Rob Reiner	Billy Crystal, Meg Ryan	7.6	1
+696	1311	Comedy	Santa with Muscles	1996	John Murlowski	Hulk Hogan, Don Stark	2.4	1
+698	1308	Comedy	I Shot a Man in Vegas	1995	Keoni Waxman	John Stockwell, Janeane Garofalo	3.9	1
+702	1317	Comedy	I'm Not Rappaport	1996	Herb Gardner	Walter Matthau, Ossie Davis	6.6	1
+705	1330	Comedy|Horror	April Fool's Day	1986	Fred Walton	Jay Baker, Pat Barlow	6.2	1
+719	1359	Adventure|Children's|Comedy	Jingle All the Way	1996	Brian Levant	Arnold Schwarzenegger, Sinbad	5.4	1
+729	1377	Action|Adventure|Comedy|Crime	Batman Returns	1992	Tim Burton	Michael Keaton, Danny DeVito	7.0	1
+730	1379	Action|Comedy|Western	Young Guns II	1990	Geoff Murphy	Emilio Estevez, Kiefer Sutherland	6.4	1
+731	1378	Action|Comedy|Western	Young Guns	1988	Christopher Cain	Emilio Estevez, Kiefer Sutherland	6.8	1
+733	1380	Comedy|Musical|Romance	Grease	1978	Randal Kleiser	John Travolta, Olivia Newton-John	7.2	1
+738	1390	Comedy	My Fellow Americans	1996	Peter Segal	Jack Lemmon, James Garner	6.5	1
+740	1391	Action|Comedy|Sci-Fi|War	Mars Attacks!	1996	Tim Burton	Jack Nicholson, Glenn Close	6.3	1
+742	1394	Comedy	Raising Arizona	1987	Joel Coen,Ethan Coen	Nicolas Cage, Holly Hunter	7.4	1
+752	1414	Comedy	Mother	1996	Albert Brooks	Paul Collins, Laura Weekes	6.9	1
+756	1425	Comedy	Fierce Creatures	1997	Fred Schepisi,Robert Young	John Cleese, Jamie Lee Curtis	6.4	1
+758	1431	Action|Comedy	Beverly Hills Ninja	1997	Dennis Dugan	Chris Farley, Nicollette Sheridan	5.5	1
+760	1439	Comedy	Meet Wally Sparks	1997	Peter Baldwin	Rodney Dangerfield, Debi Mazar	5.1	1
+761	1436	Comedy	Falling in Love Again	1980	Steven Paul	Elliott Gould, Susannah York	5.3	1
+764	1446	Comedy	Kolya	1996	Jan Sverk	Zdenek Sverk, Andrey Khalimon	7.8	1
+766	1449	Comedy	Waiting for Guffman	1996	Christopher Guest	Deborah Theaker, Michael Hitchcock	7.6	1
+767	1457	Comedy|Romance	Fools Rush In	1997	Andy Tennant	Matthew Perry, Salma Hayek	6.0	1
+768	1455	Comedy|Romance	Hotel de Love	1996	Craig Rosenberg	Aden Young, Saffron Burrows	6.4	1
+770	1461	Comedy	Vegas Vacation	1997	Stephen Kessler	Chevy Chase, Beverly D'Angelo	5.9	1
+771	1463	Comedy|Romance	That Old Feeling	1997	Carl Reiner	Bette Midler, Dennis Farina	6.1	1
+776	1468	Comedy|Romance	Booty Call	1997	Jeff Pollack	Jamie Foxx, Tommy Davidson	5.3	1
+782	1485	Comedy	Liar Liar	1997	Tom Shadyac	Jim Carrey, Maura Tierney	6.8	1
+784	1490	Comedy	B*A*P*S	1997	Robert Townsend	Halle Berry, Martin Landau	4.0	1
+791	1500	Comedy|Crime	Grosse Pointe Blank	1997	George Armitage	John Cusack, Minnie Driver	7.4	1
+797	1511	Comedy	A Chef in Love	1996	Nana Dzhordzhadze	Pierre Richard, Micheline Presle	6.9	1
+798	1513	Comedy	Romy and Michele's High School Reunion	1997	David Mirkin	Mira Sorvino, Lisa Kudrow	6.1	1
+800	1517	Comedy	Austin Powers: International Man of Mystery	1997	Jay Roach	Mike Myers, Elizabeth Hurley	7.0	1
+801	1516	Comedy	Children of the Revolution	1996	Peter Duncan	Judy Davis, Sam Neill	6.3	1
+805	1528	Comedy	Intimate Relations	1996	Philip Goodhew	Julie Walters, Rupert Graves	6.4	1
+808	1532	Comedy	Sprung	1997	Rusty Cundieff	Tisha Campbell-Martin, Rusty Cundieff	4.9	1
+810	1537	Comedy	Shall We Dance?	1996	Masayuki Suo	Kji Yakusho, Tamiyo Kusakari	7.8	1
+811	1539	Comedy|Crime	Twin Town	1997	Kevin Allen	Llyr Ifans, Rhys Ifans	6.7	1
+813	1541	Comedy|Romance	Addicted to Love	1997	Griffin Dunne	Meg Ryan, Matthew Broderick	6.1	1
+815	1546	Comedy	Schizopolis	1996	Steven Soderbergh	Scott Allen, Betsy Brantley	7.1	1
+817	1592	Children's|Comedy	Air Bud	1997	Charles Martin Smith	Michael Jeter, Kevin Zegers	5.1	1
+819	1550	Comedy|Romance	Trial and Error	1997	Jonathan Lynn	Michael Richards, Jeff Daniels	5.7	1
+820	1558	Comedy	Sudden Manhattan	1996	Adrienne Shelly	Adrienne Shelly, Tim Guinee	6.5	1
+821	1561	Comedy	Wedding Bell Blues	1996	Dana Lustig	Illeana Douglas, Paulina Porizkova	4.9	1
+822	1565	Comedy|Thriller	Head Above Water	1996	Jim Wilson	Harvey Keitel, Cameron Diaz	6.0	1
+823	1564	Comedy|Romance	Roseanna's Grave	1997	Paul Weiland	Jean Reno, Mercedes Ruehl	7.2	1
+824	1566	Adventure|Animation|Children's|Comedy|Musical	Hercules	1997	Ron Clements,John Musker	Tate Donovan, Josh Keaton	7.2	1
+825	1569	Comedy|Romance	My Best Friend's Wedding	1997	P.J. Hogan	Julia Roberts, Dermot Mulroney	6.3	1
+831	1580	Action|Adventure|Comedy|Sci-Fi	Men in Black	1997	Barry Sonnenfeld	Tommy Lee Jones, Will Smith	7.3	1
+833	1581	Comedy	Out to Sea	1997	Martha Coolidge	Jack Lemmon, Walter Matthau	6.0	1
+835	1588	Children's|Comedy	George of the Jungle	1997	Sam Weisman	Brendan Fraser, Leslie Mann	5.4	1
+836	1585	Comedy	Love Serenade	1996	Shirley Barrett	Miranda Otto, Rebecca Frith	7.0	1
+841	1593	Comedy|Romance	Picture Perfect	1997	Glenn Gordon Caron	Jennifer Aniston, Jay Mohr	5.5	1
+849	1604	Action|Comedy	Money Talks	1997	Brett Ratner	Chris Tucker, Charlie Sheen	6.1	1
+866	1640	Comedy	How to Be a Player	1997	Lionel C. Martin	Bill Bellamy, Natalie Desselle Reid	5.3	1
+877	1665	Comedy	Bean	1997	Mel Smith	Rowan Atkinson, Peter MacNicol	6.3	1
+885	1677	Comedy	Critical Care	1997	Sidney Lumet	James Spader, Kyra Sedgwick	6.0	1
+887	1679	Comedy	Chairman of the Board	1998	Alex Zamm	Scott 'Carrot Top' Thompson, Courtney Thorne-Smith	2.3	1
+895	1702	Children's|Comedy|Fantasy	Flubber	1997	Les Mayfield	Robin Williams, Marcia Gay Harden	5.1	1
+897	1703	Comedy	For Richer or Poorer	1997	Bryan Spicer	Tim Allen, Kirstie Alley	5.7	1
+906	1731	Comedy	Mr. Magoo	1997	Stanley Tong	Leslie Nielsen, Kelly Lynch	3.8	1
+909	1738	Comedy	Vermin	1998	Frank Chindamo	Blaine Capatch, Patton Oswalt	2.8	1
+914	1746	Comedy	Senseless	1998	Penelope Spheeris	Marlon Wayans, Brad Dourif	6.0	1
+916	1753	Comedy	Half Baked	1998	Tamra Davis	Dave Chappelle, Guillermo Daz	6.7	1
+922	1760	Comedy|Musical	Spice World	1997	Bob Spiers	Melanie Brown, Emma Bunton	3.3	1
+935	1806	Adventure|Children's|Comedy	Paulie	1998	John Roberts	Gena Rowlands, Tony Shalhoub	6.4	1
+941	1822	Children's|Comedy	Meet the Deedles	1998	Steve Boyum	Steve Van Wormer, Paul Walker	3.9	1
+942	1824	Comedy|Thriller	Homegrown	1998	Stephen Gyllenhaal	John Lithgow, Jon Tenney	5.8	1
+947	1839	Comedy	My Giant	1998	Michael Lehmann	Billy Crystal, Kathleen Quinlan	4.9	1
+949	1843	Children's|Comedy	Slappy and the Stinkers	1998	Barnet Kellman	BD Wong, Bronson Pinchot	5.1	1
+951	1845	Comedy|Thriller	Zero Effect	1998	Jake Kasdan	Bill Pullman, Ben Stiller	7.0	1
+955	1855	Comedy	Krippendorf's Tribe	1998	Todd Holland	Richard Dreyfuss, Jenna Elfman	4.9	1
+956	1854	Comedy|Romance	Kissing a Fool	1998	Doug Ellin	David Schwimmer, Jason Lee	5.6	1
+957	1858	Action|Comedy	Mr. Nice Guy	1997	Sammo Kam-Bo Hung	Jackie Chan, Richard Norton	6.2	1
+959	1861	Comedy|Thriller	Junk Mail	1997	Pl Sletaune	Robert Skjrstad, Andrine Sther	6.8	1
+962	1863	Comedy	Major League: Back to the Minors	1998	John Warren	Scott Bakula, Corbin Bernsen	4.5	1
+963	1864	Comedy	Sour Grapes	1998	Larry David	Jack Burns, Viola Harris	5.8	1
+966	1874	Comedy|Romance	Still Breathing	1997	James F. Robinson	Lou Rawls, Brendan Fraser	7.0	1
+969	1875	Comedy	Clockwatchers	1997	Jill Sprecher	Toni Collette, Parker Posey	6.4	1
+972	1883	Comedy	Bulworth	1998	Warren Beatty	Kimberly Deauna Adams, Vinny Argiro	6.8	1
+975	1887	Adventure|Comedy	Almost Heroes	1998	Christopher Guest	Chris Farley, Matthew Perry	5.8	1
+976	1886	Comedy	I Got the Hook Up	1998	Michael Martin	Master P, Anthony Johnson	3.9	1
+981	1894	Adventure|Comedy|Romance	Six Days Seven Nights	1998	Ivan Reitman	Harrison Ford, Anne Heche	5.7	1
+983	1896	Comedy	Cousin Bette	1998	Des McAnuff	Jessica Lange, Elisabeth Shue	6.2	1
+988	1903	Comedy	Hav Plenty	1997	Christopher Scott Cherot	Christopher Scott Cherot, Chenoa Maxwell	6.5	1
+990	1906	Comedy|Romance	Mr. Jealousy	1997	Noah Baumbach	Eric Stoltz, Annabella Sciorra	6.5	1
+992	1910	Action|Comedy|Crime	I Went Down	1997	Paddy Breathnach	Peter McDonald, Antoine Byrne	7.0	1
+998	1923	Comedy	There's Something About Mary	1998	Bobby Farrelly,Peter Farrelly	Cameron Diaz, Matt Dillon	7.1	1
+999	1919	Children's|Comedy	Madeline	1998	Daisy von Scherler Mayer	Frances McDormand, Nigel Hawthorne	5.9	1
+1004	1934	Comedy	You Can't Take It With You	1938	Frank Capra	Jean Arthur, Lionel Barrymore	8.0	1
+1005	1937	Comedy	Going My Way	1944	Leo McCarey	Bing Crosby, Barry Fitzgerald	7.2	1
+1013	1948	Comedy	Tom Jones	1963	Tony Richardson	George Devine, Rachel Kempson	6.8	1
+1023	1965	Comedy|Sci-Fi	Repo Man	1984	Alex Cox	Harry Dean Stanton, Emilio Estevez	6.9	1
+1024	1966	Comedy	Metropolitan	1990	Whit Stillman	Carolyn Farina, Edward Clements	7.5	1
+1026	1963	Comedy	Take the Money and Run	1969	Woody Allen	Woody Allen, Janet Margolin	7.3	1
+1034	2003	Comedy|Horror	Gremlins	1984	Joe Dante	Hoyt Axton, John Louie	7.2	1
+1035	2011	Comedy|Sci-Fi	Back to the Future Part II	1989	Robert Zemeckis	Michael J. Fox, Christopher Lloyd	7.8	1
+1037	2007	Comedy	Polish Wedding	1998	Theresa Connelly	Claire Danes, Jon Bradford	5.4	1
+1038	2012	Comedy|Sci-Fi|Western	Back to the Future Part III	1990	Robert Zemeckis	Michael J. Fox, Christopher Lloyd	7.4	1
+1045	2035	Children's|Comedy	Blackbeard's Ghost	1968	Robert Stevenson	Peter Ustinov, Dean Jones	6.8	1
+1046	2036	Children's|Comedy	Blank Check	1994	Rupert Wainwright	Brian Bonsall, Karen Duffy	5.1	1
+1048	2037	Adventure|Children's|Comedy	Candleshoe	1977	Norman Tokar	David Niven, Helen Hayes	6.7	1
+1050	2041	Action|Adventure|Children's|Comedy	Condorman	1981	Charles Jarrott	Michael Crawford, Oliver Reed	5.7	1
+1052	2050	Adventure|Children's|Comedy	Herbie Goes Bananas	1980	Vincent McEveety	Cloris Leachman, Charles Martin Smith	4.8	1
+1053	2052	Children's|Comedy	Hocus Pocus	1993	Kenny Ortega	Bette Midler, Sarah Jessica Parker	6.7	1
+1054	2051	Adventure|Children's|Comedy	Herbie Goes to Monte Carlo	1977	Vincent McEveety	Dean Jones, Don Knotts	5.5	1
+1055	2055	Comedy|Western	Hot Lead and Cold Feet	1978	Robert Butler	Jim Dale, Karen Valentine	6.1	1
+1056	2060	Comedy	BASEketball	1998	David Zucker	Trey Parker, Matt Stone	6.6	1
+1062	2073	Comedy	Fandango	1985	Kevin Reynolds	Kevin Costner, Judd Nelson	6.7	1
+1071	2088	Adventure|Comedy|Musical	Popeye	1980	Robert Altman	Robin Williams, Shelley Duvall	5.2	1
+1072	2100	Comedy|Fantasy|Romance	Splash	1984	Ron Howard	Tom Hanks, Daryl Hannah	6.2	1
+1073	2098	Children's|Comedy	Son of Flubber	1963	Robert Stevenson	Fred MacMurray, Nancy Olson	6.0	1
+1074	2080	Animation|Children's|Comedy|Musical|Romance	Lady and the Tramp	1955	Clyde Geronimi,Wilfred Jackson	Peggy Lee, Larry Roberts	7.4	1
+1078	2110	Comedy|Crime|Thriller	Dead Men Don't Wear Plaid	1982	Carl Reiner	Steve Martin, Rachel Ward	6.8	1
+1087	2128	Comedy	Safe Men	1998	John Hamburg	Sam Rockwell, Steve Zahn	6.1	1
+1090	2133	Adventure|Comedy	Adventures in Babysitting	1987	Chris Columbus	Elisabeth Shue, Maia Brewton	6.8	1
+1091	2134	Comedy	Weird Science	1985	John Hughes	Anthony Michael Hall, Kelly LeBrock	6.6	1
+1097	2144	Comedy	Sixteen Candles	1984	John Hughes	Molly Ringwald, Justin Henry	7.2	1
+1098	2149	Comedy|Horror	House II: The Second Story	1987	Ethan Wiley	Arye Gross, Jonathan Stark	5.4	1
+1100	2152	Children's|Comedy	Air Bud: Golden Receiver	1998	Richard Martin	Tim Conway, Dick Martin	4.4	1
+1106	2169	Comedy	Dead Man on Campus	1998	Alan Cohn	Tom Everett Scott, Mark-Paul Gosselaar	6.0	1
+1107	2170	Action|Comedy	Wrongfully Accused	1998	Pat Proft	Leslie Nielsen, Richard Crenna	6.0	1
+1109	2177	Comedy|Thriller	Family Plot	1976	Alfred Hitchcock	Karen Black, Bruce Dern	6.8	1
+1115	2195	Comedy	Dirty Work	1998	Bob Saget	Norm MacDonald, Artie Lange	6.4	1
+1129	2222	Comedy	Champagne	1928	Alfred Hitchcock	Betty Balfour, Jean Bradin	5.7	1
+1130	2217	Comedy|Musical	Elstree Calling	1930	Andr Charlot,Jack Hulbert	Tommy Handley, Gordon Begg	5.8	1
+1140	2246	Comedy	Stars and Bars	1988	Pat O'Connor	Daniel Day-Lewis, Harry Dean Stanton	4.8	1
+1142	2247	Comedy	Married to the Mob	1988	Jonathan Demme	Paul Lazar, Alec Baldwin	6.1	1
+1144	2230	Comedy	Always Tell Your Wife	1923	Hugh Croise,Seymour Hicks	Seymour Hicks, Stanley Logan	7.2	1
+1145	2255	Comedy	Young Doctors in Love	1982	Garry Marshall	Sean Young, Michael McKean	5.2	1
+1146	2249	Comedy	My Blue Heaven	1990	Herbert Ross	Steve Martin, Rick Moranis	6.2	1
+1150	2259	Comedy|Romance	Blame It on Rio	1984	Stanley Donen	Michael Caine, Joseph Bologna	5.7	1
+1152	2261	Comedy	One Crazy Summer	1986	Savage Steve Holland	John Cusack, Linda Warren	6.4	1
+1155	2265	Adventure|Comedy	Nothing But Trouble	1991	Dan Aykroyd	Chevy Chase, Dan Aykroyd	4.8	1
+1156	2257	Comedy|Romance	No Small Affair	1984	Jerry Schatzberg	Jon Cryer, Demi Moore	5.5	1
+1174	2301	Comedy	History of the World: Part I	1981	Mel Brooks	Mel Brooks, Dom DeLuise	6.9	1
+1175	2302	Comedy	My Cousin Vinny	1992	Jonathan Lynn	Joe Pesci, Ralph Macchio	7.5	1
+1178	2306	Comedy	Holy Man	1998	Stephen Herek	Eddie Murphy, Jeff Goldblum	4.9	1
+1185	2318	Comedy	Happiness	1998	Todd Solondz	Jane Adams, Jon Lovitz	7.8	1
+1187	2321	Comedy	Pleasantville	1998	Gary Ross	Tobey Maguire, Reese Witherspoon	7.5	1
+1191	2325	Comedy	Orgazmo	1997	Trey Parker	Trey Parker, Dian Bachar	6.2	1
+1192	2331	Comedy|Romance	Living Out Loud	1998	Richard LaGravenese	Holly Hunter, Danny DeVito	6.6	1
+1199	2342	Comedy	Hard Core Logo	1996	Bruce McDonald	Hugh Dillon, Callum Keith Rennie	7.5	1
+1203	2349	Comedy|Thriller	Mona Lisa	1986	Neil Jordan	Bob Hoskins, Cathy Tyson	7.4	1
+1205	2350	Comedy	Heart Condition	1990	James D. Parriott	Bob Hoskins, Denzel Washington	5.6	1
+1207	2359	Comedy	Waking Ned Devine	1998	Kirk Jones	Ian Bannen, David Kelly	7.4	1
+1209	2361	Comedy	Pink Flamingos	1972	John Waters	Divine, David Lochary	6.1	1
+1216	2371	Comedy	Fletch	1985	Michael Ritchie	Chevy Chase, Joe Don Baker	6.9	1
+1217	2372	Comedy	Fletch Lives	1989	Michael Ritchie	Chevy Chase, Hal Holbrook	6.0	1
+1219	2369	Comedy|Romance	Desperately Seeking Susan	1985	Susan Seidelman	Rosanna Arquette, Madonna	5.8	1
+1222	2378	Comedy	Police Academy	1984	Hugh Wilson	Steve Guttenberg, Kim Cattrall	6.6	1
+1223	2384	Children's|Comedy	Babe: Pig in the City	1998	George Miller	Magda Szubanski, James Cromwell	5.8	1
+1224	2387	Comedy|Crime	Very Bad Things	1998	Peter Berg	Jon Favreau, Leland Orser	6.3	1
+1225	2385	Comedy|Romance	Home Fries	1998	Dean Parisot	Drew Barrymore, Catherine O'Hara	5.0	1
+1227	2390	Comedy	Little Voice	1998	Mark Herman	Brenda Blethyn, Jane Horrocks	7.0	1
+1230	2396	Comedy|Romance	Shakespeare in Love	1998	John Madden	Geoffrey Rush, Tom Wilkinson	7.2	1
+1232	2395	Comedy	Rushmore	1998	Wes Anderson	Jason Schwartzman, Bill Murray	7.7	1
+1238	2407	Comedy|Sci-Fi	Cocoon	1985	Ron Howard	Don Ameche, Wilford Brimley	6.6	1
+1239	2406	Action|Adventure|Comedy|Romance	Romancing the Stone	1984	Robert Zemeckis	Michael Douglas, Kathleen Turner	6.9	1
+1240	2408	Comedy|Sci-Fi	Cocoon: The Return	1988	Daniel Petrie	Don Ameche, Wilford Brimley	5.3	1
+1245	2413	Comedy|Mystery	Clue	1985	Jonathan Lynn	Eileen Brennan, Tim Curry	7.3	1
+1248	2416	Comedy	Back to School	1986	Alan Metter	Rodney Dangerfield, Sally Kellerman	6.5	1
+1250	2418	Comedy	Nothing in Common	1986	Garry Marshall	Tom Hanks, Jackie Gleason	5.9	1
+1252	2424	Comedy|Romance	You've Got Mail	1998	Nora Ephron	Tom Hanks, Meg Ryan	6.5	1
+1258	2436	Comedy	Tea with Mussolini	1999	Franco Zeffirelli	Cher, Judi Dench	6.9	1
+1269	2458	Comedy|Crime	Armed and Dangerous	1986	Mark L. Lester	John Candy, Eugene Levy	5.5	1
+1271	2463	Comedy	Ruthless People	1986	Jim Abrahams,David Zucker	Danny DeVito, Bette Midler	6.9	1
+1273	2468	Action|Comedy|Romance|Thriller	Jumpin' Jack Flash	1986	Penny Marshall	Whoopi Goldberg, Stephen Collins	5.8	1
+1274	2470	Adventure|Comedy	Crocodile Dundee	1986	Peter Faiman	Paul Hogan, Linda Kozlowski	6.5	1
+1276	2469	Comedy|Romance	Peggy Sue Got Married	1986	Francis Ford Coppola	Kathleen Turner, Nicolas Cage	6.3	1
+1277	2472	Comedy	Tough Guys	1986	Jeff Kanew	Burt Lancaster, Kirk Douglas	6.1	1
+1278	2471	Adventure|Comedy	Crocodile Dundee II	1988	John Cornell	Paul Hogan, Linda Kozlowski	5.5	1
+1280	2473	Comedy	Soul Man	1986	Steve Miner	C. Thomas Howell, Rae Dawn Chong	5.1	1
+1281	2478	Comedy|Western	Three Amigos!	1986	John Landis	Steve Martin, Chevy Chase	6.4	1
+1285	2485	Comedy|Romance	She's All That	1999	Robert Iscove	Freddie Prinze Jr., Rachael Leigh Cook	5.8	1
+1288	2482	Comedy|Romance	Still Crazy	1998	Brian Gibson	Stephen Rea, Billy Connolly	7.1	1
+1290	2491	Comedy|Romance	Simply Irresistible	1999	Mark Tarlov	Sarah Michelle Gellar, Sean Patrick Flanery	5.3	1
+1292	2496	Comedy|Romance	Blast from the Past	1999	Hugh Wilson	Brendan Fraser, Alicia Silverstone	6.6	1
+1295	2500	Comedy	Jawbreaker	1999	Darren Stein	Rose McGowan, Rebecca Gayheart	5.4	1
+1296	2502	Comedy|Romance	Office Space	1999	Mike Judge	Ron Livingston, Jennifer Aniston	7.8	1
+1297	2507	Comedy	Breakfast of Champions	1999	Alan Rudolph	Bruce Willis, Albert Finney	4.6	1
+1298	2509	Comedy	Eight Days a Week	1997	Michael Davis	Joshua Schaefer, Keri Russell	6.3	1
+1299	2510	Comedy|Romance	Just the Ticket	1999	Richard Wenk	Andy Garcia, Andie MacDowell	5.6	1
+1302	2518	Comedy	Night Shift	1982	Ron Howard	Henry Winkler, Michael Keaton	6.5	1
+1316	2539	Comedy	Analyze This	1999	Harold Ramis	Robert De Niro, Billy Crystal	6.7	1
+1317	2543	Comedy	Six Ways to Sunday	1997	Adam Bernstein	Norman Reedus, Debbie Harry	6.5	1
+1319	2545	Comedy	Relax... It's Just Sex	1998	P.J. Castellaneta	Mitchell Anderson, Terrence 'T.C.' Carson	7.0	1
+1321	2552	Comedy	My Boyfriend's Back	1993	Bob Balaban	Andrew Lowery, Traci Lind	5.3	1
+1322	2555	Comedy	Baby Geniuses	1999	Bob Clark	Kathleen Turner, Christopher Lloyd	2.5	1
+1325	2558	Comedy|Romance	Forces of Nature	1999	Bronwen Hughes	Ben Affleck, Sandra Bullock	5.4	1
+1334	2581	Comedy|Romance	Never Been Kissed	1999	Raja Gosnell	Drew Barrymore, David Arquette	6.0	1
+1335	2584	Comedy	Foolish	1999	Dave Meyers	Eddie Griffin, Master P	4.3	1
+1339	2598	Comedy	Pushing Tin	1999	Mike Newell	John Cusack, Billy Bob Thornton	6.0	1
+1343	2606	Comedy|Horror	Idle Hands	1999	Rodman Flender	Devon Sawa, Seth Green	6.2	1
+1352	2623	Comedy	Trippin'	1999	David Raynr	Deon Richmond, Donald Faison	5.2	1
+1354	2631	Comedy|Film-Noir|Thriller	Frogs for Snakes	1998	Amos Poe	Jos Rafael Arango, Nicole Arlyn	4.2	1
+1361	2659	Comedy|Documentary	It Came from Hollywood	1982	Malcolm Leo,Andrew Solt	Dan Aykroyd, John Candy	5.9	1
+1366	2671	Comedy|Romance	Notting Hill	1999	Roger Michell	Julia Roberts, Hugh Grant	7.0	1
+1372	2681	Comedy|Romance|Sci-Fi	Free Enterprise	1998	Robert Meyer Burnett	Eric McCormack, Carl Bressler	7.0	1
+1373	2683	Comedy	Austin Powers: The Spy Who Shagged Me	1999	Jay Roach	Mike Myers, Heather Graham	6.6	1
+1380	2694	Comedy	Big Daddy	1999	Dennis Dugan	Adam Sandler, Joey Lauren Adams	6.4	1
+1381	2699	Action|Comedy|Sci-Fi|Thriller	Arachnophobia	1990	Frank Marshall	Jeff Daniels, Harley Jane Kozak	6.3	1
+1384	2706	Comedy	American Pie	1999	Paul Weitz,Chris Weitz	Jason Biggs, Chris Klein	7.0	1
+1390	2717	Comedy|Horror	Ghostbusters II	1989	Ivan Reitman	Bill Murray, Dan Aykroyd	6.5	1
+1391	2718	Comedy	Drop Dead Gorgeous	1999	Michael Patrick Jann	Kirsten Dunst, Ellen Barkin	6.5	1
+1394	2720	Action|Adventure|Children's|Comedy	Inspector Gadget	1999	David Kellogg	Matthew Broderick, Rupert Everett	4.1	1
+1396	2724	Comedy|Romance	Runaway Bride	1999	Garry Marshall	Julia Roberts, Richard Gere	5.5	1
+1397	2723	Action|Adventure|Comedy	Mystery Men	1999	Kinka Usher	Ben Stiller, Hank Azaria	6.0	1
+1402	2733	Adventure|Comedy	Vibes	1988	Ken Kwapis	Ramon Bieri, Michael Lerner	5.5	1
+1403	2736	Comedy	Brighton Beach Memoirs	1986	Gene Saks	Jonathan Silverman, Blythe Danner	6.9	1
+1407	2746	Comedy|Horror|Musical	Little Shop of Horrors	1986	Frank Oz	Levi Stubbs, Rick Moranis	6.9	1
+1410	2751	Comedy	From the Hip	1987	Bob Clark	Judd Nelson, Elizabeth Perkins	6.2	1
+1414	2767	Comedy	Illuminata	1998	John Turturro	Leo Bassi, Henri Behar	6.2	1
+1416	2768	Comedy	Stiff Upper Lips	1998	Gary Sinyor	David Artus, Kevin Furlong	6.4	1
+1417	2772	Comedy	Detroit Rock City	1999	Adam Rifkin	Giuseppe Andrews, James DeBello	6.8	1
+1418	2770	Comedy	Bowfinger	1999	Frank Oz	Steve Martin, Eddie Murphy	6.4	1
+1420	2774	Comedy|Romance	Better Than Chocolate	1999	Anne Wheeler	Wendy Crewson, Karyn Dwyer	6.3	1
+1423	2779	Comedy	Heaven Can Wait	1978	Warren Beatty,Buck Henry	Warren Beatty, Julie Christie	6.9	1
+1426	2788	Comedy	And Now for Something Completely Different	1971	Ian MacNaughton	Graham Chapman, John Cleese	7.7	1
+1427	2786	Comedy	Haunted Honeymoon	1986	Gene Wilder	Gene Wilder, Gilda Radner	5.5	1
+1429	2792	Comedy	Airplane II: The Sequel	1982	Ken Finkleman	Lloyd Bridges, Raymond Burr	6.1	1
+1430	2796	Comedy	Funny Farm	1988	George Roy Hill	Chevy Chase, Madolyn Smith Osborne	6.1	1
+1432	2798	Comedy	Problem Child	1990	Dennis Dugan	John Ritter, Jack Warden	5.2	1
+1434	2806	Comedy|Thriller	Teaching Mrs. Tingle	1999	Kevin Williamson	Helen Mirren, Katie Holmes	5.2	1
+1435	2805	Comedy|Romance	Mickey Blue Eyes	1999	Kelly Makin	Hugh Grant, James Caan	5.8	1
+1438	2811	Comedy	With Friends Like These...	1998	Philip Frank Messina	Adam Arkin, David Strathairn	5.9	1
+1439	2809	Comedy	Love Stinks	1999	Jeff Franklin	French Stewart, Bridgette Wilson-Sampras	5.8	1
+1451	2828	Children's|Comedy	Dudley Do-Right	1999	Hugh Wilson	Brendan Fraser, Sarah Jessica Parker	3.8	1
+1453	2836	Comedy	Outside Providence	1999	Michael Corrente	Shawn Hatosy, Tommy Bone	6.4	1
+1456	2838	Comedy	I Woke Up Early the Day I Died	1998	Aris Iliopulos	Billy Zane, Tippi Hedren	6.3	1
+1468	2860	Comedy	Blue Streak	1999	Les Mayfield	Martin Lawrence, Luke Wilson	6.3	1
+1471	2864	Comedy	Splendor	1999	Gregg Araki	Kathleen Robertson, Johnathon Schaech	5.9	1
+1472	2865	Comedy	Sugar Town	1999	Allison Anders,Kurt Voss	Jade Gordon, John Taylor	6.1	1
+1473	2867	Comedy|Horror	Fright Night	1985	Tom Holland	Chris Sarandon, William Ragsdale	7.1	1
+1475	2870	Comedy	Barefoot in the Park	1967	Gene Saks	Robert Redford, Jane Fonda	7.0	1
+1484	2883	Comedy	Mumford	1999	Lawrence Kasdan	Loren Dean, Hope Davis	6.9	1
+1485	2888	Comedy|Romance	Drive Me Crazy	1999	John Schultz	Melissa Joan Hart, Adrian Grenier	5.7	1
+1499	2915	Comedy	Risky Business	1983	Paul Brickman	Tom Cruise, Rebecca De Mornay	6.8	1
+1501	2918	Comedy	Ferris Bueller's Day Off	1986	John Hughes	Matthew Broderick, Alan Ruck	7.9	1
+1515	2946	Comedy|Musical	Help!	1965	Richard Lester	The Beatles, Leo McKern	7.3	1
+1522	2962	Comedy|Romance	Fever Pitch	1997	David Evans	Luke Aikman, Bea Guard	6.7	1
+1529	2973	Comedy	Crimes and Misdemeanors	1989	Woody Allen	Bill Bernstein, Martin Landau	8.0	1
+1533	2978	Comedy|Romance	Three to Tango	1999	Damon Santostefano	Matthew Perry, Neve Campbell	6.1	1
+1541	2997	Comedy	Being John Malkovich	1999	Spike Jonze	John Cusack, Cameron Diaz	7.8	1
+1544	2999	Comedy	Man of the Century	1999	Adam Abraham	Gibson Frazier, Cara Buono	7.1	1
+1549	3012	Comedy	Battling Butler	1926	Buster Keaton	Buster Keaton, Snitz Edwards	7.2	1
+1550	3014	Comedy	Bustin' Loose	1981	Oz Scott,Michael Schultz	Richard Pryor, Cicely Tyson	6.0	1
+1553	3023	Comedy|Romance	My Best Girl	1927	Sam Taylor	Mary Pickford, Charles 'Buddy' Rogers	7.8	1
+1558	3031	Comedy	Repossessed	1990	Bob Logan	Linda Blair, Ned Beatty	4.7	1
+1561	3033	Comedy|Sci-Fi	Spaceballs	1987	Mel Brooks	Mel Brooks, John Candy	7.1	1
+1564	3040	Comedy	Meatballs	1979	Ivan Reitman	Bill Murray, Harvey Atkin	6.2	1
+1566	3041	Comedy	Meatballs Part II	1984	Ken Wiederhorn	Richard Mulligan, Hamilton Camp	3.4	1
+1567	3039	Comedy	Trading Places	1983	John Landis	Denholm Elliott, Dan Aykroyd	7.5	1
+1571	3049	Comedy|War	How I Won the War	1967	Richard Lester	Michael Crawford, John Lennon	5.8	1
+1572	3052	Comedy	Dogma	1999	Kevin Smith	Bud Cort, Barret Hackney	7.4	1
+1574	3048	Comedy	Under the Rainbow	1981	Steve Rash	Chevy Chase, Carrie Fisher	5.4	1
+1581	3061	Comedy|Musical	Holiday Inn	1942	Mark Sandrich	Bing Crosby, Fred Astaire	7.6	1
+1583	3072	Comedy	Moonstruck	1987	Norman Jewison	Cher, Nicolas Cage	7.1	1
+1587	3076	Comedy	Irma la Douce	1963	Billy Wilder	Jack Lemmon, Shirley MacLaine	7.4	1
+1590	3088	Comedy	Harvey	1950	Henry Koster	James Stewart, Josephine Hull	8.1	1
+1591	3087	Comedy	Scrooged	1988	Richard Donner	Bill Murray, Karen Allen	7.0	1
+1594	3099	Comedy|Romance	Shampoo	1975	Hal Ashby	Warren Beatty, Julie Christie	6.3	1
+1597	3104	Action|Adventure|Comedy|Crime	Midnight Run	1988	Martin Brest	Robert De Niro, Charles Grodin	7.6	1
+1610	3131	Comedy	Broadway Damage	1997	Victor Mignatti	Mara Hobel, Michael Lucas	6.8	1
+1611	3133	Comedy	Go West	1925	Buster Keaton	Howard Truesdale, Kathleen Myers	7.3	1
+1615	3146	Comedy	Deuce Bigalow: Male Gigolo	1999	Mike Mitchell	Rob Schneider, William Forsythe	5.7	1
+1619	3157	Children's|Comedy	Stuart Little	1999	Rob Minkoff	Michael J. Fox, Geena Davis	5.9	1
+1631	3175	Adventure|Comedy|Sci-Fi	Galaxy Quest	1999	Dean Parisot	Tim Allen, Sigourney Weaver	7.3	1
+1639	3199	Comedy|Musical|Romance	Pal Joey	1957	George Sidney	Rita Hayworth, Frank Sinatra	6.8	1
+1645	3210	Comedy	Fast Times at Ridgemont High	1982	Amy Heckerling	Sean Penn, Jennifer Jason Leigh	7.2	1
+1654	3225	Comedy|Romance	Down to You	2000	Kris Isacsson	Freddie Prinze Jr., Julia Stiles	4.9	1
+1655	3228	Comedy	Wirey Spindell	1999	Eric Schaeffer	Eric Schaeffer, Eric Mabius	4.6	1
+1656	3235	Comedy	Where the Buffalo Roam	1980	Art Linson	Peter Boyle, Bill Murray	6.7	1
+1657	3232	Comedy	Seven Chances	1925	Buster Keaton	Buster Keaton, T. Roy Barnes	8.0	1
+1659	3233	Comedy	Smashing Time	1967	Desmond Davis	Rita Tushingham, Lynn Redgrave	6.5	1
+1661	3243	Comedy	Encino Man	1992	Les Mayfield	Sean Astin, Brendan Fraser	5.7	1
+1662	3247	Comedy|Crime	Sister Act	1992	Emile Ardolino	Whoopi Goldberg, Maggie Smith	6.2	1
+1666	3253	Comedy	Wayne's World	1992	Penelope Spheeris	Mike Myers, Dana Carvey	7.0	1
+1669	3258	Comedy	Death Becomes Her	1992	Robert Zemeckis	Meryl Streep, Bruce Willis	6.4	1
+1673	3263	Comedy	White Men Can't Jump	1992	Ron Shelton	Wesley Snipes, Woody Harrelson	6.7	1
+1674	3268	Action|Comedy	Stop! Or My Mom Will Shoot	1992	Roger Spottiswoode	Sylvester Stallone, Estelle Getty	4.0	1
+1679	3276	Comedy	Gun Shy	2000	Eric Blakeney	Liam Neeson, Oliver Platt	5.7	1
+1680	3284	Comedy|Romance	They Might Be Giants	1971	Anthony Harvey	George C. Scott, Joanne Woodward	7.0	1
+1682	3282	Comedy	Different for Girls	1996	Richard Spence	Steven Mackintosh, Rupert Graves	7.1	1
+1685	3290	Comedy	Soft Toilet Seats	1999	Tina Valinsky	David Rosen, Alexa Jago	5.3	1
+1695	3313	Comedy	Class Reunion	1982	Michael Miller	Gerrit Graham, Michael Lerner	4.6	1
+1700	3320	Comedy|Romance	Mifune	1999	Sren Kragh-Jacobsen	Iben Hjejle, Anders W. Berthelsen	7.2	1
+1701	3324	Comedy	Drowning Mona	2000	Nick Gomez	Danny DeVito, Bette Midler	5.6	1
+1702	3326	Comedy|Sci-Fi	What Planet Are You From?	2000	Mike Nichols	Garry Shandling, Annette Bening	5.6	1
+1703	3323	Comedy|Crime	Chain of Fools	2000	Pontus Lwenhielm,Patrick von Krusenstjerna	Steve Zahn, Salma Hayek	6.2	1
+1710	3341	Comedy	Born Yesterday	1950	George Cukor	Judy Holliday, Broderick Crawford	7.7	1
+1720	3358	Comedy|Romance	Defending Your Life	1991	Albert Brooks	Albert Brooks, Michael Durrell	7.3	1
+1725	3361	Comedy	Bull Durham	1988	Ron Shelton	Kevin Costner, Susan Sarandon	7.1	1
+1734	3385	Comedy	Volunteers	1985	Nicholas Meyer	Tom Hanks, John Candy	5.4	1
+1736	3387	Comedy	Who's Harry Crumb?	1989	Paul Flaherty	John Candy, Jeffrey Jones	5.8	1
+1738	3388	Comedy	Harry and the Hendersons	1987	William Dear	John Lithgow, Melinda Dillon	5.9	1
+1740	3395	Comedy	Nadine	1987	Robert Benton	Jeff Bridges, Kim Basinger	5.5	1
+1741	3392	Comedy	She-Devil	1989	Susan Seidelman	Meryl Streep, Roseanne Barr	5.4	1
+1742	3394	Comedy|Romance	Blind Date	1987	Blake Edwards	Kim Basinger, Bruce Willis	5.9	1
+1743	3393	Comedy|Fantasy	Date with an Angel	1987	Tom McLoughlin	Michael E. Knight, Phoebe Cates	5.7	1
+1753	3421	Comedy	Animal House	1978	John Landis	Tom Hulce, Stephen Furst	7.6	1
+1754	3419	Comedy|Crime	Something for Everyone	1970	Harold Prince	Angela Lansbury, Michael York	7.4	1
+1755	3422	Comedy|Romance	She's Gotta Have It	1986	Spike Lee	Tracy Camilla Johns, Tommy Redmond Hicks	6.5	1
+1773	3446	Comedy	Funny Bones	1995	Peter Chelsom	Oliver Platt, Jerry Lewis	7.0	1
+1774	3450	Comedy	Grumpy Old Men	1993	Donald Petrie	Jack Lemmon, Walter Matthau	6.9	1
+1779	3454	Comedy|Romance	Whatever It Takes	2000	David Raynr	Jodi Lyn O'Keefe, Shane West	5.5	1
+1781	3462	Comedy	Modern Times	1936	Charles Chaplin	Charles Chaplin, Paulette Goddard	8.6	1
+1782	3460	Comedy	Hillbillys in a Haunted House	1967	Jean Yarbrough	Ferlin Husky, Joi Lansing	2.1	1
+1783	3463	Comedy	Last Resort	1994	Rafal Zielinski	Corey Feldman, Corey Haim	2.7	1
+1789	3466	Comedy|Fantasy	Heart and Souls	1993	Ron Underwood	Robert Downey Jr., Charles Grodin	6.9	1
+1794	3481	Comedy	High Fidelity	2000	Stephen Frears	John Cusack, Iben Hjejle	7.6	1
+1798	3491	Comedy	My Chauffeur	1986	David Beaird	Deborah Foreman, Sam J. Jones	5.6	1
+1801	3497	Comedy	Max Dugan Returns	1983	Herbert Ross	Marsha Mason, Jason Robards	6.6	1
+1807	3501	Comedy|Romance	Murphy's Romance	1985	Martin Ritt	Sally Field, James Garner	7.0	1
+1813	3511	Comedy	Ready to Rumble	2000	Brian Robbins	David Arquette, Oliver Platt	5.3	1
+1814	3520	Comedy	How to Stuff a Wild Bikini	1965	William Asher	Annette Funicello, Dwayne Hickman	4.3	1
+1816	3524	Comedy|Romance	Arthur	1981	Steve Gordon	Dudley Moore, Liza Minnelli	6.9	1
+1818	3525	Comedy	Bachelor Party	1984	Neal Israel	Tom Hanks, Tawny Kitaen	6.3	1
+1821	3530	Comedy	Smoking/No Smoking	1993	Alain Resnais	Sabine Azma, Pierre Arditi	7.6	1
+1823	3535	Comedy|Horror|Thriller	American Psycho	2000	Mary Harron	Christian Bale, Justin Theroux	7.6	1
+1825	3536	Comedy|Romance	Keeping the Faith	2000	Edward Norton	Ben Stiller, Edward Norton	6.4	1
+1829	3544	Comedy	Shakes the Clown	1991	Bobcat Goldthwait	Bobcat Goldthwait, Julie Brown	5.5	1
+1836	3552	Comedy	Caddyshack	1980	Harold Ramis	Chevy Chase, Rodney Dangerfield	7.4	1
+1847	3597	Comedy	Whipped	2000	Peter M. Cohen	Amanda Peet, Brian Van Holt	4.4	1
+1848	3596	Comedy	Screwed	2000	Scott Alexander,Larry Karaszewski	Norm MacDonald, Dave Chappelle	5.7	1
+1849	3599	Comedy|Musical	Anchors Aweigh	1945	George Sidney	Frank Sinatra, Kathryn Grayson	7.2	1
+1850	3600	Comedy|Musical	Blue Hawaii	1961	Norman Taurog	Elvis Presley, Joan Blackman	6.0	1
+1854	3608	Comedy	Pee-wee's Big Adventure	1985	Tim Burton	Paul Reubens, Elizabeth Daily	7.0	1
+1858	3614	Comedy|Romance	Honeymoon in Vegas	1992	Andrew Bergman	James Caan, Nicolas Cage	5.8	1
+1859	3613	Comedy	Things Change	1988	David Mamet	Don Ameche, Joe Mantegna	7.0	1
+1860	3616	Comedy|Romance	Loser	2000	Amy Heckerling	Jason Biggs, Mena Suvari	5.3	1
+1861	3618	Comedy	Small Time Crooks	2000	Woody Allen	Woody Allen, Carolyn Saxon	6.7	1
+1868	3632	Comedy	Monsieur Verdoux	1947	Charles Chaplin	Charles Chaplin, Mady Correll	8.0	1
+1882	3671	Comedy|Western	Blazing Saddles	1974	Mel Brooks	Cleavon Little, Gene Wilder	7.8	1
+1883	3669	Comedy	Stay Tuned	1992	Peter Hyams	John Ritter, Pam Dawber	6.0	1
+1894	3688	Comedy	Porky's	1981	Bob Clark	Dan Monahan, Mark Herrier	6.1	1
+1895	3689	Comedy	Porky's II: The Next Day	1983	Bob Clark	Dan Monahan, Wyatt Knight	4.9	1
+1896	3692	Comedy|Horror	Class of Nuke 'Em High	1986	Richard W. Haines,Lloyd Kaufman	Janelle Brady, Gil Brenton	5.6	1
+1897	3690	Comedy	Porky's Revenge	1985	James Komack	Dan Monahan, Wyatt Knight	4.6	1
+1898	3691	Comedy	Private School	1983	Noel Black	Phoebe Cates, Betsy Russell	5.2	1
+1899	3696	Comedy|Horror|Sci-Fi	Night of the Creeps	1986	Fred Dekker	Jason Lively, Steve Marshall	6.8	1
+1904	3710	Action|Comedy	Action Jackson	1988	Craig R. Baxley	Carl Weathers, Craig T. Nelson	5.2	1
+1907	3712	Comedy	Soapdish	1991	Michael Hoffman	Sally Field, Kevin Kline	6.5	1
+1910	3715	Comedy	Burglar	1987	Hugh Wilson	Whoopi Goldberg, Bobcat Goldthwait	5.0	1
+1911	3719	Comedy|Romance	Love's Labour's Lost	2000	Kenneth Branagh	Alessandro Nivola, Alicia Silverstone	6.1	1
+1914	3722	Comedy	Live Virgin	1999	Jean-Pierre Marois	Mark Adair-Rios, Jason Bercy	3.6	1
+1918	3727	Comedy|Horror	Near Dark	1987	Kathryn Bigelow	Adrian Pasdar, Jenny Wright	7.0	1
+1923	3739	Comedy|Romance	Trouble in Paradise	1932	Ernst Lubitsch	Miriam Hopkins, Kay Francis	8.2	1
+1924	3740	Action|Comedy	Big Trouble in Little China	1986	John Carpenter	Kurt Russell, Kim Cattrall	7.3	1
+1926	3743	Comedy|Romance	Boys and Girls	2000	Robert Iscove	Brendon Ryan Barrett, Gay Thomas Wilson	5.3	1
+1931	3751	Animation|Children's|Comedy	Chicken Run	2000	Peter Lord,Nick Park	Phil Daniels, Lynn Ferguson	7.0	1
+1939	3773	Comedy	House Party	1990	Reginald Hudlin	Christopher Reid, Robin Harris	6.3	1
+1943	3777	Comedy|Horror	Nekromantik	1987	Jrg Buttgereit	Bernd Daktari Lorenz, Beatrice Manowski	5.2	1
+1947	3786	Comedy	But I'm a Cheerleader	1999	Jamie Babbit	Natasha Lyonne, Michelle Williams	6.6	1
+1955	3804	Comedy	H.O.T.S.	1979	Gerald Seth Sindell	Susan Kiger, Lisa London	4.2	1
+1962	3809	Comedy	What About Bob?	1991	Frank Oz	Bill Murray, Richard Dreyfuss	7.0	1
+1964	3814	Comedy	Love and Death	1975	Woody Allen	Woody Allen, Diane Keaton	7.8	1
+1966	3821	Comedy	Nutty Professor II: The Klumps	2000	Peter Segal	Eddie Murphy, Janet Jackson	4.3	1
+1971	3828	Comedy	Better Living	1998	Max Mayer	Scott Cohen, Olympia Dukakis	4.6	1
+1972	3830	Comedy|Horror|Thriller	Psycho Beach Party	2000	Robert Lee King	Lauren Ambrose, Thomas Gibson	6.3	1
+1974	3829	Comedy|Romance	Mad About Mambo	2000	John Forte	William Ash, Maclean Stewart	6.0	1
+1975	3836	Action|Comedy|War	Kelly's Heroes	1970	Brian G. Hutton	Clint Eastwood, Telly Savalas	7.7	1
+1980	3841	Action|Comedy	Air America	1990	Roger Spottiswoode	Mel Gibson, Robert Downey Jr.	5.7	1
+1982	3846	Comedy	Easy Money	1983	James Signorelli	Rodney Dangerfield, Joe Pesci	6.3	1
+1985	3851	Comedy	I'm the One That I Want	2000	Lionel Coleman	Margaret Cho	7.5	1
+1987	3862	Comedy	About Adam	2000	Gerard Stembridge	Tommy Tiernan, Kate Hudson	6.0	1
+1988	3866	Comedy	Sunset Strip	2000	Adam Collis	Simon Baker, Anna Friel	5.7	1
+1989	3873	Comedy|Western	Cat Ballou	1965	Elliot Silverstein	Jane Fonda, Lee Marvin	6.9	1
+1994	3882	Comedy	Bring It On	2000	Peyton Reed	Kirsten Dunst, Eliza Dushku	5.9	1
+1998	3893	Comedy|Thriller	Nurse Betty	2000	Neil LaBute	Morgan Freeman, Rene Zellweger	6.3	1
+2002	3898	Action|Comedy	Bait	2000	Antoine Fuqua	Jamie Foxx, David Morse	5.8	1
+2004	3911	Comedy	Best in Show	2000	Christopher Guest	Jay Brazeau, Parker Posey	7.5	1
+2006	3909	Comedy|Romance	Woman on Top	2000	Fina Torres	Penlope Cruz, Murilo Bencio	5.3	1
+2011	3921	Comedy	Beach Party	1963	William Asher	Robert Cummings, Dorothy Malone	5.7	1
+2014	3922	Comedy	Bikini Beach	1964	William Asher	Frankie Avalon, Annette Funicello	5.4	1
+2016	3924	Comedy	Pajama Party	1964	Don Weis	Tommy Kirk, Annette Funicello	4.4	1
+2017	3925	Comedy	Stranger Than Paradise	1984	Jim Jarmusch	John Lurie, Eszter Balint	7.6	1
+2020	3928	Comedy|Horror	Abbott and Costello Meet Frankenstein	1948	Charles Barton	Bud Abbott, Lou Costello	7.6	1
+2025	3948	Comedy	Meet the Parents	2000	Jay Roach	Robert De Niro, Ben Stiller	7.0	1
+2028	3943	Comedy	Bamboozled	2000	Spike Lee	Damon Wayans, Savion Glover	6.5	1

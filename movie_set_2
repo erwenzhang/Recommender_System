@@ -1,0 +1,717 @@
+	Movie ID	Genre	Name	Year	Director	Cast	imDB rating	label
+9	14	Drama	Nixon	1995	Oliver Stone	Anthony Hopkins, Joan Allen	7.1	2
+11	16	Drama|Thriller	Casino	1995	Martin Scorsese	Robert De Niro, Sharon Stone	8.2	2
+16	17	Drama|Romance	Sense and Sensibility	1995	Ang Lee	James Fleet, Tom Wilkinson	7.7	2
+18	22	Crime|Drama|Thriller	Copycat	1995	Jon Amiel	Sigourney Weaver, Holly Hunter	6.6	2
+20	24	Drama|Sci-Fi	Powder	1995	Victor Salva	Mary Steenburgen, Sean Patrick Flanery	6.5	2
+22	26	Drama	Othello	1995	Oliver Parker	Laurence Fishburne, Irne Jacob	7.0	2
+23	25	Drama|Romance	Leaving Las Vegas	1995	Mike Figgis	Nicolas Cage, Elisabeth Shue	7.6	2
+24	31	Drama	Dangerous Minds	1995	John N. Smith	Michelle Pfeiffer, George Dzundza	6.4	2
+25	32	Drama|Sci-Fi	Twelve Monkeys	1995	Terry Gilliam	Joseph Melito, Bruce Willis	8.1	2
+28	36	Drama	Dead Man Walking	1995	Tim Robbins	Susan Sarandon, Sean Penn	7.6	2
+30	35	Drama|Romance	Carrington	1995	Christopher Hampton	Emma Thompson, Jonathan Pryce	6.9	2
+31	41	Drama|War	Richard III	1995	Richard Loncraine	Ian McKellen, Annette Bening	7.5	2
+34	42	Action|Crime|Drama	Dead Presidents	1995	Albert Hughes,Allen Hughes	Larenz Tate, Keith David	6.8	2
+35	46	Drama|Romance	How to Make an American Quilt	1995	Jocelyn Moorhouse	Kaelynn Craddick, Sara Craddick	6.2	2
+36	43	Drama	Restoration	1995	Michael Hoffman	Robert Downey Jr., Sam Neill	6.7	2
+39	49	Drama|Romance	When Night Is Falling	1995	Patricia Rozema	Pascale Bussires, Rachael Crawford	6.8	2
+41	57	Drama	Home for the Holidays	1995	Jodie Foster	Holly Hunter, Robert Downey Jr.	6.6	2
+42	62	Drama	Mr. Holland's Opus	1995	Stephen Herek	Richard Dreyfuss, Glenne Headly	7.3	2
+44	67	Drama	Two Bits	1995	James Foley	Jerry Barone, Mary Elizabeth Mastrantonio	6.3	2
+50	74	Drama|Romance	Bed of Roses	1996	Michael Goldenberg	Christian Slater, Mary Stuart Masterson	6.0	2
+54	83	Drama	Once Upon a Time... When We Were Colored	1995	Tim Reid	Al Freeman Jr., Phylicia Rashad	7.2	2
+55	82	Drama	Antonia's Line	1995	Marleen Gorris	Willeke van Ammelrooy, Els Dottermans	7.5	2
+57	86	Adventure|Drama	White Squall	1996	Ridley Scott	Jeff Bridges, Caroline Goodall	6.6	2
+58	85	Drama|Romance	Angels and Insects	1995	Philip Haas	Mark Rylance, Kristin Scott Thomas	7.0	2
+62	92	Drama|Thriller	Mary Reilly	1996	Stephen Frears	Julia Roberts, John Malkovich	5.8	2
+65	94	Drama	Beautiful Girls	1996	Ted Demme	Matt Dillon, Noah Emmerich	7.2	2
+68	100	Drama|Thriller	City Hall	1996	Harold Becker	Al Pacino, John Cusack	6.2	2
+75	111	Drama|Thriller	Taxi Driver	1976	Martin Scorsese	Diahnne Abbott, Frank Adu	8.3	2
+76	110	Action|Drama|War	Braveheart	1995	Mel Gibson	James Robinson, Sean Lawlor	8.4	2
+78	113	Drama|Mystery	Before and After	1996	Barbet Schroeder	Meryl Streep, Liam Neeson	6.1	2
+79	114	Drama	Margaret's Museum	1995	Mort Ransen	Helena Bonham Carter, Clive Russell	7.3	2
+83	120	Drama	Race the Sun	1996	Charles T. Kanganis	Halle Berry, James Belushi	5.3	2
+85	123	Drama|Mystery|Romance	Chungking Express	1994	Kar-Wai Wong	Brigitte Lin, Tony Chiu Wai Leung	8.1	2
+86	131	Drama|Romance	Frankie Starlight	1995	Michael Lindsay-Hogg	Corban Walker, Niall Toibin	6.7	2
+88	130	Drama	Angela	1995	Rebecca Miller	Miranda Rhyne, Charlotte Eve Blythe	6.5	2
+92	143	Drama	Gospa	1995	Jakov Sedlar	Martin Sheen, Michael York	5.1	2
+93	151	Drama|Romance|War	Rob Roy	1995	Michael Caton-Jones	Liam Neeson, Jessica Lange	6.9	2
+94	149	Crime|Drama|Thriller	Amateur	1994	Hal Hartley	Isabelle Huppert, Martin Donovan	7.0	2
+96	155	Drama|War	Beyond Rangoon	1995	John Boorman	Patricia Arquette, U Aung Ko	6.6	2
+99	161	Drama|Thriller|War	Crimson Tide	1995	Tony Scott	Denzel Washington, Gene Hackman	7.3	2
+100	159	Drama	Clockers	1995	Spike Lee	Harvey Keitel, John Turturro	6.9	2
+105	168	Action|Adventure|Drama|Romance	First Knight	1995	Jerry Zucker	Sean Connery, Richard Gere	5.9	2
+108	167	Drama	Feast of July	1995	Christopher Menaul	Embeth Davidtz, Tom Bell	6.4	2
+116	182	Drama|Romance	Moonlight and Valentino	1995	David Anspaugh	Elizabeth Perkins, Whoopi Goldberg	5.8	2
+117	184	Drama	Nadja	1994	Michael Almereyda	Elina Lwensohn, Nic Ratner	6.0	2
+122	193	Drama	Showgirls	1995	Paul Verhoeven	Elizabeth Berkley, Kyle MacLachlan	4.6	2
+124	194	Drama	Smoke	1995	Wayne Wang,Paul Auster	Giancarlo Esposito, Jos Ziga	7.4	2
+127	202	Drama|Romance	Total Eclipse	1995	Agnieszka Holland	Leonardo DiCaprio, David Thewlis	6.5	2
+128	201	Drama	Three Wishes	1995	Martha Coolidge	Patrick Swayze, Mary Elizabeth Mastrantonio	6.1	2
+132	209	Drama	White Man's Burden	1995	Desmond Nakano	John Travolta, Harry Belafonte	5.2	2
+135	215	Drama|Romance	Before Sunrise	1995	Richard Linklater	Ethan Hawke, Julie Delpy	8.1	2
+136	214	Drama	Before the Rain	1994	Milcho Manchevski	Katrin Cartlidge, Rade Serbedzija	8.1	2
+138	222	Drama|Romance	Circle of Friends	1995	Pat O'Connor	Chris O'Donnell, Minnie Driver	6.6	2
+140	225	Drama|Thriller	Disclosure	1994	Barry Levinson	Michael Douglas, Demi Moore	6.0	2
+144	229	Drama|Thriller	Death and the Maiden	1994	Roman Polanski	Sigourney Weaver, Ben Kingsley	7.3	2
+148	233	Drama	Exotica	1994	Atom Egoyan	David Hemblen, Calvin Green	7.2	2
+153	241	Children's|Drama	Fluke	1995	Carlo Carlei	Samuel L. Jackson, Matthew Modine	6.7	2
+156	249	Drama|Romance	Immortal Beloved	1994	Bernard Rose	Gary Oldman, Jeroen Krabb	7.5	2
+157	247	Drama|Fantasy|Romance|Thriller	Heavenly Creatures	1994	Peter Jackson	Melanie Lynskey, Kate Winslet	7.4	2
+162	254	Drama	Jefferson in Paris	1995	James Ivory	Nick Nolte, Gwyneth Paltrow	5.7	2
+163	259	Crime|Drama|Thriller	Kiss of Death	1995	Barbet Schroeder	David Caruso, Samuel L. Jackson	5.9	2
+164	261	Drama	Little Women	1994	Gillian Armstrong	Winona Ryder, Gabriel Byrne	7.3	2
+165	265	Drama|Romance	Like Water for Chocolate	1992	Alfonso Arau	Marco Leonardi, Lumi Cavazos	7.2	2
+166	266	Drama|Romance|War|Western	Legends of the Fall	1994	Edward Zwick	Brad Pitt, Anthony Hopkins	7.5	2
+167	263	Drama	Ladybird Ladybird	1994	Ken Loach	Crissy Rock, Vladimir Vega	7.5	2
+168	268	Drama	Little Odessa	1994	James Gray	Tim Roth, Edward Furlong	6.8	2
+169	271	Drama	Losing Isaiah	1995	Stephen Gyllenhaal	Jessica Lange, Halle Berry	6.4	2
+170	270	Drama|Romance	Love Affair	1994	Glenn Gordon Caron	Warren Beatty, Annette Bening	5.9	2
+171	273	Drama|Horror	Mary Shelley's Frankenstein	1994	Kenneth Branagh	Robert De Niro, Kenneth Branagh	6.4	2
+175	279	Drama	My Family	1995	Gregory Nava	Edward James Olmos, Rafael Cortes	7.3	2
+176	281	Drama	Nobody's Fool	1994	Robert Benton	Paul Newman, Jessica Tandy	7.4	2
+177	283	Crime|Drama	New Jersey Drive	1995	Nick Gomez	Shar-Ron Corley, Gabriel Casseus	6.7	2
+180	290	Crime|Drama	Once Were Warriors	1994	Lee Tamahori	Rena Owen, Temuera Morrison	8.0	2
+182	296	Crime|Drama	Pulp Fiction	1994	Quentin Tarantino	Tim Roth, Amanda Plummer	8.9	2
+184	297	Drama	Panther	1995	Mario Van Peebles	Kadeem Hardison, Bokeem Woodbine	6.4	2
+185	300	Drama	Quiz Show	1994	Robert Redford	John Turturro, Rob Morrow	7.5	2
+186	302	Drama|Romance	Queen Margot	1994	Patrice Chreau	Isabelle Adjani, Daniel Auteuil	7.5	2
+187	299	Drama	Priest	1994	Antonia Bird	Linus Roache, Tom Wilkinson	7.2	2
+189	306	Drama	Three Colors: Red	1994	Krzysztof Kieslowski	Irne Jacob, Jean-Louis Trintignant	8.1	2
+190	307	Drama	Three Colors: Blue	1993	Krzysztof Kieslowski	Juliette Binoche, Benot Rgent	8.0	2
+191	308	Drama	Three Colors: White	1994	Krzysztof Kieslowski	Zbigniew Zamachowski, Julie Delpy	7.7	2
+197	321	Drama	Strawberry and Chocolate	1993	Toms Gutirrez Alea,Juan Carlos Tabo	Jorge Perugorra, Vladimir Cruz	7.4	2
+203	337	Drama	What's Eating Gilbert Grape	1993	Lasse Hallstrm	Johnny Depp, Leonardo DiCaprio	7.8	2
+206	341	Drama	Double Happiness	1994	Mina Shum	Sandra Oh, Stephen Chang	7.2	2
+210	347	Drama	Bitter Moon	1992	Roman Polanski	Peter Coyote, Emmanuelle Seigner	7.1	2
+213	354	Drama	Cobb	1994	Ron Shelton	Tommy Lee Jones, Robert Wuhl	6.4	2
+215	358	Drama	Higher Learning	1995	John Singleton	Omar Epps, Kristy Swanson	6.5	2
+218	361	Drama|Romance	It Could Happen to You	1994	Andrew Bergman	Nicolas Cage, Bridget Fonda	6.3	2
+219	365	Drama	Little Buddha	1993	Bernardo Bertolucci	Keanu Reeves, Ruocheng Ying	6.0	2
+221	369	Drama	Mrs. Parker and the Vicious Circle	1994	Alan Rudolph	Jennifer Jason Leigh, Campbell Scott	6.4	2
+224	375	Drama	Safe Passage	1994	Robert Allan Ackerman	Susan Sarandon, Nick Stahl	6.4	2
+227	382	Drama|Horror	Wolf	1994	Mike Nichols	Jack Nicholson, Michelle Pfeiffer	6.2	2
+228	381	Drama	When a Man Loves a Woman	1994	Luis Mandoki	Andy Garcia, Meg Ryan	6.5	2
+230	391	Crime|Drama	Jason's Lyric	1994	Doug McHenry	Allen Payne, Jada Pinkett Smith	6.6	2
+233	396	Drama	Fall Time	1995	Paul Warner	Steve Alden, David Arquette	5.5	2
+236	399	Drama	Girl in the Cadillac	1995	Lucas Platt	Erika Eleniak, William McNamara	6.0	2
+237	400	Drama	Homage	1995	Ross Kagan Marks	Blythe Danner, Frank Whaley	6.0	2
+239	406	Drama	Federal Hill	1994	Michael Corrente	Nicholas Turturro, Anthony DeSando	6.4	2
+240	409	Drama	Above the Rim	1994	Jeff Pollack	Duane Martin, Leon	6.6	2
+249	425	Drama|Romance	Blue Sky	1994	Tony Richardson	Jessica Lange, Tommy Lee Jones	6.4	2
+251	424	Drama	Blue Chips	1994	William Friedkin	Nick Nolte, Mary McDonnell	6.1	2
+252	431	Crime|Drama	Carlito's Way	1993	Brian De Palma	Al Pacino, Sean Penn	7.9	2
+255	430	Drama	Calendar Girl	1993	John Whitesell	Jason Priestley, Gabriel Olds	4.9	2
+260	436	Drama|Thriller	Color of Night	1994	Richard Rush	Bruce Willis, Jane March	5.1	2
+263	439	Drama	Dangerous Game	1993	Abel Ferrara	Harvey Keitel, Madonna	5.7	2
+267	448	Drama	Fearless	1993	Peter Weir	Jeff Bridges, Isabella Rossellini	7.2	2
+268	446	Drama|Romance	Farewell My Concubine	1993	Chen Kaige	Leslie Cheung, Fengyi Zhang	8.1	2
+271	452	Drama	Widows' Peak	1994	John Irvin	Mia Farrow, Joan Plowright	6.8	2
+273	455	Adventure|Children's|Drama	Free Willy	1993	Simon Wincer	Jason James Richter, Lori Petty	5.8	2
+274	458	Drama|Western	Geronimo: An American Legend	1993	Walter Hill	Jason Patric, Gene Hackman	6.5	2
+275	456	Drama	Fresh	1994	Boaz Yakin	Sean Nelson, Giancarlo Esposito	7.7	2
+277	461	Drama|Romance	Go Fish	1994	Rose Troche	V.S. Brodie, Guinevere Turner	5.6	2
+278	463	Crime|Drama|Thriller	Guilty as Sin	1993	Sidney Lumet	Rebecca De Mornay, Don Johnson	5.5	2
+284	475	Drama	In the Name of the Father	1993	Jim Sheridan	Alison Crosbie, Daniel Day-Lewis	8.1	2
+290	488	Drama	M. Butterfly	1993	David Cronenberg	Jeremy Irons, John Lone	6.8	2
+292	493	Action|Crime|Drama	Menace II Society	1993	Albert Hughes,Allen Hughes	Tyrin Turner, Larenz Tate	7.5	2
+297	501	Drama	Naked	1993	Mike Leigh	David Thewlis, Lesley Sharp	7.9	2
+298	495	Drama	In the Realm of the Senses	1976	Nagisa shima	Tatsuya Fuji, Eiko Matsuda	6.6	2
+299	498	Drama|Romance	Mr. Jones	1993	Mike Figgis	Richard Gere, Lena Olin	5.7	2
+303	508	Drama	Philadelphia	1993	Jonathan Demme	Tom Hanks, Denzel Washington	7.7	2
+304	510	Drama	Poetic Justice	1993	John Singleton	Janet Jackson, Tupac Shakur	5.9	2
+308	517	Action|Drama|Mystery	Rising Sun	1993	Philip Kaufman	Sean Connery, Wesley Snipes	6.2	2
+310	522	Action|Drama	Romper Stomper	1992	Geoffrey Wright	Russell Crowe, Daniel Pollock	6.8	2
+311	524	Drama	Rudy	1993	David Anspaugh	Sean Astin, Jon Favreau	7.5	2
+312	523	Drama	Ruby in Paradise	1993	Victor Nunez	Ashley Judd, Todd Field	7.2	2
+313	527	Drama|War	Schindler's List	1993	Steven Spielberg	Liam Neeson, Ben Kingsley	8.9	2
+314	529	Drama	Searching for Bobby Fischer	1993	Steven Zaillian	Max Pomeranc, Joe Mantegna	7.5	2
+316	530	Drama	Second Best	1994	Chris Menges	William Hurt, Nathan Yapp	7.2	2
+317	534	Drama|Romance	Shadowlands	1993	Richard Attenborough	Julian Fellowes, Roddy Maude-Roxby	7.4	2
+318	535	Drama	Short Cuts	1993	Robert Altman	Andie MacDowell, Bruce Davison	7.7	2
+321	538	Drama	Six Degrees of Separation	1993	Fred Schepisi	Stockard Channing, Will Smith	6.9	2
+333	557	Drama	Mamma Roma	1962	Pier Paolo Pasolini	Anna Magnani, Ettore Garofolo	7.9	2
+335	563	Drama	Germinal	1993	Claude Berri	Miou-Miou, Renaud	7.1	2
+338	567	Drama	Kika	1993	Pedro Almodvar	Vernica Forqu, Peter Coyote	6.5	2
+342	572	Drama	Foreign Student	1994	Eva Sereny	Robin Givens, Marco Hofschneider	5.8	2
+343	580	Drama	Princess Caraboo	1994	Michael Austin	Jim Broadbent, Phoebe Cates	6.0	2
+344	584	Drama	I Don't Want to Talk About It	1993	Mara Luisa Bemberg	Marcello Mastroianni, Luisina Brando	7.0	2
+346	590	Adventure|Drama|Western	Dances with Wolves	1990	Kevin Costner	Kevin Costner, Mary McDonnell	8.0	2
+348	591	Action|Drama|Thriller	Tough and Deadly	1995	Steve Cohen	Billy Blanks, Roddy Piper	5.9	2
+352	605	Drama|Romance	One Fine Day	1996	Michael Hoffman	Michelle Pfeiffer, George Clooney	6.4	2
+353	608	Crime|Drama|Thriller	Fargo	1996	Joel Coen,Ethan Coen	William H. Macy, Steve Buscemi	8.2	2
+357	613	Drama|Romance	Jane Eyre	1996	Franco Zeffirelli	Anna Paquin, Nic Knight	6.8	2
+359	620	Drama	Scream of Stone	1991	Werner Herzog	Vittorio Mezzogiorno, Stefan Glowacz	6.4	2
+360	628	Drama|Thriller	Primal Fear	1996	Gregory Hoblit	Richard Gere, Laura Linney	7.7	2
+361	624	Action|Drama|Thriller	Condition Red	1995	Mika Kaurismki	James Russo, Cynda Williams	5.0	2
+363	630	Drama|Romance	Carried Away	1996	Bruno Barreto	Dennis Hopper, Amy Irving	6.4	2
+366	636	Drama	Frisk	1995	Todd Verow	Michael Gunther, Craig Chester	5.0	2
+367	640	Drama|Thriller	Diabolique	1996	Jeremiah S. Chechik	Sharon Stone, Isabelle Adjani	5.3	2
+369	642	Drama	Roula	1995	Martin Enlen	Anica Dobra, Felicitas Grimm-Luck	6.6	2
+372	647	Drama|War	Courage Under Fire	1996	Edward Zwick	Denzel Washington, Meg Ryan	6.6	2
+374	650	Drama	Moll Flanders	1996	Pen Densham	Robin Wright, Morgan Freeman	6.5	2
+376	658	Drama	Billy's Holiday	1995	Richard Wherrett	Max Cullen, Kris McQuade	4.7	2
+381	669	Drama	Aparajito	1956	Satyajit Ray	Kamala Adhikari, Lalchand Banerjee	8.1	2
+382	668	Drama	Pather Panchali	1955	Satyajit Ray	Kanu Bannerjee, Karuna Bannerjee	8.4	2
+383	672	Drama	Tarantella	1995	Helen De Michiel	Mira Sorvino, Rose Gregorio	5.1	2
+387	682	Documentary|Drama	Tigrero: A Film That Was Never Made	1994	Mika Kaurismki	Samuel Fuller, Jim Jarmusch	6.8	2
+388	676	Drama	They Bite	1996	Brett Piper	Donna Frotscher, Nick Baldasare	5.2	2
+391	687	Drama|Romance	Country Life	1994	Michael Blakemore	Sam Neill, Greta Scacchi	6.9	2
+392	697	Drama|Romance	Feeling Minnesota	1996	Steven Baigelman	Keanu Reeves, Cameron Diaz	5.4	2
+394	699	Drama	To Cross the Rubicon	1991	Barry Caillier	Patricia Royce, Lorraine Devon Wilke	5.4	2
+396	701	Drama	Daens	1992	Stijn Coninx	Jan Decleir, Grard Desarthe	7.7	2
+397	703	Drama	Boys	1996	Stacy Cochran	Winona Ryder, Lukas Haas	4.8	2
+400	706	Drama	Sunset Park	1996	Steve Gomer	Rhea Perlman, Fredro Starr	5.9	2
+404	712	Drama	Captives	1994	Angela Pope	Julia Ormond, Tim Roth	6.4	2
+405	713	Drama	Of Love and Shadows	1994	Betty Kaplan	Antonio Banderas, Jennifer Connelly	5.1	2
+410	726	Drama	Last Dance	1996	Bruce Beresford	Sharon Stone, Rob Morrow	5.8	2
+421	744	Drama	Brothers in Trouble	1995	Udayan Prasad	Om Puri, Pavan Malhotra	6.8	2
+426	766	Drama	I Shot Andy Warhol	1996	Mary Harron	Lili Taylor, Jared Harris	6.6	2
+427	768	Drama	Someone Else's America	1995	Goran Paskaljevic	Tom Conti, Predrag Manojlovic	7.1	2
+429	773	Drama	Touki Bouki	1973	Djibril Diop Mambty	Magaye Niang, Mareme Niang	7.1	2
+432	778	Drama	Trainspotting	1996	Danny Boyle	Ewan McGregor, Ewen Bremner	8.2	2
+435	779	Drama|Romance	'Til There Was You	1997	Scott Winant	John Plumpis, Janel Moloney	4.7	2
+437	774	Drama	Wend Kuuni	1982	Gaston Kabor	Serge Yanogo, Rosine Yanogo	7.2	2
+438	781	Drama	Stealing Beauty	1996	Bernardo Bertolucci	Carlo Cecchi, Sinad Cusack	6.6	2
+441	790	Drama	An Unforgettable Summer	1994	Lucian Pintilie	Kristin Scott Thomas, Claudiu Bleont	7.5	2
+443	795	Drama	Somebody to Love	1994	Alexandre Rockwell	Rosie Perez, Harvey Keitel	5.2	2
+445	800	Drama|Mystery	Lone Star	1996	John Sayles	Stephen Mendillo, Stephen J. Lang	7.6	2
+450	806	Drama	American Buffalo	1996	Michael Corrente	Dustin Hoffman, Dennis Franz	5.7	2
+454	812	Drama	Magic Hunter	1994	Ildik Enyedi	Gary Kemp, Sadie Frost	6.7	2
+455	816	Drama	Two Deaths	1995	Nicolas Roeg	Sonia Braga, Patrick Malahide	6.7	2
+457	822	Drama	Hedd Wyn	1992	Paul Turner	Huw Garmon, Catrin Fychan	7.4	2
+458	824	Drama	Kaspar Hauser	1993	Peter Sehr	Andr Eisermann, Udo Samel	7.0	2
+459	831	Drama	Stonewall	1995	Nigel Finch	Guillermo Daz, Frederick Weller	7.2	2
+460	832	Drama|Thriller	Ransom	1996	Ron Howard	Mel Gibson, Rene Russo	6.6	2
+463	835	Drama	Foxfire	1996	Annette Haywood-Carter	Hedy Burress, Angelina Jolie	6.1	2
+468	843	Drama	Lotto Land	1995	John Rubino	Lawrence Gilliard Jr., Wendell Holmes	7.0	2
+471	851	Drama	Basquiat	1996	Julian Schnabel	Jeffrey Wright, Michael Wincott	6.9	2
+472	850	Crime|Drama	Cyclo	1995	Tran Anh Hung	Le Van Loc, Tony Chiu Wai Leung	7.4	2
+473	846	Drama	Flirt	1995	Hal Hartley	Paul Austin, Robert John Burke	6.3	2
+475	866	Crime|Drama|Romance|Thriller	Bound	1996	Lana Wachowski,Lilly Wachowski	Jennifer Tilly, Gina Gershon	7.4	2
+477	874	Crime|Drama	Killer: A Journal of Murder	1995	Tim Metcalfe	James Woods, Robert Sean Leonard	6.4	2
+478	873	Drama	Shadow of Angels	1976	Daniel Schmid	Ingrid Caven, Rainer Werner Fassbinder	6.9	2
+479	877	Drama	Girls Town	1996	Jim McKay	Lili Taylor, Bruklin Harris	6.2	2
+480	884	Drama	Sweet Nothing	1995	Gary Winick	Michael Imperioli, Mira Sorvino	6.0	2
+481	885	Children's|Drama|Fantasy	Bogus	1996	Norman Jewison	Whoopi Goldberg, Grard Depardieu	5.3	2
+484	887	Drama	Talk of Angels	1998	Nick Hamm	Polly Walker, Vincent Perez	6.1	2
+487	896	Drama	Wild Reeds	1994	Andr Tchin	lodie Bouchez, Gal Morel	7.6	2
+488	893	Drama	Mother Night	1996	Keith Gordon	Nick Nolte, Sheryl Lee	7.2	2
+489	895	Drama	Venice/Venice	1992	Henry Jaglom	Henry Jaglom, Nelly Alard	6.4	2
+496	902	Drama|Romance	Breakfast at Tiffany's	1961	Blake Edwards	Audrey Hepburn, George Peppard	7.8	2
+499	908	Drama|Thriller	North by Northwest	1959	Alfred Hitchcock	Cary Grant, Eva Marie Saint	8.4	2
+501	912	Drama|Romance|War	Casablanca	1942	Michael Curtiz	Humphrey Bogart, Ingrid Bergman	8.6	2
+506	920	Drama|Romance|War	Gone with the Wind	1939	Victor Fleming,George Cukor	Thomas Mitchell, Barbara O'Neil	8.2	2
+507	923	Drama	Citizen Kane	1941	Orson Welles	Joseph Cotten, Dorothy Comingore	8.4	2
+509	926	Drama	All About Eve	1950	Joseph L. Mankiewicz	Bette Davis, Anne Baxter	8.3	2
+521	944	Drama	Lost Horizon	1937	Frank Capra	Ronald Colman, Jane Wyatt	7.8	2
+522	948	Drama	Giant	1956	George Stevens	Elizabeth Taylor, Rock Hudson	7.7	2
+523	949	Drama	East of Eden	1955	Elia Kazan	Julie Harris, James Dean	8.0	2
+525	953	Drama	It's a Wonderful Life	1946	Frank Capra	James Stewart, Donna Reed	8.6	2
+526	954	Drama	Mr. Smith Goes to Washington	1939	Frank Capra	Jean Arthur, James Stewart	8.3	2
+528	956	Drama|Romance	Penny Serenade	1941	George Stevens	Irene Dunne, Cary Grant	7.2	2
+530	960	Crime|Drama	Angel on My Shoulder	1946	Archie Mayo	Paul Muni, Anne Baxter	6.9	2
+531	959	Drama	Of Human Bondage	1934	John Cromwell	Leslie Howard, Bette Davis	7.3	2
+532	962	Crime|Drama	They Made Me a Criminal	1939	Busby Berkeley	John Garfield, The 'Dead End' Kids	7.1	2
+535	971	Drama	Cat on a Hot Tin Roof	1958	Richard Brooks	Elizabeth Taylor, Paul Newman	8.1	2
+536	973	Drama	Meet John Doe	1941	Frank Capra	Gary Cooper, Barbara Stanwyck	7.7	2
+537	974	Drama|Romance	Algiers	1938	John Cromwell	Charles Boyer, Sigrid Gurie	6.9	2
+539	982	Drama	Picnic	1955	Joshua Logan	William Holden, Kim Novak	7.2	2
+540	981	Drama	Dangerous Ground	1997	Darrell Roodt	Thokozani Nkosi, Ron Smerczak	4.5	2
+542	987	Drama|Romance	Bliss	1997	Lance Young	Craig Sheffer, Sheryl Lee	6.0	2
+546	991	Drama|War	Michael Collins	1996	Neil Jordan	Ian Hart, Julia Roberts	7.1	2
+548	997	Drama|Thriller	Caught	1996	Robert M. Young	Edward James Olmos, Maria Conchita Alonso	6.8	2
+551	1003	Drama|Thriller	Extreme Measures	1996	Michael Apted	Hugh Grant, Gene Hackman	6.1	2
+552	1012	Children's|Drama	Old Yeller	1957	Robert Stevenson	Dorothy McGuire, Fess Parker	7.3	2
+561	1027	Drama	Robin Hood: Prince of Thieves	1991	Kevin Reynolds	Kevin Costner, Morgan Freeman	6.9	2
+568	1038	Drama	Unhook the Stars	1996	Nick Cassavetes	Gena Rowlands, Marisa Tomei	6.7	2
+571	1046	Drama|Romance	Beautiful Thing	1996	Hettie Macdonald	Meera Syal, Martin Walsh	7.7	2
+572	1044	Drama	Surviving Picasso	1996	James Ivory	Anthony Hopkins, Natascha McElhone	6.3	2
+573	1050	Documentary|Drama	Looking for Richard	1996	Al Pacino	Penelope Allen, Gordon MacDonald	7.4	2
+574	1053	Crime|Drama	Normal Life	1996	John McNaughton	Ashley Judd, Luke Perry	6.3	2
+576	1054	Drama	Get on the Bus	1996	Spike Lee	Richard Belzer, De'aundre Bonds	6.8	2
+579	1061	Crime|Drama	Sleepers	1996	Barry Levinson	Kevin Bacon, Billy Crudup	7.5	2
+580	1051	Drama	Trees Lounge	1996	Steve Buscemi	Carol Kane, Mark Boone Junior	7.2	2
+586	1084	Crime|Drama	Bonnie and Clyde	1967	Arthur Penn	Warren Beatty, Faye Dunaway	7.9	2
+590	1090	Drama|War	Platoon	1986	Oliver Stone	Tom Berenger, Keith David	8.1	2
+592	1095	Drama	Glengarry Glen Ross	1992	James Foley	Al Pacino, Jack Lemmon	7.8	2
+594	1097	Children's|Drama|Fantasy|Sci-Fi	E.T. the Extra-Terrestrial	1982	Steven Spielberg	Dee Wallace, Henry Thomas	7.9	2
+595	1096	Drama	Sophie's Choice	1982	Alan J. Pakula	Meryl Streep, Kevin Kline	7.7	2
+598	1103	Drama	Rebel Without a Cause	1955	Nicholas Ray	James Dean, Natalie Wood	7.8	2
+603	1124	Drama	On Golden Pond	1981	Mark Rydell	Katharine Hepburn, Henry Fonda	7.7	2
+605	1132	Drama	Manon of the Spring	1986	Claude Berri	Yves Montand, Daniel Auteuil	8.0	2
+606	1131	Drama	Jean de Florette	1986	Claude Berri	Yves Montand, Grard Depardieu	8.1	2
+611	1140	Drama	Entertaining Angels: The Dorothy Day Story	1996	Michael Ray Rhodes	Moira Kelly, Martin Sheen	6.4	2
+612	1139	Drama	Everything Relative	1996	Sharon Pollack	Monica Bell, Carol Schneider	6.1	2
+613	1141	Drama	Hoogste tijd	1995	Frans Weisz	Rijk de Gooyer, Josse De Pauw	7.1	2
+614	1142	Drama	Get Over It	1996	Nick Katsapetses	Christian Canterbury, Dave McCrea	7.5	2
+625	1163	Drama	Mina Tannenbaum	1994	Martine Dugowson	Romane Bohringer, Elsa Zylberstein	7.4	2
+630	1178	Drama|War	Paths of Glory	1957	Stanley Kubrick	Kirk Douglas, Ralph Meeker	8.5	2
+632	1185	Drama	My Left Foot	1989	Jim Sheridan	Daniel Day-Lewis, Brenda Fricker	7.9	2
+634	1187	Drama	Passion Fish	1992	John Sayles	Mary McDonnell, Angela Bassett	7.5	2
+638	1193	Drama	One Flew Over the Cuckoo's Nest	1975	Milos Forman	Michael Berryman, Peter Brocco	8.7	2
+640	1196	Action|Adventure|Drama|Sci-Fi|War	Star Wars: Episode V - The Empire Strikes Back	1980	Irvin Kershner	Mark Hamill, Harrison Ford	8.8	2
+646	1208	Drama|War	Apocalypse Now	1979	Francis Ford Coppola	Marlon Brando, Martin Sheen	8.5	2
+647	1207	Drama	To Kill a Mockingbird	1962	Robert Mulligan	Gregory Peck, John Megna	8.4	2
+648	1222	Action|Drama|War	Full Metal Jacket	1987	Stanley Kubrick	Matthew Modine, Adam Baldwin	8.3	2
+649	1225	Drama	Amadeus	1984	Milos Forman	F. Murray Abraham, Tom Hulce	8.3	2
+650	1224	Drama|War	Henry V	1989	Kenneth Branagh	Derek Jacobi, Kenneth Branagh	7.7	2
+651	1227	Crime|Drama|Thriller	Once Upon a Time in America	1984	Sergio Leone	Robert De Niro, James Woods	8.4	2
+652	1228	Drama	Raging Bull	1980	Martin Scorsese	Robert De Niro, Cathy Moriarty	8.3	2
+657	1245	Drama	Miller's Crossing	1990	Joel Coen,Ethan Coen	Gabriel Byrne, Marcia Gay Harden	7.9	2
+658	1246	Drama	Dead Poets Society	1989	Peter Weir	Robin Williams, Robert Sean Leonard	8.0	2
+664	1264	Action|Drama|Mystery|Romance|Thriller	Diva	1981	Jean-Jacques Beineix	Wilhelmenia Fernandez, Frdric Andri	7.3	2
+667	1268	Drama	Pump Up the Volume	1990	Allan Moyle	Christian Slater, Annie Ross	7.1	2
+669	1272	Drama|War	Patton	1970	Franklin J. Schaffner	George C. Scott, Karl Malden	8.0	2
+671	1271	Drama	Fried Green Tomatoes	1991	Jon Avnet	Kathy Bates, Mary Stuart Masterson	7.6	2
+677	1277	Action|Drama|Romance	Cyrano de Bergerac	1990	Jean-Paul Rappeneau	Grard Depardieu, Anne Brochet	7.6	2
+679	1280	Drama	Raise the Red Lantern	1991	Yimou Zhang	Li Gong, Saifei He	8.2	2
+682	1287	Action|Adventure|Drama	Ben-Hur	1959	William Wyler	Charlton Heston, Jack Hawkins	8.1	2
+683	1286	Drama|Romance	Somewhere in Time	1980	Jeannot Szwarc	Christopher Reeve, Jane Seymour	7.3	2
+685	1290	Drama|Romance	Some Kind of Wonderful	1987	Howard Deutch	Eric Stoltz, Mary Stuart Masterson	7.1	2
+688	1293	Drama	Gandhi	1982	Richard Attenborough	Ben Kingsley, Candice Bergen	8.1	2
+691	1300	Drama	My Life as a Dog	1985	Lasse Hallstrm	Anton Glanzelius, Tomas von Brmssen	7.7	2
+692	1302	Drama	Field of Dreams	1989	Phil Alden Robinson	Kevin Costner, Amy Madigan	7.6	2
+695	1306	Drama|Sci-Fi	Until the End of the World	1991	Wim Wenders	Solveig Dommartin, Pietro Falcone	6.9	2
+697	1309	Drama|Romance	Parallel Sons	1995	John G. Young	Gabriel Mann, Laurence Mason	6.4	2
+699	1312	Drama	Female Perversions	1996	Susan Streitfeld	Tilda Swinton, Amy Madigan	5.5	2
+715	1354	Drama	Breaking the Waves	1996	Lars von Trier	Emily Watson, Stellan Skarsgrd	7.9	2
+720	1358	Drama|Thriller	Sling Blade	1996	Billy Bob Thornton	Billy Bob Thornton, Dwight Yoakam	8.0	2
+722	1360	Drama	Identification of a Woman	1982	Michelangelo Antonioni	Tomas Milian, Daniela Silverio	6.8	2
+723	1365	Drama	Ridicule	1996	Patrice Leconte	Charles Berling, Jean Rochefort	7.5	2
+725	1369	Drama|Thriller	I Can't Sleep	1994	Claire Denis	Yekaterina Golubeva, Richard Courcet	7.0	2
+736	1382	Action|Drama	Marked for Death	1990	Dwight H. Little	Steven Seagal, Basil Wallace	5.9	2
+741	1393	Drama|Romance	Jerry Maguire	1996	Cameron Crowe	Tom Cruise, Cuba Gooding Jr.	7.3	2
+743	1396	Crime|Drama|Sci-Fi	Sneakers	1992	Phil Alden Robinson	Jo Marr, Gary Hershberger	7.1	2
+746	1399	Drama	Marvin's Room	1996	Jerry Zaks	Meryl Streep, Leonardo DiCaprio	6.7	2
+747	1397	Drama	Bastard Out of Carolina	1996	Anjelica Huston	Jennifer Jason Leigh, Ron Eldard	7.4	2
+748	1401	Drama	Ghosts of Mississippi	1996	Rob Reiner	Alec Baldwin, James Woods	6.6	2
+750	1411	Drama	Hamlet	1996	Kenneth Branagh	Riz Abbasi, Richard Attenborough	7.8	2
+751	1416	Drama|Musical	Evita	1996	Alan Parker	Madonna, Antonio Banderas	6.3	2
+753	1412	Drama	Some Mother's Son	1996	Terry George	Helen Mirren, Fionnula Flanagan	7.4	2
+754	1419	Drama	Walkabout	1971	Nicolas Roeg	Jenny Agutter, Luc Roeg	7.7	2
+759	1428	Drama	Angel Baby	1995	Michael Rymer	John Lynch, Jacqueline McKenzie	7.2	2
+763	1442	Drama	Prefontaine	1997	Steve James	Jared Leto, R. Lee Ermey	6.8	2
+773	1465	Drama	Rosewood	1997	John Singleton	Jon Voight, Ving Rhames	7.2	2
+775	1466	Crime|Drama	Donnie Brasco	1997	Mike Newell	Al Pacino, Johnny Depp	7.8	2
+781	1480	Action|Drama|Thriller	Smilla's Sense of Snow	1997	Bille August	Ona Fletcher, Julia Ormond	6.4	2
+783	1487	Drama|Musical	Selena	1997	Gregory Nava	Jennifer Lopez, Jackie Guerra	6.7	2
+790	1498	Drama|Romance	Inventing the Abbotts	1997	Pat O'Connor	Joaquin Phoenix, Billy Crudup	6.4	2
+793	1507	Drama|War	Paradise Road	1997	Bruce Beresford	Glenn Close, Frances McDormand	6.8	2
+794	1504	Drama	Hollow Reed	1996	Angela Pope	Sam Bould, Martin Donovan	7.4	2
+795	1508	Drama	Traveller	1997	Jack N. Green	Bill Paxton, Mark Wahlberg	6.2	2
+796	1509	Drama	All Over Me	1997	Alex Sichel	Alison Folland, Tara Subkoff	6.6	2
+803	1522	Drama	Ripe	1996	Mo Ogrodnik	Monica Keena, Daisy Eagan	3.8	2
+806	1529	Drama	Nowhere	1997	Gregg Araki	James Duval, Rachel True	6.4	2
+807	1531	Drama	Losing Chase	1996	Kevin Bacon	Helen Mirren, Kyra Sedgwick	6.8	2
+809	1535	Drama|Romance	Love! Valour! Compassion!	1997	Joe Mantello	Jason Alexander, Stephen Spinella	7.0	2
+814	1545	Drama	Ponette	1996	Jacques Doillon	Victoire Thivisol, Delphine Schiltz	7.6	2
+816	1549	Drama|Romance	Rough Magic	1995	Clare Peploe	Bridget Fonda, Russell Crowe	5.5	2
+828	1575	Drama	Gabbeh	1996	Mohsen Makhmalbaf	Abbas Sayah, Shaghayeh Djodat	7.1	2
+829	1579	Drama	For Ever Mozart	1996	Jean-Luc Godard	Madeleine Assas, Ghalia Lacroix	6.6	2
+830	1584	Drama|Sci-Fi	Contact	1997	Robert Zemeckis	Jena Malone, David Morse	7.4	2
+834	1586	Action|Drama|War	G.I. Jane	1997	Ridley Scott	Demi Moore, Viggo Mortensen	5.8	2
+838	1589	Crime|Drama|Mystery	Cop Land	1997	James Mangold	Sylvester Stallone, Harvey Keitel	6.9	2
+840	1596	Drama	Career Girls	1997	Mike Leigh	Katrin Cartlidge, Lynda Steadman	7.2	2
+842	1594	Drama	In the Company of Men	1997	Neil LaBute	Aaron Eckhart, Stacy Edwards	7.3	2
+845	1600	Drama|Romance	She's So Lovely	1997	Nick Cassavetes	Sean Penn, James Gandolfini	5.9	2
+846	1598	Crime|Drama|Thriller	Desperate Measures	1998	Barbet Schroeder	Michael Keaton, Andy Garcia	6.1	2
+847	1601	Crime|Drama|Film-Noir	Hoodlum	1997	Bill Duke	Laurence Fishburne, Tim Roth	6.2	2
+853	1611	Drama	My Own Private Idaho	1991	Gus Van Sant	River Phoenix, Keanu Reeves	7.1	2
+854	1613	Drama	Star Maps	1997	Miguel Arteta	Douglas Spain, Efrain Figueroa	5.9	2
+856	1619	Drama|War	Seven Years in Tibet	1997	Jean-Jacques Annaud	Brad Pitt, David Thewlis	7.0	2
+857	1620	Crime|Drama|Thriller	Kiss the Girls	1997	Gary Fleder	Morgan Freeman, Ashley Judd	6.6	2
+858	1621	Drama	Soul Food	1997	George Tillman Jr.	Vanessa Williams, Vivica A. Fox	6.9	2
+862	1626	Action|Drama|Thriller	Fire Down Below	1997	Flix Enrquez Alcal	Steven Seagal, Marg Helgenberger	4.9	2
+863	1633	Drama	Ulee's Gold	1997	Victor Nunez	Peter Fonda, Patricia Richardson	7.1	2
+864	1639	Drama|Romance	Chasing Amy	1997	Kevin Smith	Ethan Suplee, Ben Affleck	7.4	2
+870	1653	Drama|Sci-Fi|Thriller	Gattaca	1997	Andrew Niccol	Ethan Hawke, Uma Thurman	7.8	2
+871	1651	Drama	Telling Lies in America	1997	Guy Ferland	Kevin Bacon, Brad Renfro	6.3	2
+872	1650	Drama	Washington Square	1997	Agnieszka Holland	Jennifer Jason Leigh, Albert Finney	6.7	2
+874	1654	Children's|Drama|Fantasy	FairyTale: A True Story	1997	Charles Sturridge	Harvey Keitel, Jason Salkey	6.5	2
+875	1660	Drama	Eve's Bayou	1997	Kasi Lemmons	Jurnee Smollett-Bell, Meagan Good	7.3	2
+878	1667	Action|Drama	Mad City	1997	Costa-Gavras	John Travolta, Dustin Hoffman	6.2	2
+879	1668	Drama	One Night Stand	1997	Mike Figgis	Wesley Snipes, Nastassja Kinski	5.9	2
+883	1673	Drama	Boogie Nights	1997	Paul Thomas Anderson	Luis Guzmn, Burt Reynolds	7.9	2
+886	1680	Drama|Romance	Sliding Doors	1998	Peter Howitt	Gwyneth Paltrow, John Hannah	6.8	2
+892	1693	Drama	Amistad	1997	Steven Spielberg	Morgan Freeman, Nigel Hawthorne	7.2	2
+893	1695	Drama	Artemisia	1997	Agns Merlet	Michel Serrault, Valentina Cervi	6.8	2
+896	1704	Drama	Good Will Hunting	1997	Gus Van Sant	Matt Damon, Robin Williams	8.3	2
+899	1708	Drama	Ill Gotten Gains	1997	Joel B. Marsden	Djimon Hounsou, Akosua Busia	5.0	2
+904	1724	Drama	Full Speed	1996	Gal Morel	lodie Bouchez, Stphane Rideau	6.4	2
+905	1729	Crime|Drama	Jackie Brown	1997	Quentin Tarantino	Pam Grier, Samuel L. Jackson	7.5	2
+907	1730	Drama	Kundun	1997	Martin Scorsese	Tenzin Thuthob Tsarong, Gyurme Tethong	7.0	2
+908	1733	Drama|Romance	Afterglow	1997	Alan Rudolph	Nick Nolte, Julie Christie	6.2	2
+920	1759	Drama	Four Days in September	1997	Bruno Barreto	Alan Arkin, Fernanda Torres	7.4	2
+923	1758	Drama	Dangerous Beauty	1998	Marshall Herskovitz	Catherine McCormack, Rufus Sewell	7.3	2
+925	1773	Action|Drama	Tokyo Fist	1995	Shin'ya Tsukamoto	Kaori Fujii, Shin'ya Tsukamoto	7.1	2
+930	1796	Action|Drama	In God's Hands	1998	Zalman King	Shane Dorian, Matt George	5.5	2
+933	1799	Crime|Drama	Suicide Kings	1997	Peter O'Fallon	Mark Watson, Christopher Walken	7.0	2
+934	1805	Crime|Drama|Mystery|Thriller	Wild Things	1998	John McNaughton	Kevin Bacon, Matt Dillon	6.5	2
+937	1810	Drama	Primary Colors	1998	Mike Nichols	John Travolta, Emma Thompson	6.7	2
+943	1829	Drama|Romance	Chinese Box	1997	Wayne Wang	Jeremy Irons, Li Gong	6.3	2
+944	1833	Action|Drama|Thriller	Mercury Rising	1998	Harold Becker	Bruce Willis, Alec Baldwin	6.1	2
+945	1832	Action|Drama	Heaven's Burning	1997	Craig Lahiff	Russell Crowe, Yki Kud	5.8	2
+948	1840	Drama	He Got Game	1998	Spike Lee	Denzel Washington, Ray Allen	6.9	2
+950	1844	Drama	Live Flesh	1997	Pedro Almodvar	Javier Bardem, Francesca Neri	7.5	2
+952	1842	Crime|Drama	Illtown	1996	Nick Gomez	Michael Rapaport, Lili Taylor	5.2	2
+953	1847	Drama|Thriller	Ratchet	1996	John Johnson	Tom Gilroy, Margaret Welsh	4.6	2
+954	1851	Drama|Romance	Leather Jacket Love Story	1997	David DeCoteau	Sean Tataryn, Christopher Bradley	6.1	2
+958	1860	Drama	Character	1997	Mike van Diem	Jan Decleir, Fedja van Hut	7.8	2
+961	1859	Drama	Taste of Cherry	1997	Abbas Kiarostami	Homayoun Ershadi, Abdolrahman Bagheri	7.7	2
+967	1872	Drama	Go Now	1995	Michael Winterbottom	Robert Carlyle, Juliet Aubrey	7.3	2
+968	1876	Action|Drama|Sci-Fi|Thriller	Deep Impact	1998	Mimi Leder	Robert Duvall, Ta Leoni	6.1	2
+970	1877	Drama	Little Men	1998	Rodney Gibbons	Mariel Hemingway, Michael Caloz	6.4	2
+971	1880	Drama	Lawn Dogs	1997	John Duigan	Mischa Barton, Sam Rockwell	7.7	2
+979	1890	Drama	Little Boy Blue	1997	Antonio Tibaldi	Ryan Phillippe, Nastassja Kinski	6.5	2
+980	1893	Drama	Beyond Silence	1996	Caroline Link	Sylvie Testud, Tatjana Trieb	7.5	2
+984	1897	Drama|Romance	High Art	1998	Lisa Cholodenko	Radha Mitchell, Gabriel Mann	6.7	2
+985	1902	Drama|Romance	Dream for an Insomniac	1996	Tiffanie DeBartolo	Ione Skye, Jennifer Aniston	6.2	2
+989	1908	Drama|Thriller	Resurrection Man	1998	Marc Evans	David Williamson, Stuart Townsend	5.5	2
+993	1913	Drama|Mystery	Picnic at Hanging Rock	1975	Peter Weir	Rachel Roberts, Vivean Gray	7.6	2
+996	1915	Drama	Voyage to the Beginning of the World	1997	Manoel de Oliveira	Marcello Mastroianni, Jean-Yves Gautier	7.1	2
+1001	1929	Drama	Grand Hotel	1932	Edmund Goulding	Greta Garbo, John Barrymore	7.6	2
+1003	1935	Drama	How Green Was My Valley	1941	John Ford	Walter Pidgeon, Maureen O'Hara	7.8	2
+1006	1936	Drama|War	Mrs. Miniver	1942	William Wyler	Greer Garson, Walter Pidgeon	7.6	2
+1007	1940	Drama	Gentleman's Agreement	1947	Elia Kazan	Gregory Peck, Dorothy McGuire	7.4	2
+1008	1941	Drama	Hamlet	1948	Laurence Olivier	John Laurie, Esmond Knight	7.8	2
+1009	1945	Crime|Drama	On the Waterfront	1954	Elia Kazan	Marlon Brando, Karl Malden	8.3	2
+1010	1944	Drama|Romance|War	From Here to Eternity	1953	Fred Zinnemann	Burt Lancaster, Montgomery Clift	7.8	2
+1011	1946	Drama|Romance	Marty	1955	Delbert Mann	Esther Minciotti, Augusta Ciolli	7.7	2
+1014	1950	Drama|Mystery	In the Heat of the Night	1967	Norman Jewison	Sidney Poitier, Rod Steiger	8.0	2
+1015	1952	Drama	Midnight Cowboy	1969	John Schlesinger	Dustin Hoffman, Jon Voight	7.9	2
+1016	1954	Action|Drama	Rocky	1976	John G. Avildsen	Sylvester Stallone, Talia Shire	8.1	2
+1017	1956	Drama	Ordinary People	1980	Robert Redford	Donald Sutherland, Mary Tyler Moore	7.8	2
+1018	1957	Drama	Chariots of Fire	1981	Hugh Hudson	Nicholas Farrell, Nigel Havers	7.3	2
+1020	1959	Drama|Romance	Out of Africa	1985	Sydney Pollack	Meryl Streep, Robert Redford	7.2	2
+1021	1961	Drama	Rain Man	1988	Barry Levinson	Dustin Hoffman, Tom Cruise	8.0	2
+1022	1962	Drama	Driving Miss Daisy	1989	Bruce Beresford	Morgan Freeman, Jessica Tandy	7.4	2
+1025	1964	Drama|Mystery	Klute	1971	Alan J. Pakula	Jane Fonda, Donald Sutherland	7.2	2
+1041	2020	Drama|Romance	Dangerous Liaisons	1988	Stephen Frears	Glenn Close, John Malkovich	7.7	2
+1043	2025	Drama|Romance	Lolita	1997	Adrian Lyne	Jeremy Irons, Melanie Griffith	6.9	2
+1044	2028	Action|Drama|War	Saving Private Ryan	1998	Steven Spielberg	Tom Hanks, Tom Sizemore	8.6	2
+1060	2067	Drama|Romance|War	Doctor Zhivago	1965	David Lean	Omar Sharif, Julie Christie	8.0	2
+1061	2070	Drama	Tender Mercies	1983	Bruce Beresford	Robert Duvall, Tess Harper	7.5	2
+1063	2071	Drama	And the Band Played On	1993	Roger Spottiswoode	Matthew Modine, Alan Alda	7.8	2
+1064	2068	Drama	Fanny and Alexander	1982	Ingmar Bergman	Kristina Adolphson, Brje Ahlstedt	8.1	2
+1065	2075	Drama|War	Mephisto	1981	Istvn Szab	Klaus Maria Brandauer, Krystyna Janda	7.9	2
+1066	2076	Drama|Mystery	Blue Velvet	1986	David Lynch	Isabella Rossellini, Kyle MacLachlan	7.8	2
+1067	2079	Children's|Drama	Kidnapped	1960	Robert Stevenson	Peter Finch, James MacArthur	6.8	2
+1069	2086	Drama|Fantasy	One Magic Christmas	1985	Phillip Borsos	Mary Steenburgen, Gary Basaraba	6.7	2
+1070	2101	Adventure|Drama	Squanto: A Warrior's Tale	1994	Xavier Koller	Adam Beach, Sheldon Peters Wolfchild	6.1	2
+1075	2106	Drama|War	Swing Kids	1993	Thomas Carter	Robert Sean Leonard, Christian Bale	6.8	2
+1077	2104	Drama	Tex	1982	Tim Hunter	Matt Dillon, Jim Metzler	6.6	2
+1079	2112	Crime|Drama	Grand Canyon	1991	Lawrence Kasdan	Danny Glover, Kevin Kline	6.9	2
+1082	2117	Drama|Sci-Fi	Nineteen Eighty-Four	1984	Michael Radford	John Hurt, Richard Burton	7.2	2
+1085	2120	Drama|Horror	Needful Things	1993	Fraser Clarke Heston	Max von Sydow, Ed Harris	6.2	2
+1086	2125	Drama|Romance	Ever After: A Cinderella Story	1998	Andy Tennant	Drew Barrymore, Anjelica Huston	7.0	2
+1088	2130	Crime|Drama|Romance	Atlantic City	1980	Louis Malle	Burt Lancaster, Susan Sarandon	7.5	2
+1089	2132	Drama	Who's Afraid of Virginia Woolf?	1966	Mike Nichols	Elizabeth Taylor, Richard Burton	8.1	2
+1092	2138	Animation|Children's|Drama|Fantasy	Watership Down	1978	Martin Rosen	John Hurt, Richard Briers	7.7	2
+1093	2146	Drama|Romance	St. Elmo's Fire	1985	Joel Schumacher	Emilio Estevez, Rob Lowe	6.3	2
+1101	2154	Drama|Romance	How Stella Got Her Groove Back	1998	Kevin Rodney Sullivan	Angela Bassett, Taye Diggs	5.5	2
+1104	2164	Drama	Surf Nazis Must Die	1987	Peter George	Gail Neely, Robert Harden	3.4	2
+1105	2168	Drama|Romance	Dance with Me	1998	Randa Haines	Vanessa Williams, Chayanne	5.8	2
+1114	2166	Drama|Romance	Return to Paradise	1998	Joseph Ruben	Vince Vaughn, Anne Heche	6.9	2
+1118	2197	Drama	Firelight	1997	William Nicholson	Sophie Marceau, Stephen Dillane	7.3	2
+1120	2202	Drama|Thriller|War	Lifeboat	1944	Alfred Hitchcock	Tallulah Bankhead, William Bendix	7.8	2
+1121	2200	Drama	Under Capricorn	1949	Alfred Hitchcock	Ingrid Bergman, Joseph Cotten	6.2	2
+1124	2192	Drama	See the Sea	1997	Franois Ozon	Sasha Hails, Marina de Van	6.9	2
+1131	2231	Crime|Drama	Rounders	1998	John Dahl	Matt Damon, Gretchen Mol	7.4	2
+1132	2235	Drama|War	One Man's Hero	1999	Lance Hool	Tom Berenger, Joaquim de Almeida	6.2	2
+1134	2207	Drama	Jamaica Inn	1939	Alfred Hitchcock	Charles Laughton, Horace Hodges	6.3	2
+1135	2234	Drama	Let's Talk About Sex	1998	Troy Byer	Troy Byer, Paget Brewster	3.6	2
+1136	2236	Drama	Simon Birch	1998	Mark Steven Johnson	Joseph Mazzello, Ashley Judd	6.9	2
+1137	2240	Drama	My Bodyguard	1980	Tony Bill	Chris Makepeace, Adam Baldwin	7.1	2
+1139	2237	Drama	Without Limits	1998	Robert Towne	Billy Crudup, Donald Sutherland	7.2	2
+1148	2254	Drama	Choices	1981	Silvio Narizzano	Paul Carafotes, Victor French	4.7	2
+1149	2250	Drama	Men Don't Leave	1990	Paul Brickman	Jessica Lange, Arliss Howard	6.7	2
+1151	2264	Drama	We're No Angels	1989	Neil Jordan	Robert De Niro, Sean Penn	6.0	2
+1157	2272	Drama	One True Thing	1998	Carl Franklin	Meryl Streep, Rene Zellweger	7.0	2
+1165	2284	Drama	Bandit Queen	1994	Shekhar Kapur	Seema Biswas, Nirmal Pandey	7.6	2
+1166	2269	Drama	Indecent Proposal	1993	Adrian Lyne	Robert Redford, Demi Moore	5.8	2
+1167	2271	Drama	Permanent Midnight	1998	David Veloz	Ben Stiller, Maria Bello	6.3	2
+1168	2291	Drama|Romance	Edward Scissorhands	1990	Tim Burton	Johnny Depp, Winona Ryder	7.9	2
+1171	2293	Drama	Shadrach	1998	Susanna Styron	Martin Sheen, John Franklin Sawyer	6.4	2
+1172	2297	Drama|Romance	What Dreams May Come	1998	Vincent Ward	Robin Williams, Cuba Gooding Jr.	7.0	2
+1176	2303	Drama|Musical	Nashville	1975	Robert Altman	David Arkin, Barbara Baxley	7.8	2
+1177	2305	Drama	Slam	1998	Marc Levin	Saul Williams, Sonja Sohn	7.2	2
+1179	2307	Action|Drama	One Tough Cop	1998	Bruno Barreto	Stephen Baldwin, Chris Penn	5.2	2
+1180	2312	Drama	Children of a Lesser God	1986	Randa Haines	William Hurt, Marlee Matlin	7.2	2
+1181	2314	Drama	Beloved	1998	Jonathan Demme	Yada Beener, Emil Pinnock	5.9	2
+1183	2316	Drama|Romance	Practical Magic	1998	Griffin Dunne	Sandra Bullock, Nicole Kidman	6.1	2
+1184	2320	Drama|Thriller	Apt Pupil	1998	Bryan Singer	Brad Renfro, Ian McKellen	6.7	2
+1188	2329	Drama	American History X	1998	Tony Kaye	Edward Norton, Edward Furlong	8.6	2
+1190	2326	Drama|Thriller	Shattered Image	1998	Raoul Ruiz	William Baldwin, Anne Parillaud	4.9	2
+1193	2332	Crime|Drama	Belly	1998	Hype Williams	DMX, Nas	5.9	2
+1194	2333	Drama	Gods and Monsters	1998	Bill Condon	Ian McKellen, Brendan Fraser	7.5	2
+1195	2337	Drama	Velvet Goldmine	1998	Todd Haynes	Ewan McGregor, Jonathan Rhys Meyers	7.0	2
+1197	2341	Drama	Dancing at Lughnasa	1998	Pat O'Connor	Gerard McSorley, Meryl Streep	6.3	2
+1200	2345	Drama	Desert Bloom	1986	Eugene Corr	Annabeth Gish, Jon Voight	6.6	2
+1201	2344	Action|Adventure|Drama|Thriller	Runaway Train	1985	Andrey Konchalovskiy	Jon Voight, Eric Roberts	7.3	2
+1202	2348	Drama	Sid and Nancy	1986	Alex Cox	Gary Oldman, Chloe Webb	7.1	2
+1204	2351	Drama	Nights of Cabiria	1957	Federico Fellini	Giulietta Masina, Franois Prier	8.3	2
+1208	2357	Drama	Central Station	1998	Walter Salles	Fernanda Montenegro, Marlia Pra	8.0	2
+1210	2358	Drama	Savior	1998	Predrag Antonijevic	Nastassja Kinski, Pascal Rollin	7.3	2
+1212	2362	Drama	Glen or Glenda	1953	Edward D. Wood Jr.	Bela Lugosi, Lyle Talbot	4.1	2
+1226	2388	Drama|Romance	Steam: The Turkish Bath	1997	Ferzan Ozpetek	Alessandro Gassman, Francesca d'Aloja	7.0	2
+1231	2397	Drama	Mass Appeal	1984	Glenn Jordan	Jack Lemmon, Zeljko Ivanek	6.6	2
+1234	2400	Children's|Drama	Prancer	1989	John D. Hancock	Sam Elliott, Cloris Leachman	6.3	2
+1241	2409	Action|Drama	Rocky II	1979	Sylvester Stallone	Sylvester Stallone, Talia Shire	7.2	2
+1242	2411	Action|Drama	Rocky IV	1985	Sylvester Stallone	Sylvester Stallone, Talia Shire	6.7	2
+1243	2410	Action|Drama	Rocky III	1982	Sylvester Stallone	Sylvester Stallone, Talia Shire	6.7	2
+1246	2412	Action|Drama	Rocky V	1990	John G. Avildsen	Sylvester Stallone, Talia Shire	5.1	2
+1249	2415	Drama|Romance	Violets Are Blue...	1986	Jack Fisk	Sissy Spacek, Kevin Kline	5.7	2
+1251	2419	Drama|Thriller	Extremities	1986	Robert M. Young	Farrah Fawcett, James Russo	6.3	2
+1253	2432	Drama	Stepmom	1998	Chris Columbus	Julia Roberts, Susan Sarandon	6.7	2
+1255	2429	Adventure|Children's|Drama	Mighty Joe Young	1998	Ron Underwood	Charlize Theron, Bill Paxton	5.6	2
+1256	2435	Drama	Hurlyburly	1998	Anthony Drazan	Sean Penn, Kevin Spacey	5.8	2
+1257	2434	Drama	Down in the Delta	1998	Maya Angelou	Alfre Woodard, Al Freeman Jr.	6.8	2
+1259	2438	Drama|Thriller	Outside Ozona	1998	J.S. Cardone	Robert Forster, Kevin Pollak	6.4	2
+1260	2439	Drama	Affliction	1997	Paul Schrader	Nick Nolte, Brigid Tierney	7.0	2
+1261	2443	Drama|Romance	Playing by Heart	1998	Willard Carroll	Angelina Jolie, Sean Connery	7.2	2
+1262	2440	Drama	Another Day in Paradise	1998	Larry Clark	James Woods, Melanie Griffith	6.5	2
+1263	2445	Drama	At First Sight	1999	Irwin Winkler	Val Kilmer, Mira Sorvino	5.9	2
+1264	2442	Drama	Hilary and Jackie	1998	Anand Tucker	Emily Watson, Rachel Griffiths	7.4	2
+1275	2466	Drama	Belizaire the Cajun	1986	Glen Pitre	Armand Assante, Gail Youngs	6.5	2
+1283	2479	Drama|Thriller	Gloria	1999	Sidney Lumet	Sharon Stone, Jean-Luke Figueroa	5.1	2
+1284	2480	Drama	Dry Cleaning	1997	Anne Fontaine	Miou-Miou, Charles Berling	6.9	2
+1286	2481	Drama|Romance	My Name Is Joe	1998	Ken Loach	Peter Mullan, Louise Goodall	7.5	2
+1287	2488	Drama|Horror|Thriller	Peeping Tom	1960	Michael Powell	Karlheinz Bhm, Moira Shearer	7.8	2
+1291	2489	Drama	Spanish Fly	1998	Daphna Kastner	Daphna Kastner, Toni Cant	4.7	2
+1294	2501	Drama	October Sky	1999	Joe Johnston	Jake Gyllenhaal, Chris Cooper	7.8	2
+1303	2523	Drama|Thriller	Rollercoaster	1977	James Goldstone	George Segal, Richard Widmark	6.2	2
+1315	2541	Drama	Cruel Intentions	1999	Roger Kumble	Sarah Michelle Gellar, Ryan Phillippe	6.9	2
+1318	2551	Drama|Thriller	Dead Ringers	1988	David Cronenberg	Jeremy Irons, Genevive Bujold	7.3	2
+1323	2557	Drama	I Stand Alone	1998	Gaspar No	Philippe Nahon, Blandine Lenoir	7.5	2
+1326	3155	Drama|Romance	Anna and the King	1999	Andy Tennant	Jodie Foster, Yun-Fat Chow	6.7	2
+1327	2560	Drama|Horror	Ravenous	1999	Antonia Bird	Guy Pearce, Robert Carlyle	7.1	2
+1328	2562	Drama	Bandits	1997	Katja von Garnier	Katja Riemann, Jasmin Tabatabai	6.4	2
+1329	2569	Drama|Romance	Among Giants	1998	Sam Miller	Pete Postlethwaite, Rachel Griffiths	5.9	2
+1330	2573	Drama	Tango	1998	Carlos Saura	Miguel ngel Sol, Cecilia Narova	7.2	2
+1332	2579	Drama	Following	1998	Christopher Nolan	Jeremy Theobald, Alex Haw	7.6	2
+1336	2594	Drama|Romance|Sci-Fi	Open Your Eyes	1997	Alejandro Amenbar	Eduardo Noriega, Penlope Cruz	7.8	2
+1337	2590	Drama	Hideous Kinky	1998	Gillies MacKinnon	Kate Winslet, Sad Taghmaoui	6.1	2
+1342	2607	Drama	Get Real	1998	Simon Shore	Ben Silverstone, Brad Gorton	7.7	2
+1344	2610	Drama	Three Seasons	1999	Tony Bui	Ngoc Hiep Nguyen, Ngoc Minh	7.3	2
+1348	2621	Drama|Romance	Xiu Xiu: The Sent-Down Girl	1998	Joan Chen	Xiaolu Li, Lopsang	7.5	2
+1349	2620	Drama|Romance	This Is My Father	1998	Paul Quinn	James Caan, Jacob Tierney	7.1	2
+1351	2624	Drama	After Life	1998	Hirokazu Koreeda	Arata Iura, Erika Oda	7.8	2
+1356	2639	Drama	Mommie Dearest	1981	Frank Perry	Faye Dunaway, Diana Scarwid	6.7	2
+1370	2676	Drama|Thriller	Instinct	1999	Jon Turteltaub	Anthony Hopkins, Cuba Gooding Jr.	6.5	2
+1371	2680	Drama	Floating	1997	William Roth	Norman Reedus, Chad Lowe	6.7	2
+1374	2682	Drama	Limbo	1999	John Sayles	Mary Elizabeth Mastrantonio, David Strathairn	7.1	2
+1382	2702	Drama	Summer of Sam	1999	Spike Lee	John Leguizamo, Adrien Brody	6.6	2
+1386	2711	Drama	My Life So Far	1999	Hugh Hudson	Colin Firth, Rosemary Harris	6.5	2
+1387	2703	Drama	Broken Vessels	1998	Scott Ziehl	Todd Field, Jason London	6.6	2
+1388	2712	Drama	Eyes Wide Shut	1999	Stanley Kubrick	Tom Cruise, Nicole Kidman	7.3	2
+1395	2725	Drama	Twin Falls Idaho	1999	Michael Polish	Mark Polish, Michael Polish	7.3	2
+1399	2729	Drama	Lolita	1962	Stanley Kubrick	James Mason, Shelley Winters	7.7	2
+1400	2730	Drama	Barry Lyndon	1975	Stanley Kubrick	Ryan O'Neal, Marisa Berenson	8.1	2
+1401	2728	Drama	Spartacus	1960	Stanley Kubrick	Kirk Douglas, Laurence Olivier	7.9	2
+1406	2743	Drama	Native Son	1986	Jerrold Freedman	Victor Love, Matt Dillon	5.9	2
+1408	2744	Drama	Otello	1986	Franco Zeffirelli	Plcido Domingo, Katia Ricciarelli	7.2	2
+1411	2755	Drama	Light of Day	1987	Paul Schrader	Michael J. Fox, Gena Rowlands	5.4	2
+1412	2757	Drama	Frances	1982	Graeme Clifford	Jessica Lange, Kim Stanley	7.4	2
+1413	2758	Drama	Plenty	1985	Fred Schepisi	Meryl Streep, Charles Dance	6.2	2
+1415	2771	Drama	Brokedown Palace	1999	Jonathan Kaplan	Claire Danes, Kate Beckinsale	6.4	2
+1419	2773	Drama	Alice and Martin	1998	Andr Tchin	Juliette Binoche, Alexis Loret	6.4	2
+1422	2775	Drama	Head On	1998	Ana Kokkinos	Alex Dimitriades, Julian Garner	6.6	2
+1431	2801	Drama|Romance	Oscar and Lucinda	1997	Gillian Armstrong	Ralph Fiennes, Cate Blanchett	6.7	2
+1447	2820	Drama	Hamlet	1964	Grigori Kozintsev	Innokentiy Smoktunovskiy, Mikhail Nazvanov	8.4	2
+1449	2821	Adventure|Drama	Male and Female	1919	Cecil B. DeMille	Thomas Meighan, Theodore Roberts	8.0	2
+1452	2830	Drama	Cabaret Balkan	1998	Goran Paskaljevic	Mira Banjac, Ivan Bekjarev	7.9	2
+1458	2839	Drama	West Beirut	1998	Ziad Doueiri	Rami Doueiri, Naamar Sahli	7.8	2
+1460	2842	Crime|Drama	Best Laid Plans	1999	Mike Barker	Alessandro Nivola, Reese Witherspoon	6.2	2
+1461	2847	Drama	Only Angels Have Wings	1939	Howard Hawks	Cary Grant, Jean Arthur	7.7	2
+1462	2848	Drama	Othello	1952	Orson Welles	Michel MacLiammir, Robert Coote	7.8	2
+1464	2850	Drama|Thriller	Public Access	1993	Bryan Singer	Ron Marquette, Bert Williams	5.3	2
+1476	2872	Action|Drama|Fantasy|Romance	Excalibur	1981	John Boorman	Nigel Terry, Helen Mirren	7.4	2
+1477	2873	Drama|Mystery|Romance	Lulu on the Bridge	1998	Paul Auster	Harvey Keitel, Richard Edson	6.3	2
+1478	2875	Drama|Mystery|Romance	Sommersby	1993	Jon Amiel	Richard Gere, Jodie Foster	6.1	2
+1480	2877	Drama|Musical	Tommy	1975	Ken Russell	Oliver Reed, Ann-Margret	6.6	2
+1483	2882	Drama	Jakob the Liar	1999	Peter Kassovitz	Robin Williams, Hannah Taylor Gordon	6.5	2
+1486	2887	Drama	Simon Sez	1999	Kevin Alyn Elders	Dennis Rodman, Dane Cook	2.5	2
+1487	2885	Drama|Romance	Guinevere	1999	Audrey Wells	Sarah Polley, Stephen Rea	6.0	2
+1488	2890	Drama|War	Three Kings	1999	David O. Russell	George Clooney, Mark Wahlberg	7.2	2
+1489	2892	Action|Drama	New Rose Hotel	1998	Abel Ferrara	Christopher Walken, Willem Dafoe	4.8	2
+1496	2906	Drama|Romance	Random Hearts	1999	Sydney Pollack	Harrison Ford, Kristin Scott Thomas	5.1	2
+1497	2908	Drama	Boys Don't Cry	1999	Kimberly Peirce	Hilary Swank, Chlo Sevigny	7.6	2
+1503	2920	Drama|Romance	Children of Paradise	1945	Marcel Carn	Arletty, Jean-Louis Barrault	8.4	2
+1505	2932	Drama	Days of Heaven	1978	Terrence Malick	Richard Gere, Brooke Adams	8.0	2
+1507	2938	Drama	Man Facing Southeast	1986	Eliseo Subiela	Lorenzo Quinteros, Hugo Soto	7.9	2
+1508	2939	Drama|Thriller	Niagara	1953	Henry Hathaway	Marilyn Monroe, Joseph Cotten	7.1	2
+1511	2942	Drama|Romance	Flashdance	1983	Adrian Lyne	Jennifer Beals, Michael Nouri	6.1	2
+1518	2955	Drama	Penitentiary II	1982	Jamaa Fanaka	Leon Isaac Kennedy, Glynn Turman	3.4	2
+1519	2954	Drama	Penitentiary	1979	Jamaa Fanaka	Wilbur 'Hi-Fi' White, Leon Isaac Kennedy	5.8	2
+1520	2957	Drama	Sparrows	1926	William Beaudine,Tom McNamara	Mary Pickford, Roy Stewart	7.6	2
+1521	2958	Drama	Naturally Native	1998	Jennifer Wynne Farmer,Valerie Red-Horse	Valerie Red-Horse, Yvonne Russo	6.5	2
+1523	2963	Crime|Drama	Joe the King	1999	Frank Whaley	Noah Fleiss, Karen Young	6.7	2
+1524	2964	Drama	Julien Donkey-Boy	1999	Harmony Korine	Ewen Bremner, Brian Fisk	6.6	2
+1526	2970	Adventure|Drama	Fitzcarraldo	1982	Werner Herzog	Klaus Kinski, Claudia Cardinale	8.2	2
+1527	2972	Drama|War	Red Sorghum	1987	Yimou Zhang	Li Gong, Wen Jiang	7.5	2
+1530	2976	Drama|Horror	Bringing Out the Dead	1999	Martin Scorsese	Nicolas Cage, Patricia Arquette	6.8	2
+1532	2979	Drama	Body Shots	1999	Michael Cristofer	Joe Basile, Scott Burkholder	5.0	2
+1535	2988	Drama	Melvin and Howard	1980	Jonathan Demme	Jason Robards, Paul Le Mat	6.9	2
+1542	2996	Drama	Music of the Heart	1999	Wes Craven	Meryl Streep, Cloris Leachman	6.7	2
+1548	3010	Drama	Rosetta	1999	Jean-Pierre Dardenne,Luc Dardenne	milie Dequenne, Fabrizio Rongione	7.6	2
+1552	3019	Crime|Drama	Drugstore Cowboy	1989	Gus Van Sant	Matt Dillon, Kelly Lynch	7.4	2
+1554	3020	Action|Drama	Falling Down	1993	Joel Schumacher	Michael Douglas, Robert Duvall	7.6	2
+1557	3029	Action|Drama	Nighthawks	1981	Bruce Malmuth,Gary Nelson	Sylvester Stallone, Billy Dee Williams	6.4	2
+1570	3047	Drama	Experience Preferred... But Not Essential	1982	Peter Duffell	Elizabeth Edmonds, Sue Wallace	7.2	2
+1573	3050	Drama	Light It Up	1999	Craig Bolotin	Usher Raymond, Forest Whitaker	6.0	2
+1575	3051	Drama	Anywhere But Here	1999	Wayne Wang	Susan Sarandon, Natalie Portman	6.1	2
+1577	3059	Drama	British Intelligence	1940	Terry O. Morse	Boris Karloff, Margaret Lindsay	6.0	2
+1586	3079	Drama	Mansfield Park	1999	Patricia Rozema	Hannah Taylor Gordon, Talya Gordon	7.1	2
+1588	3078	Drama	Liberty Heights	1999	Barry Levinson	Adrien Brody, Ben Foster	7.1	2
+1592	3091	Drama|War	Kagemusha	1980	Akira Kurosawa	Tatsuya Nakadai, Tsutomu Yamazaki	8.0	2
+1593	3090	Drama	Matewan	1987	John Sayles	Chris Cooper, Mary McDonnell	7.9	2
+1598	3107	Action|Drama	Backdraft	1991	Ron Howard	Kurt Russell, William Baldwin	6.7	2
+1599	3106	Drama|Romance	Come See the Paradise	1990	Alan Parker	Dennis Quaid, Tamlyn Tomita	6.7	2
+1600	3111	Drama	Places in the Heart	1984	Robert Benton	Sally Field, Lindsay Crouse	7.3	2
+1602	3115	Drama	Flawless	1999	Joel Schumacher	Robert De Niro, Philip Seymour Hoffman	6.4	2
+1603	3117	Drama|Romance|War	Ride with the Devil	1999	Ang Lee	Tobey Maguire, Jeremy W. Auman	6.8	2
+1604	3118	Drama	Tumbleweeds	1999	Gavin O'Connor	Janet McTeer, Kimberly J. Brown	6.7	2
+1605	3116	Drama	Miss Julie	1999	Mike Figgis	Saffron Burrows, Peter Mullan	6.4	2
+1606	3122	Drama|Romance|Western	Santa Fe Trail	1940	Michael Curtiz	Errol Flynn, Olivia de Havilland	6.3	2
+1608	3127	Drama	Holy Smoke	1999	Jane Campion	Kate Winslet, Harvey Keitel	5.9	2
+1612	3138	Drama	Stealing Home	1988	Steven Kampmann,William Porter	Mark Harmon, Blair Brown	6.8	2
+1614	3143	Drama|War	Hell in the Pacific	1968	John Boorman	Lee Marvin, Toshir Mifune	7.4	2
+1618	3154	Drama|War	Blood on the Sun	1945	Frank Lloyd	James Cagney, Sylvia Sidney	6.2	2
+1620	3160	Drama	Magnolia	1999	Paul Thomas Anderson	Pat Healy, Genevieve Zweig	8.0	2
+1621	3161	Drama	Onegin	1999	Martha Fiennes	Ralph Fiennes, Liv Tyler	6.9	2
+1623	3163	Drama	Topsy-Turvy	1999	Mike Leigh	Allan Corduner, Dexter Fletcher	7.4	2
+1624	3165	Action|Drama	Boiling Point	1993	James B. Harris	Wesley Snipes, Dennis Hopper	4.9	2
+1626	3168	Adventure|Drama	Easy Rider	1969	Dennis Hopper	Peter Fonda, Dennis Hopper	7.4	2
+1628	3167	Drama	Carnal Knowledge	1971	Mike Nichols	Jack Nicholson, Ann-Margret	7.0	2
+1629	3173	Drama	Any Given Sunday	1999	Oliver Stone	Al Pacino, Cameron Diaz	6.8	2
+1633	3179	Drama	Angela's Ashes	1999	Alan Parker	Emily Watson, Robert Carlyle	7.3	2
+1634	3181	Drama	Titus	1999	Julie Taymor	Osheen Jones, Dario D'Ambrosi	7.3	2
+1635	3185	Drama	Snow Falling on Cedars	1999	Scott Hicks	Ethan Hawke, Yki Kud	6.8	2
+1636	3187	Drama	Trans	1998	Julian Goldberger	Lynn Boyd, Jon Daugherty	5.9	2
+1638	3195	Drama	Tess of the Storm Country	1922	John S. Robertson	Mary Pickford, Lloyd Hughes	7.4	2
+1640	3198	Drama	Papillon	1973	Franklin J. Schaffner	Steve McQueen, Dustin Hoffman	8.0	2
+1642	3201	Drama	Five Easy Pieces	1970	Bob Rafelson	Jack Nicholson, Karen Black	7.5	2
+1647	3212	Drama	Born to Win	1971	Ivan Passer	George Segal, Paula Prentiss	5.7	2
+1648	3214	Drama	American Flyers	1985	John Badham	Kevin Costner, David Marshall Grant	6.3	2
+1649	3215	Drama	Voyage of the Damned	1976	Stuart Rosenberg	Faye Dunaway, Oskar Werner	6.5	2
+1650	3218	Drama	Poison	1991	Todd Haynes	Edith Meeks, Millie White	6.6	2
+1652	3220	Drama	Night Tide	1961	Curtis Harrington	Dennis Hopper, Linda Lawson	6.4	2
+1653	3224	Drama	Woman in the Dunes	1964	Hiroshi Teshigahara	Eiji Okada, Kyko Kishida	8.5	2
+1663	3246	Drama	Malcolm X	1992	Spike Lee	Denzel Washington, Angela Bassett	7.7	2
+1664	3245	Drama	I Am Cuba	1964	Mikhail Kalatozov	Sergio Corrieri, Salvador Wood	7.9	2
+1665	3251	Drama|Mystery	Agnes of God	1985	Norman Jewison	Jane Fonda, Anne Bancroft	6.6	2
+1667	3252	Drama	Scent of a Woman	1992	Martin Brest	Al Pacino, Chris O'Donnell	8.0	2
+1670	3260	Drama	Howards End	1992	James Ivory	Vanessa Redgrave, Helena Bonham Carter	7.5	2
+1671	3262	Drama|Mystery	Twin Peaks: Fire Walk with Me	1992	David Lynch	Sheryl Lee, Ray Wise	7.2	2
+1672	3259	Drama|Romance	Far and Away	1992	Ron Howard	Tom Cruise, Nicole Kidman	6.5	2
+1675	3271	Drama	Of Mice and Men	1992	Gary Sinise	John Malkovich, Gary Sinise	7.5	2
+1677	3272	Crime|Drama	Bad Lieutenant	1992	Abel Ferrara	Harvey Keitel, Victor Argo	7.1	2
+1683	3288	Drama	Cotton Mary	1999	Ismail Merchant,Madhur Jaffrey	Greta Scacchi, Madhur Jaffrey	5.4	2
+1684	3289	Drama	Not One Less	1999	Yimou Zhang	Minzhi Wei, Huike Zhang	7.8	2
+1687	3293	Drama|Sci-Fi	Conceiving Ada	1997	Lynn Hershman-Leeson	Tilda Swinton, Francesca Faridany	4.7	2
+1688	3298	Drama	Boiler Room	2000	Ben Younger	Giovanni Ribisi, Vin Diesel	7.0	2
+1689	3295	Drama	Raining Stones	1993	Ken Loach	Bruce Jones, Julie Brown	7.5	2
+1693	3304	Crime|Drama	Blue Collar	1978	Paul Schrader	Richard Pryor, Harvey Keitel	7.6	2
+1698	3319	Drama	Judy Berlin	1999	Eric Mendelsohn	Barbara Barrie, Bob Dishy	6.8	2
+1704	3328	Crime|Drama	Ghost Dog: The Way of the Samurai	1999	Jim Jarmusch	Forest Whitaker, John Tormey	7.5	2
+1705	3331	Drama	My Tutor	1983	George Bowers	Caren Kaye, Matt Lattanzi	5.1	2
+1706	3330	Drama	Splendor in the Grass	1961	Elia Kazan	Natalie Wood, Pat Hingle	7.8	2
+1707	3335	Crime|Drama	Jail Bait	1954	Edward D. Wood Jr.	Lyle Talbot, Dolores Fuller	3.2	2
+1708	3334	Crime|Drama|Film-Noir|Thriller	Key Largo	1948	John Huston	Humphrey Bogart, Edward G. Robinson	7.9	2
+1709	3342	Drama|War	Birdy	1984	Alan Parker	Matthew Modine, Nicolas Cage	7.3	2
+1715	3347	Drama	Never Cry Wolf	1983	Carroll Ballard	Charles Martin Smith, Brian Dennehy	7.6	2
+1718	3352	Drama	Brown's Requiem	1998	Jason Freeland	Michael Rooker, Big Daddy Wayne	5.9	2
+1721	3359	Drama	Breaking Away	1979	Peter Yates	Dennis Christopher, Dennis Quaid	7.7	2
+1723	3360	Drama	Hoosiers	1986	David Anspaugh	Gene Hackman, Barbara Hershey	7.6	2
+1726	3370	Drama|Thriller	Betrayed	1988	Costa-Gavras	Debra Winger, Tom Berenger	6.3	2
+1727	3371	Drama	Bound for Glory	1976	Hal Ashby	David Carradine, Ronny Cox	7.4	2
+1731	3379	Drama	On the Beach	1959	Stanley Kramer	Gregory Peck, Ava Gardner	7.3	2
+1733	3382	Drama	Song of Freedom	1936	J. Elder Wills	Paul Robeson, Elisabeth Welch	6.5	2
+1735	3383	Drama|Musical	Big Fella	1937	J. Elder Wills	Paul Robeson, Elisabeth Welch	6.2	2
+1745	3402	Drama	Turtle Diary	1985	John Irvin	Glenda Jackson, Ben Kingsley	7.0	2
+1746	3403	Drama|Thriller	Raise the Titanic	1980	Jerry Jameson	Jason Robards, Richard Jordan	4.7	2
+1747	3408	Drama	Erin Brockovich	2000	Steven Soderbergh	Julia Roberts, David Brisbin	7.3	2
+1748	3411	Drama	Babymother	1998	Julian Henriques	Anjela Lauren Smith, Wil Johnson	5.4	2
+1750	3413	Crime|Drama	Impact	1949	Arthur Lubin	Brian Donlevy, Ella Raines	7.0	2
+1752	3423	Drama	School Daze	1988	Spike Lee	Laurence Fishburne, Giancarlo Esposito	5.8	2
+1757	3425	Drama	Mo' Better Blues	1990	Spike Lee	Denzel Washington, Spike Lee	6.5	2
+1759	3426	Drama|Romance	Jungle Fever	1991	Spike Lee	Wesley Snipes, Annabella Sciorra	6.5	2
+1760	3430	Action|Drama	Death Wish	1974	Michael Winner	Charles Bronson, Hope Lange	7.0	2
+1761	3431	Action|Drama	Death Wish II	1982	Michael Winner	Charles Bronson, Jill Ireland	6.0	2
+1762	3434	Action|Drama	Death Wish V: The Face of Death	1994	Allan A. Goldstein	Charles Bronson, Lesley-Anne Down	4.7	2
+1764	3437	Drama	Cool as Ice	1991	David Kellogg	Naomi Campbell, Vanilla Ice	2.8	2
+1765	3436	Drama|Romance	Dying Young	1991	Joel Schumacher	Julia Roberts, Campbell Scott	5.9	2
+1770	3443	Action|Drama|Thriller	Born American	1986	Renny Harlin	Mike Norris, Steve Durham	4.4	2
+1775	3453	Drama|Romance	Here on Earth	2000	Mark Piznarski	Chris Klein, Leelee Sobieski	5.1	2
+1778	3455	Drama|Thriller	Buddy Boy	1999	Mark Hanlon	Aidan Gillen, Emmanuelle Seigner	6.4	2
+1780	3459	Drama|Horror	Gothic	1986	Ken Russell	Gabriel Byrne, Julian Sands	5.7	2
+1784	3465	Drama	That's Life!	1986	Blake Edwards	Jack Lemmon, Julie Andrews	6.1	2
+1785	3467	Drama|Western	Hud	1963	Martin Ritt	Paul Newman, Melvyn Douglas	7.9	2
+1786	3469	Drama	Inherit the Wind	1960	Stanley Kramer	Spencer Tracy, Fredric March	8.2	2
+1787	3471	Drama|Sci-Fi	Close Encounters of the Third Kind	1977	Steven Spielberg	Richard Dreyfuss, Franois Truffaut	7.7	2
+1793	3480	Drama	Lucas	1986	David Seltzer	Corey Haim, Kerri Green	6.8	2
+1795	3482	Drama	Price of Glory	2000	Carlos vila	Jimmy Smits, Maria del Mar	6.5	2
+1803	3496	Drama	Madame Sousatzka	1988	John Schlesinger	Shirley MacLaine, Peggy Ashcroft	6.6	2
+1805	3498	Drama	Midnight Express	1978	Alan Parker	Brad Davis, Irene Miracle	7.7	2
+1806	3503	Drama|Sci-Fi	Solaris	1972	Andrei Tarkovsky	Natalya Bondarchuk, Donatas Banionis	8.1	2
+1811	3512	Drama|Romance	Return to Me	2000	Bonnie Hunt	David Duchovny, Minnie Driver	6.9	2
+1812	3514	Drama	Joe Gould's Secret	2000	Stanley Tucci	Ian Holm, Stanley Tucci	6.6	2
+1828	3542	Drama	Coming Apart	1969	Milton Moses Ginsberg	Rip Torn, Sally Kirkland	7.0	2
+1830	3546	Drama|Thriller	What Ever Happened to Baby Jane?	1962	Robert Aldrich	Bette Davis, Joan Crawford	8.1	2
+1831	3547	Drama	Prick Up Your Ears	1987	Stephen Frears	Gary Oldman, Alfred Molina	7.4	2
+1835	3553	Drama|Thriller	Gossip	2000	Davis Guggenheim	James Marsden, Lena Headey	5.9	2
+1837	3559	Drama	Limelight	1952	Charles Chaplin	Charles Chaplin, Claire Bloom	8.1	2
+1840	3580	Drama	Up at the Villa	2000	Philip Haas	Kristin Scott Thomas, Sean Penn	6.0	2
+1841	3579	Drama	I Dreamed of Africa	2000	Hugh Hudson	Kim Basinger, Vincent Perez	5.6	2
+1842	3581	Drama	Human Traffic	1999	Justin Kerrigan	John Simm, Lorraine Pilkington	7.1	2
+1843	3584	Action|Drama|Romance|Thriller	Breathless	1983	Jim McBride	Richard Gere, Valrie Kaprisky	5.7	2
+1845	3594	Drama	Center Stage	2000	Nicholas Hytner	Amanda Schull, Christine Dunham	6.7	2
+1852	3605	Drama|Musical	King Creole	1958	Michael Curtiz	Elvis Presley, Carolyn Jones	7.0	2
+1862	3621	Drama|Horror	Possession	1981	Andrzej Zulawski	Isabelle Adjani, Sam Neill	7.4	2
+1866	3628	Action|Drama|War	Flying Tigers	1942	David Miller	John Wayne, John Carroll	6.8	2
+1871	3637	Drama	Vagabond	1985	Agns Varda	Sandrine Bonnaire, Setti Ramdane	7.8	2
+1872	3636	Drama	Those Who Love Me Can Take the Train	1998	Patrice Chreau	Pascal Greggory, Valeria Bruni Tedeschi	6.6	2
+1875	3649	Drama	American Gigolo	1980	Paul Schrader	Richard Gere, Lauren Hutton	6.2	2
+1877	3657	Drama	Pandora and the Flying Dutchman	1951	Albert Lewin	James Mason, Ava Gardner	7.1	2
+1881	3668	Drama|Romance	Romeo and Juliet	1968	Franco Zeffirelli	Leonard Whiting, Olivia Hussey	7.7	2
+1889	3676	Drama|Horror	Eraserhead	1977	David Lynch	Jack Nance, Charlotte Stewart	7.4	2
+1900	3699	Adventure|Drama|Romance|Sci-Fi	Starman	1984	John Carpenter	Jeff Bridges, Karen Allen	7.0	2
+1908	3714	Drama	Clara's Heart	1988	Robert Mulligan	Whoopi Goldberg, Michael Ontkean	6.3	2
+1909	3711	Drama	Sarafina!	1992	Darrell Roodt	Leleti Khumalo, Whoopi Goldberg	6.4	2
+1915	3723	Drama	Hamlet	1990	Franco Zeffirelli	Mel Gibson, Glenn Close	6.8	2
+1916	3724	Drama|War	Coming Home	1978	Hal Ashby	Jane Fonda, Jon Voight	7.3	2
+1919	3731	Drama|Thriller	Cutter's Way	1981	Ivan Passer	Jeff Bridges, John Heard	6.9	2
+1920	3735	Crime|Drama	Serpico	1973	Sidney Lumet	Al Pacino, John Randolph	7.8	2
+1921	3734	Drama	Prince of the City	1981	Sidney Lumet	Treat Williams, Jerry Orbach	7.7	2
+1922	3737	Drama|Western	Lonely Are the Brave	1962	David Miller	Kirk Douglas, Gena Rowlands	7.7	2
+1925	3741	Crime|Drama	Badlands	1973	Terrence Malick	Martin Sheen, Sissy Spacek	7.9	2
+1929	3747	Drama	Jesus' Son	1999	Alison Maclean	Billy Crudup, Robert Michael Kelly	7.0	2
+1930	3750	Drama	Boricua's Bond	2000	Val Lik	Frankie Negron, Val Lik	3.8	2
+1933	3758	Drama|Sci-Fi|Thriller	Communion	1989	Philippe Mora	Christopher Walken, Lindsay Crouse	5.7	2
+1949	3783	Crime|Drama	Croupier	1998	Mike Hodges	Clive Owen, Nick Reding	7.2	2
+1950	3791	Drama	Footloose	1984	Herbert Ross	Kevin Bacon, Lori Singer	6.5	2
+1954	3801	Drama|Mystery	Anatomy of a Murder	1959	Otto Preminger	James Stewart, Lee Remick	8.1	2
+1957	3803	Drama	Greaser's Palace	1972	Robert Downey Sr.	Albert Henderson, Michael Sullivan	6.3	2
+1958	3800	Drama|Romance	Criminal Lovers	1999	Franois Ozon	Natacha Rgnier, Jrmie Renier	6.6	2
+1959	3805	Action|Adventure|Drama	Knightriders	1981	George A. Romero	Ed Harris, Gary Lahti	6.4	2
+1961	3810	Drama|Thriller	White Sands	1992	Roger Donaldson	Willem Dafoe, Mary Elizabeth Mastrantonio	6.0	2
+1963	3813	Drama	Interiors	1978	Woody Allen	Kristin Griffith, Mary Beth Hurt	7.6	2
+1965	3811	Drama|War	Breaker Morant	1980	Bruce Beresford	Edward Woodward, Jack Thompson	7.9	2
+1968	3824	Drama|Romance	Autumn in New York	2000	Joan Chen	Richard Gere, Winona Ryder	5.5	2
+1969	3825	Drama	Coyote Ugly	2000	David McNally	Piper Perabo, Adam Garcia	5.6	2
+1973	3834	Adventure|Drama|Romance	Bronco Billy	1980	Clint Eastwood	Clint Eastwood, Sondra Locke	6.0	2
+1983	3844	Drama	Steel Magnolias	1989	Herbert Ross	Sally Field, Dolly Parton	7.2	2
+1984	3848	Drama|Thriller	Silent Fall	1994	Bruce Beresford	Richard Dreyfuss, Linda Hamilton	5.9	2
+1990	3871	Drama|Western	Shane	1953	George Stevens	Alan Ladd, Jean Arthur	7.7	2
+1991	3870	Drama	Our Town	1940	Sam Wood	William Holden, Martha Scott	6.8	2
+1996	3888	Drama|Romance	Skipped Parts	2000	Tamra Davis	Drew Barrymore, Jennifer Jason Leigh	6.5	2
+1997	3891	Crime|Drama	Turn It Up	2000	Robert Adetuyi	Pras Michel, Ja Rule	4.4	2
+2000	3894	Drama	Solas	1999	Benito Zambrano	Mara Galiana, Ana Fernndez	7.7	2
+2005	3910	Drama|Musical	Dancer in the Dark	2000	Lars von Trier	Bjrk, Catherine Deneuve	8.0	2
+2008	3916	Drama	Remember the Titans	2000	Boaz Yakin	Denzel Washington, Will Patton	7.8	2
+2010	3915	Drama	Girlfight	2000	Karyn Kusama	Michelle Rodriguez, Jaime Tirelli	6.8	2
+2024	3946	Action|Drama|Thriller	Get Carter	2000	Stephen Kay	Sylvester Stallone, Miranda Richardson	5.1	2
+2030	3949	Drama	Requiem for a Dream	2000	Darren Aronofsky	Ellen Burstyn, Jared Leto	8.4	2
+2031	3951	Drama	Two Family House	2000	Raymond De Felitta	Michael Rispoli, Kelly Macdonald	7.3	2
+2032	3950	Drama	Tigerland	2000	Joel Schumacher	Colin Farrell, Matthew Davis	7.0	2
